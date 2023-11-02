@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/Credito/AbonosCreditoEfectivo" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/AbonosCreditoEfectivo" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/AbonosCreditoEfectivo">
+      <s:element name="AbonosEnEfectivo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="Caja" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AbonosEnEfectivoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AbonosEnEfectivoResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AbonosEnEfectivoSoapIn">
+    <wsdl:part name="parameters" element="tns:AbonosEnEfectivo" />
+  </wsdl:message>
+  <wsdl:message name="AbonosEnEfectivoSoapOut">
+    <wsdl:part name="parameters" element="tns:AbonosEnEfectivoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AbonosCreditoEfectivoSoap">
+    <wsdl:operation name="AbonosEnEfectivo">
+      <wsdl:input message="tns:AbonosEnEfectivoSoapIn" />
+      <wsdl:output message="tns:AbonosEnEfectivoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AbonosCreditoEfectivoSoap" type="tns:AbonosCreditoEfectivoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="AbonosEnEfectivo">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonosCreditoEfectivo/AbonosEnEfectivo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AbonosCreditoEfectivo">
+    <wsdl:port name="AbonosCreditoEfectivoSoap" binding="tns:AbonosCreditoEfectivoSoap">
+      <soap:address location="http://dpssvr/Credito/AbonosCreditoEfectivo.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

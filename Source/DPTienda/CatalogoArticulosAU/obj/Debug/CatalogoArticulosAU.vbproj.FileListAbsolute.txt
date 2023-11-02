@@ -1,0 +1,181 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoArticulosAU\obj\Debug\CatalogoArticulosAU.pdb

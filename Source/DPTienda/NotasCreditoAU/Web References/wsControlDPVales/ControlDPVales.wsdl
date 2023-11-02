@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://ws.dpportal.com.mx/Credito/ControlDPVales" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dpportal.com.mx/Credito/ControlDPVales" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dpportal.com.mx/Credito/ControlDPVales">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreateDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:DPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DPValeInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="DPValeID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoDPValeID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlmacenID" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FacturaID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaExpedicion" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaEntregado" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaAplicado" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="ClienteAsociado" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoUtilizado" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Plazo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteAsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DPValeOrigen" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ParesPzas" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoDPValeI" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoDPValeP" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateDPValeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateDPValeControl">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:DPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateDPValeControlResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateDPValeControlResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:DPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetDPValeResult" type="tns:DPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTiposAbonoList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTiposAbonoListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTiposAbonoListResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateDataFactura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:DPValeFacturaInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DPValeFacturaInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="DPValeID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoCaja" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FolioFactura" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="FacturaID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaFactura" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaEntregado" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ClienteAsociado" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteAsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Monto" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Devolucion" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoCobranza" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="ParesPzas" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoDPValeI" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoDPValeP" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdateDataFacturaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DPValeDevolucionUPD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:DPValeFacturaInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DPValeDevolucionUPDResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="SelDPValeMAX">
+        <s:complexType />
+      </s:element>
+      <s:element name="SelDPValeMAXResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelDPValeMAXResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllDPAvailable">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Asociado" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllDPAvailableResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllDPAvailableResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetValeValor">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="DPValeID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetValeValorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetValeValorResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateReVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:DPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateReValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateReValeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VentasDPValeDelDia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Folios" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VentasDPValeDelDiaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="VentasDPValeDelDiaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VentaDPValeCR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oDPValeFacturaInfo" type="tns:DPValeFacturaInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="oRevale" type="tns:DPValeInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="oMovimiento" type="tns:MovimientosInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="MovimientosInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="FechaMovimiento" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoAlmacen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoCaja" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FolioMovimiento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="TipoDocumento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Cargo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Abono" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Mes" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Año" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Referencia" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plaza" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="VentaDPValeCRResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="VentaDPValeCRResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VentaDPValeSR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oDPValeFacturaInfo" type="tns:DPValeFacturaInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="oMovimiento" type="tns:MovimientosInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VentaDPValeSRResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CreateDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateDPVale" />
+  </wsdl:message>
+  <wsdl:message name="CreateDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreateDPValeControlSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateDPValeControl" />
+  </wsdl:message>
+  <wsdl:message name="CreateDPValeControlSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateDPValeControlResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateDPVale" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDPVale" />
+  </wsdl:message>
+  <wsdl:message name="GetDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTiposAbonoListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTiposAbonoList" />
+  </wsdl:message>
+  <wsdl:message name="GetTiposAbonoListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTiposAbonoListResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteDPVale" />
+  </wsdl:message>
+  <wsdl:message name="DeleteDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDataFacturaSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateDataFactura" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDataFacturaSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateDataFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="DPValeDevolucionUPDSoapIn">
+    <wsdl:part name="parameters" element="tns:DPValeDevolucionUPD" />
+  </wsdl:message>
+  <wsdl:message name="DPValeDevolucionUPDSoapOut">
+    <wsdl:part name="parameters" element="tns:DPValeDevolucionUPDResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelDPValeMAXSoapIn">
+    <wsdl:part name="parameters" element="tns:SelDPValeMAX" />
+  </wsdl:message>
+  <wsdl:message name="SelDPValeMAXSoapOut">
+    <wsdl:part name="parameters" element="tns:SelDPValeMAXResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllDPAvailableSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllDPAvailable" />
+  </wsdl:message>
+  <wsdl:message name="GetAllDPAvailableSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllDPAvailableResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetValeValorSoapIn">
+    <wsdl:part name="parameters" element="tns:GetValeValor" />
+  </wsdl:message>
+  <wsdl:message name="GetValeValorSoapOut">
+    <wsdl:part name="parameters" element="tns:GetValeValorResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreateReValeSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateReVale" />
+  </wsdl:message>
+  <wsdl:message name="CreateReValeSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateReValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="VentasDPValeDelDiaSoapIn">
+    <wsdl:part name="parameters" element="tns:VentasDPValeDelDia" />
+  </wsdl:message>
+  <wsdl:message name="VentasDPValeDelDiaSoapOut">
+    <wsdl:part name="parameters" element="tns:VentasDPValeDelDiaResponse" />
+  </wsdl:message>
+  <wsdl:message name="VentaDPValeCRSoapIn">
+    <wsdl:part name="parameters" element="tns:VentaDPValeCR" />
+  </wsdl:message>
+  <wsdl:message name="VentaDPValeCRSoapOut">
+    <wsdl:part name="parameters" element="tns:VentaDPValeCRResponse" />
+  </wsdl:message>
+  <wsdl:message name="VentaDPValeSRSoapIn">
+    <wsdl:part name="parameters" element="tns:VentaDPValeSR" />
+  </wsdl:message>
+  <wsdl:message name="VentaDPValeSRSoapOut">
+    <wsdl:part name="parameters" element="tns:VentaDPValeSRResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ControlDPValesSoap">
+    <wsdl:operation name="CreateDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Crea un DPortenis Vale</documentation>
+      <wsdl:input message="tns:CreateDPValeSoapIn" />
+      <wsdl:output message="tns:CreateDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateDPValeControl">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Crea un DPortenis Vale</documentation>
+      <wsdl:input message="tns:CreateDPValeControlSoapIn" />
+      <wsdl:output message="tns:CreateDPValeControlSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza los datos de un Dportenis Vale</documentation>
+      <wsdl:input message="tns:UpdateDPValeSoapIn" />
+      <wsdl:output message="tns:UpdateDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa la información de un DPortenis Vale</documentation>
+      <wsdl:input message="tns:GetDPValeSoapIn" />
+      <wsdl:output message="tns:GetDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTiposAbonoList">
+      <wsdl:input message="tns:GetTiposAbonoListSoapIn" />
+      <wsdl:output message="tns:GetTiposAbonoListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDPVale">
+      <wsdl:input message="tns:DeleteDPValeSoapIn" />
+      <wsdl:output message="tns:DeleteDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDataFactura">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Registra o Actualiza los Datos de una Factura con DPortenis Vale</documentation>
+      <wsdl:input message="tns:UpdateDataFacturaSoapIn" />
+      <wsdl:output message="tns:UpdateDataFacturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DPValeDevolucionUPD">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza Saldos de Asociados y Facturas en una devolución DPortenis Vale</documentation>
+      <wsdl:input message="tns:DPValeDevolucionUPDSoapIn" />
+      <wsdl:output message="tns:DPValeDevolucionUPDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelDPValeMAX">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa el Folio del ultimo vale Generado</documentation>
+      <wsdl:input message="tns:SelDPValeMAXSoapIn" />
+      <wsdl:output message="tns:SelDPValeMAXSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDPAvailable">
+      <wsdl:input message="tns:GetAllDPAvailableSoapIn" />
+      <wsdl:output message="tns:GetAllDPAvailableSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetValeValor">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa si un DPVale es Válido o No</documentation>
+      <wsdl:input message="tns:GetValeValorSoapIn" />
+      <wsdl:output message="tns:GetValeValorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateReVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Inserta un ReVale Generado Por Factura</documentation>
+      <wsdl:input message="tns:CreateReValeSoapIn" />
+      <wsdl:output message="tns:CreateReValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VentasDPValeDelDia">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Retorna los DPVale Utilizados</documentation>
+      <wsdl:input message="tns:VentasDPValeDelDiaSoapIn" />
+      <wsdl:output message="tns:VentasDPValeDelDiaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VentaDPValeCR">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">WS para ventas DPVale con Revale</documentation>
+      <wsdl:input message="tns:VentaDPValeCRSoapIn" />
+      <wsdl:output message="tns:VentaDPValeCRSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VentaDPValeSR">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">WS para ventas DPVale sin Revale</documentation>
+      <wsdl:input message="tns:VentaDPValeSRSoapIn" />
+      <wsdl:output message="tns:VentaDPValeSRSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ControlDPValesSoap" type="tns:ControlDPValesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="CreateDPVale">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/CreateDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateDPValeControl">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/CreateDPValeControl" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDPVale">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/UpdateDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDPVale">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/GetDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTiposAbonoList">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/GetTiposAbonoList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDPVale">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/DeleteDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDataFactura">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/UpdateDataFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DPValeDevolucionUPD">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/DPValeDevolucionUPD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelDPValeMAX">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/SelDPValeMAX" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDPAvailable">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/GetAllDPAvailable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetValeValor">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/GetValeValor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateReVale">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/CreateReVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VentasDPValeDelDia">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/VentasDPValeDelDia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VentaDPValeCR">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/VentaDPValeCR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VentaDPValeSR">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/Credito/ControlDPVales/VentaDPValeSR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ControlDPVales">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/" />
+    <wsdl:port name="ControlDPValesSoap" binding="tns:ControlDPValesSoap">
+      <soap:address location="http://pcerick/credito/ControlDPVales.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

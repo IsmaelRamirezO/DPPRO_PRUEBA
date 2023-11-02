@@ -1,0 +1,343 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Security.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Security.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\Debug\ApplicationUnits.Traspasos.TraspasosSalida.pdb

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3780" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptTicketSeguro.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="18163" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtMontoSeguro" MOD="4" Left="90" Top="6030" Width="2430" Height="270" Text="" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label23" MOD="4" Left="90" Top="9720" Width="3600" Height="540" Caption="donde también podrá conocer que hacer en caso de siniestro." Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="746.5746" Top="1080" Width="2286.851" Height="288" Caption="Ticket de Venta" Style="text-align: center; font-weight: bold; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="90" Top="1440" Width="810" Height="288" Caption="Caja:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="900" Top="1800" Width="1170" Height="270" Text="99/99/9999" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="90" Top="1800" Width="810" Height="288" Caption="Fecha:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtCaja" MOD="4" Left="900" Top="1440" Width="2790" Height="270" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="2070" Top="1800" Width="540" Height="288" Caption="Hora:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtHora" MOD="4" Left="2610" Top="1800" Width="1080" Height="270" Text="00:00:00" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblLeyenda1" MOD="4" Left="90" Top="2160" Width="3600" Height="270" Caption="************** ¡Felicidades! **************" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblLeyenda2" MOD="4" Left="90" Top="2430" Width="3600" Height="540" Caption="A partir del día de hoy, estás disfrutando del beneficio exclusivo que" Style="text-align: justify; " />
+      <Control Type="AR.Field" Name="txtAseguradora" MOD="4" Left="90" Top="2970" Width="3600" Height="540" Text="" Style="text-align: left; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="90" Top="3960" Width="1350" Height="288" Caption="No. Canjeante:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNoCanjeante" MOD="4" Left="1440" Top="3960" Width="2250" Height="270" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="90" Top="4230" Width="1350" Height="288" Caption="Canjeante:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtCanjeante" MOD="4" Left="1440" Top="4230" Width="2250" Height="540" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="90" Top="4770" Width="1350" Height="288" Caption="RFC:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtRFC" MOD="4" Left="1440" Top="4770" Width="2250" Height="270" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSexo" MOD="4" Left="1440" Top="5040" Width="2250" Height="270" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="90" Top="5040" Width="1350" Height="288" Caption="Sexo:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="90" Top="5490" Width="810" Height="288" Caption="Por solo" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtImporteFinanciamiento" MOD="4" Left="900" Top="5490" Width="1890" Height="270" Text="" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="2790" Top="5490" Width="900" Height="288" Caption="tu suma" Style="text-align: right; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="90" Top="5760" Width="3600" Height="270" Caption="asegurada por fallecimiento es de            s" Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label14" MOD="4" Left="2520" Top="6030" Width="1170" Height="288" Caption="con vigencia" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtVigencia" MOD="4" Left="360" Top="6300" Width="1800" Height="270" Text="" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label15" MOD="4" Left="90" Top="6300" Width="270" Height="288" Caption="a" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="2160" Top="6300" Width="1530" Height="288" Caption="Con edades de" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label18" MOD="4" Left="746.5746" Top="7290" Width="2286.851" Height="288" Caption="Seguro de Vida" Style="text-align: center; font-weight: bold; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label19" MOD="4" Left="90" Top="7650" Width="1350" Height="288" Caption="No. Poliza:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNoPoliza" MOD="4" Left="1440" Top="7650" Width="2250" Height="270" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label20" MOD="4" Left="90" Top="7920" Width="1350" Height="288" Caption="Beneficiarios:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtBeneficiarios" MOD="4" Left="90" Top="8190" Width="3600" Height="540" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label21" MOD="4" Left="90" Top="8910" Width="3600" Height="270" Caption="Consulta tus condiciones en:" Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtDireccionFinanciador" MOD="4" Left="90" Top="9180" Width="3600" Height="270" Text="" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label22" MOD="4" Left="90" Top="9450" Width="360" Height="288" Caption="o al" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTelefonoFinanciador" MOD="4" Left="450" Top="9450" Width="3240" Height="270" Text="" Style="font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label25" MOD="4" Left="90" Top="10440" Width="3600" Height="720" Caption="Para mayor infomación sobre la renovación o cancelación de la póliza, favor de comunicarse al télefono," Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTelefonoInformacion" MOD="4" Left="90" Top="11160" Width="3600" Height="270" Text="" Style="text-align: center; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label26" MOD="4" Left="90" Top="11970" Width="3600" Height="990" Caption="hace de su conocimiento que sus datos personales recabados se tratarán para todos los fines vinculados con la relación jurídica celebrada." Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtAseguradora2" MOD="4" Left="90" Top="11520" Width="3600" Height="450" Text="" Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label34" MOD="4" Left="90" Top="17730" Width="3600" Height="360" Caption="DP Seguros un producto de DP VALE" Style="text-align: center; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label33" MOD="4" Left="90" Top="17010" Width="3600" Height="540" Caption="Visite nuestra página en www.excelenciaseguros.com" Style="text-align: center; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label32" MOD="4" Left="90" Top="16650" Width="3600" Height="270" Caption="Firma del Asegurado" Style="text-align: center; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label31" MOD="4" Left="90" Top="16380" Width="3600" Height="270" Caption="_______________________________" Style="text-align: center; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label30" MOD="4" Left="90" Top="15030" Width="3600" Height="810" Caption="IFE del Fallecido, IFE del Beneficiario y el presente documento que debe estar firmado por el asegurado." Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label29" MOD="4" Left="90" Top="14400" Width="3600" Height="540" Caption="Certificado y Acta de defunción del asegurado." Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label28" MOD="4" Left="90" Top="13770" Width="3600" Height="450" Caption="DOCUMENTACIÓN NECESARIA PARA COBRAR EL SEGURO DE VIDA:" Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtDireccionFinanciador2" MOD="4" Left="90" Top="13320" Width="3600" Height="270" Text="" Style="text-align: center; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label27" MOD="4" Left="90" Top="13050" Width="3600" Height="270" Caption="Consulte el aviso íntegro en:" Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="90" Top="90" Width="1260" Height="288" Caption="Plaza:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="90" Top="360" Width="1260" Height="288" Caption="Expedido en:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtPlaza" MOD="4" Left="1350" Top="90" Width="1080" Height="270" Text="" Style="font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtCiudad" MOD="4" Left="1350" Top="360" Width="2340" Height="270" Text="" Style="font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtDireccion" MOD="4" Left="90" Top="630" Width="3600" Height="270" Text="" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="90" Top="6570" Width="3600" Height="540" Caption="aceptación de 18 hasta los 70 años de edad. NO CUBRE SUICIDIO." Style="text-align: justify; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label35" MOD="4" Left="90" Top="3510" Width="3600" Height="270" Caption="brinda a sus clientes." Style="text-align: justify; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="432" RightMargin="0" TopMargin="0" BottomMargin="0" />
+</ActiveReportsLayout>

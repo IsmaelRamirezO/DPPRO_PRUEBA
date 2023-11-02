@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3705" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptRevale.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="6584" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="738.425" Top="0" Width="2286.851" Height="288" Caption="Dportenis Vale (Re-Vale)" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="1535.669" Top="680.315" Width="1440" Height="288" Caption="Fecha Impresión" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="1535.669" Top="396.8504" Width="902.1265" Height="288" Caption="Folio" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Barcode" Name="barCode" MOD="4" Left="56.69291" Top="396.8504" Width="1417.323" Height="453.5433" BarStyle="16" Text="0" Checksum="0" />
+      <Control Type="AR.Image" Name="pFirma" MOD="4" Left="566.9291" Top="4948.583" Width="2211.024" Height="1247.244" BackColor="16777215" BackStyle="1" LineColor="16777215" LineWeight="0" HyperLink="" SizeMode="1" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="113.3858" Top="2891.339" Width="1757.48" Height="288" Caption="Domicilio" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="113.3858" Top="3644.646" Width="1757.48" Height="288" Caption="Teléfono" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="113.3858" Top="1990.629" Width="1757.48" Height="288" Caption="Valido Hasta:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="113.3858" Top="2274.094" Width="1984.252" Height="288" Caption="Súrtase por este Vale a:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="113.3858" Top="1644.095" Width="1757.48" Height="288" Caption="Fecha exp." Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="113.3858" Top="1360.63" Width="1870.866" Height="288" Caption="Vale Origen:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="170.0788" Top="4658.741" Width="1700.787" Height="288" Caption="Fimar del Asociado:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="113.3858" Top="4205.197" Width="1757.48" Height="288" Caption="Con Letra:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="113.3858" Top="3928.11" Width="1757.48" Height="288" Caption="Importe:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFolio" MOD="4" Left="2494.488" Top="396.8504" Width="1077.165" Height="288" Text="TextBox1" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtOrigen" MOD="4" Left="2097.638" Top="1360.63" Width="1050.237" Height="288" Text="TextBox2" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFechaExp" MOD="4" Left="2097.638" Top="1700.787" Width="1050.237" Height="288" Text="TextBox3" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFechaVigencia" MOD="4" Left="2097.638" Top="1984.252" Width="1050.237" Height="288" Text="TextBox4" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtClienteAsociado" MOD="4" Left="113.3858" Top="2551.181" Width="3514.961" Height="288" Text="TextBox5" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtDomicilio" MOD="4" Left="113.3858" Top="3288.189" Width="3571.654" Height="288" Text="TextBox6" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtTelefono" MOD="4" Left="2097.638" Top="3644.646" Width="1587.401" Height="288" Text="TextBox7" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtCantidad" MOD="4" Left="2097.638" Top="3928.11" Width="1050.237" Height="288" Text="TextBox8" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtImporteLetra" MOD="4" Left="2097.638" Top="4211.575" Width="1417.323" Height="288" Text="TextBox9" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtAsociado" MOD="4" Left="113.3858" Top="6236.22" Width="3458.268" Height="288" Text="TextBox10" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="1700.787" Top="907.0866" Width="1077.165" Height="288" Text="TextBox1" Style="font-size: 8.25pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="57" RightMargin="57" TopMargin="57" BottomMargin="57" GutterMargin="57" PaperSize="0" PaperWidth="4252" PaperHeight="56693" PaperName="Custom paper" PaperBin="257" PaperBinName="Receipt" />
+</ActiveReportsLayout>

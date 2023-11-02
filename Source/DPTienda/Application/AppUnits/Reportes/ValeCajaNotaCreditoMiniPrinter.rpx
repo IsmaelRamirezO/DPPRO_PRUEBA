@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3990.24" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="ValeCajaNotaCreditoMiniPrinter.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="2685" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="770.315" Top="23.38583" Width="2806.299" Height="226.7717" Caption="VALE DE CAJA" Style="text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" Visible="0" MOD="4" Left="2348.504" Top="1834.56" Width="441.4961" Height="270" Caption="Folio:" Style="ddo-char-set: 0; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="368.5039" Top="1173.543" Width="765.3543" Height="270" Caption="FECHA :" Style="ddo-char-set: 0; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbCliente" MOD="4" Left="368.5039" Top="1493.858" Width="3486.614" Height="270" Text="tbCliente" Style="ddo-char-set: 0; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbFolio" Visible="0" MOD="4" Left="2790" Top="1834.56" Width="1080" Height="270" Text="tbFolio" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbFecha" MOD="4" Left="1207.558" Top="1173.543" Width="1943.859" Height="270" Text="tbFecha" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="368.5039" Top="1834.016" Width="1388.976" Height="272.126" Caption="DOCTO. ORIGEN :" Style="ddo-char-set: 0; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDocumentoTipo" MOD="4" Left="1747.559" Top="1834.016" Width="592.441" Height="270" Text="tbDocumentoTipo" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="368.5039" Top="464.173" Width="801.4961" Height="270" Caption="FOLIO :" Style="ddo-char-set: 0; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDocumentoFolio" MOD="4" Left="1260" Top="464.173" Width="1980" Height="270" Text="tbDocumentoFolio" Style="ddo-char-set: 0; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="368.5039" Top="2177.717" Width="878.7402" Height="270" Caption="IMPORTE :" Style="ddo-char-set: 0; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDocumentoImporte" MOD="4" Left="1837.559" Top="2177.717" Width="2017.559" Height="270" Text="tbDocumentoImporte" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="838" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="360" Top="0" Width="1440" Height="270" Caption="MOVIMIENTOS :" Style="ddo-char-set: 0; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="360" Top="543.5431" Width="992.1259" Height="226.7717" Caption="Factura" Style="ddo-char-set: 0; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="1380.472" Top="544.2521" Width="1218.898" Height="226.7717" Caption="TDC" Style="ddo-char-set: 0; text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="2712.756" Top="544.2521" Width="1167.874" Height="226.7717" Caption="Vale Caja" Style="ddo-char-set: 0; text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbFactura" MOD="4" Left="368.5039" Top="0" Width="992.1259" Height="270" Text="TbFactura" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTipoVentaMonto" MOD="4" Left="4875.591" Top="0" Width="1170" Height="270" Text="tbTipoVentaMonto" OutputFormat="#,##0.00;(#,##0.00)" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTCredito" MOD="4" Left="1390.63" Top="0" Width="1217.244" Height="270" Text="tbTCredito" OutputFormat="#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbValeCaja" MOD="4" Left="2592" Top="0" Width="1170" Height="270" Text="tbValeCaja" OutputFormat="#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbNoAutorizacionTDC" MOD="4" Left="7680.473" Top="0" Width="1730.551" Height="270" Text="tbNoAutorizacionTDC" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbNoTarjetaCredito" MOD="4" Left="6009.449" Top="0" Width="1587.401" Height="270" Text="tbNoTarjetaCredito" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="1634" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbTotalTipoVentaMonto" MOD="4" Left="368.5039" Top="203.3858" Width="992.1259" Height="270" Text="tbTotalTipoVentaMonto" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-weight: bold; font-size: 8.25pt; font-family: Arial; " SummaryType="1" />
+      <Control Type="AR.Field" Name="tbTotalTDC" MOD="4" Left="1450.63" Top="203.3858" Width="1133.858" Height="270" Text="tbTotalTDC" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-weight: bold; font-size: 8.25pt; font-family: Arial; " SummaryType="1" />
+      <Control Type="AR.Field" Name="tbTotalValeCaja" MOD="4" Left="2721.26" Top="203.3858" Width="1133.858" Height="270" Text="tbTotalValeCaja" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-weight: bold; font-size: 8.25pt; font-family: Arial; " SummaryType="1" />
+      <Control Type="AR.Label" Name="lblExpira" MOD="4" Left="360" Top="810.72" Width="3514.961" Height="793.7007" Caption="El presente documento tiene validez durante los siguientes 45 dias después de su fecha de expedición." Style="text-align: justify; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="120" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" />
+</ActiveReportsLayout>

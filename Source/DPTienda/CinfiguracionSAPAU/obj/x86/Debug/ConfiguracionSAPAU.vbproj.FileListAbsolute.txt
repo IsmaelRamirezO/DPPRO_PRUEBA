@@ -1,0 +1,2 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\x86\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\x86\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache

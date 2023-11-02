@@ -1,0 +1,1036 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Interop.SAPTableFactoryCtrl.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.Asociados.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.Clientes.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.CatalogoPlazas.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.CatalogoTipoDescuento.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.Asociados.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.Clientes.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.CatalogoPlazas.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.Asociados.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.Clientes.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.CatalogoPlazas.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.COM.CatalogoTipoDescuento.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\ValeCajaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\AbonosDPVale.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FingerPrintAU\bin\CatalogoBancosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ProcesosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Interop.IRFC32Lib.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\NotasCreditoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasCorridaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\FacturasFormaPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Newtonsoft.Json.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\ERPConnectLIC.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\obj\Debug\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FingerPrintAU\bin\AjusteGeneralTalla.xml

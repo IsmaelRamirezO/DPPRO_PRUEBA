@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NotasCreditoAU
+</name>
+</assembly>
+<members>
+<member name="M:DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.NotasCreditoMasivoManager.CreaEstructuraDatos">
+	<summary>
+ Función para crear el esquema de la tabla necesaria para la validacion de notas de crédito y facturas
+ </summary>
+	<returns>Objeto datatable vacía con la estructura requerida</returns>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.NotasCreditoMasivoManager.ValidaArchivo(System.String,System.String@)">
+	<summary>
+ Función para validar el contenido de un archivo y regresar la tabla con el resultado de la validación de cada registro
+ </summary>
+	<param name="NombreArchivo">Path completo al archivo a cargar</param>
+	<returns>Object datatable </returns>
+	<remarks>
+ La función viene como resultado de un FileDialog por lo que se intuye que existe y es del formato requerido
+ </remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.NotasCreditoMasivoManager.ValidaCaptura(System.String,System.Data.DataRow@,System.Data.DataTable@,System.Data.DataTable@)">
+	<summary>
+ Función que valida un registro de nota de crédito, para captura masiva
+ </summary>
+	<param name="RegistroTexto">texto separado por comas con los valores de la nota de crédito</param>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.NotasCreditoMasivoManager.ValidaValoresNota(System.Data.DataRow@,System.Data.DataTable@,System.String)">
+	<summary>
+ Funnción para realizar las validaciones de los registros del archivo
+ </summary>
+	<param name="Registro">Datarow con los datos del registro leido</param>
+	<param name="Prefijo">vacio o F para los datos que son de la sección de facturación</param>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.NotasCreditoMasivoManager.ValidaValoresFactura(System.Data.DataRow@,System.String)">
+	<summary>
+ Funnción para realizar las validaciones de los registros del archivo
+ </summary>
+	<param name="Registro">Datarow con los datos del registro leido</param>
+	<param name="Prefijo">vacio o F para los datos que son de la sección de facturación</param>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.NotasCreditoMasivoManager.ObtenerDato(System.String)">
+	<summary>
+ Transforma el valor de una columna en un valor removiendo el formato
+ elimina " , $
+ </summary>
+	<param name="Valor">Valor a procesar</param>
+	<returns>Lista de valores procesados</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10275" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="ActRptMasVendidos.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="1724" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="LblTitulo" MOD="4" Left="113.3858" Top="136.7717" Width="10091.34" Height="453.5433" Caption="Reporte de los  N articulos mas Vendidos" Style="text-align: center; font-weight: bold; font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="LblFechas" MOD="4" Left="113.3858" Top="1020.472" Width="10091.34" Height="340.1575" Caption="del  01/01/2006 al 01/02/2006" Style="text-align: center; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="23.38583" Top="1517.244" Width="793.7009" Height="226.7716" Caption="Familia" />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="3174.803" Top="1517.244" Width="2154.331" Height="226.7717" Caption="TALLAS / CANTIDAD" />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="907.0866" Top="1517.244" Width="907.0866" Height="226.7717" Caption="Linea" />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="113.3858" Top="590.315" Width="10091.34" Height="340.1575" Text="Almacen" Style="text-align: center; font-size: 14.25pt; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="435" DataField="Familia" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox4" DataField="Familia" MOD="4" Left="23.38581" Top="0" Width="2948.032" Height="288" Text="Familia" />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="2948.031" Y1="340.1575" X2="0" Y2="340.1575" />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader2" Height="374" DataField="Linea" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox5" DataField="Linea" MOD="4" Left="907.0866" Top="0" Width="2154.331" Height="288" Text="Linea" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="2381.102" Top="363.5433" Width="1927.559" Height="8.447902E-06" Caption="Label4" />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="1927.559" Top="113.3858" Width="1927.559" Height="8.447902E-06" Caption="Label5" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="4875.591" Top="226.7717" Width="1927.559" Height="8.447902E-06" Caption="Label6" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="3061.417" Y1="340.1575" X2="907.0866" Y2="340.1575" LineStyle="5" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="974" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox1" DataField="CodArticulo" MOD="4" Left="1247.244" Top="0" Width="1587.401" Height="226.7717" Text="CodArticulo" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox6" DataField="t01" MOD="4" Left="2881.418" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox8" DataField="t02" MOD="4" Left="3248.188" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox10" DataField="t03" MOD="4" Left="3614.957" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox12" DataField="t04" MOD="4" Left="3981.727" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox14" DataField="t05" MOD="4" Left="4348.497" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox16" DataField="t06" MOD="4" Left="4715.266" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox18" DataField="t07" MOD="4" Left="5082.036" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox20" DataField="t08" MOD="4" Left="5448.805" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox22" DataField="t09" MOD="4" Left="5815.575" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox24" DataField="t10" MOD="4" Left="6182.345" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox27" DataField="t11" MOD="4" Left="6549.114" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox29" DataField="t12" MOD="4" Left="6915.884" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox31" DataField="t13" MOD="4" Left="7282.654" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox33" DataField="t14" MOD="4" Left="7649.422" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox35" DataField="t15" MOD="4" Left="8016.193" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox37" DataField="t16" MOD="4" Left="8382.963" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox39" DataField="t17" MOD="4" Left="8749.732" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox41" DataField="t18" MOD="4" Left="9116.502" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox43" DataField="t19" MOD="4" Left="9483.271" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox45" DataField="t20" MOD="4" Left="9850.041" Top="0" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox48" DataField="s14" MOD="4" Left="7648.004" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox49" DataField="s15" MOD="4" Left="8014.775" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox50" DataField="s13" MOD="4" Left="7281.236" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox52" DataField="s11" MOD="4" Left="6547.696" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox53" DataField="s12" MOD="4" Left="6914.466" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox54" DataField="s19" MOD="4" Left="9481.854" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox55" DataField="s20" MOD="4" Left="9848.623" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox56" DataField="s18" MOD="4" Left="9115.084" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox57" DataField="s16" MOD="4" Left="8381.545" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox58" DataField="s17" MOD="4" Left="8748.314" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox59" DataField="s04" MOD="4" Left="3980.309" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox60" DataField="s04" MOD="4" Left="4347.079" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox61" DataField="s03" MOD="4" Left="3613.539" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox62" DataField="S01" MOD="4" Left="2880" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox63" DataField="s02" MOD="4" Left="3246.77" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox64" DataField="s09" MOD="4" Left="5814.157" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox65" DataField="s10" MOD="4" Left="6180.927" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox66" DataField="s08" MOD="4" Left="5447.388" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox67" DataField="s06" MOD="4" Left="4713.848" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox51" DataField="s07" MOD="4" Left="5080.618" Top="723.5433" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="1396.771" Top="723.5433" Width="1360.63" Height="226.7717" Caption="Alm. Resurtido" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="1850.315" Top="496.7717" Width="907.0867" Height="226.7717" Caption="Existencias" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox46" DataField="c20" MOD="4" Left="9850.041" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox44" DataField="c19" MOD="4" Left="9483.271" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox42" DataField="c18" MOD="4" Left="9116.502" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox40" DataField="c17" MOD="4" Left="8749.731" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox38" DataField="c16" MOD="4" Left="8382.963" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox36" DataField="c15" MOD="4" Left="8016.192" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox34" DataField="c14" MOD="4" Left="7649.422" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox32" DataField="c13" MOD="4" Left="7282.653" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox30" DataField="c12" MOD="4" Left="6915.884" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox28" DataField="c11" MOD="4" Left="6549.114" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox25" DataField="c10" MOD="4" Left="6182.345" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox23" DataField="c09" MOD="4" Left="5815.574" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox21" DataField="c08" MOD="4" Left="5448.805" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox19" DataField="c07" MOD="4" Left="5082.036" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox17" DataField="c06" MOD="4" Left="4715.266" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox15" DataField="c05" MOD="4" Left="4348.496" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox13" DataField="c04" MOD="4" Left="3981.727" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox11" DataField="c03" MOD="4" Left="3614.957" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox9" DataField="c02" MOD="4" Left="3248.187" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox7" DataField="c01" MOD="4" Left="2881.417" Top="496.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="1850.315" Top="226.7717" Width="907.0867" Height="226.7717" Caption="Vendidos" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox68" DataField="v20" MOD="4" Left="9850.041" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox69" DataField="v19" MOD="4" Left="9483.271" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox70" DataField="v18" MOD="4" Left="9116.502" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox71" DataField="v17" MOD="4" Left="8749.731" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox72" DataField="v16" MOD="4" Left="8382.963" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox73" DataField="v15" MOD="4" Left="8016.192" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox74" DataField="v14" MOD="4" Left="7649.422" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox75" DataField="v13" MOD="4" Left="7282.653" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox76" DataField="v12" MOD="4" Left="6915.884" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox77" DataField="v11" MOD="4" Left="6549.114" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox78" DataField="v10" MOD="4" Left="6182.345" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox79" DataField="v09" MOD="4" Left="5815.574" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox80" DataField="v08" MOD="4" Left="5448.805" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox81" DataField="v07" MOD="4" Left="5082.036" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox82" DataField="v06" MOD="4" Left="4715.266" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox83" DataField="v05" MOD="4" Left="4348.496" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox84" DataField="v04" MOD="4" Left="3981.727" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox85" DataField="v03" MOD="4" Left="3614.957" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox86" DataField="v02" MOD="4" Left="3248.187" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+      <Control Type="AR.Field" Name="TextBox87" DataField="V01" MOD="4" Left="2881.417" Top="226.7717" Width="366.7697" Height="226.7717" Text="" Style="text-align: right; font-size: 6.75pt; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter2" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="15" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <DataSources>
+    <SqlDbDataSource ConnectE="yMOynzSQ9UKW44Cx74knRfhGCIc3/AJvBbeBMhjFK4saCKjbZdp0ouCnud4kd5UHCd4dd6NsJRcCcaME36w38yZNoHgr9g8gGWeRI8siRgZqdt1SJ2yglDIMaAexP8KMj2tRTiTUVgQQgg9pHOr4VD7D9wphoRlJdUzZHhl7awU=" SQL="SELECT     TOP 20 FacturaCorrida.CodArticulo, SUM(FacturaCorrida.Cantidad) AS TotalVendido, FacturaCorrida.Numero, CatalogoLineas.Descripcion AS Linea, &#xD;&#xA;                      CatalogoFamilias.Descripcion AS Familia&#xD;&#xA;FROM         FacturaCorrida INNER JOIN&#xD;&#xA;                      CatalogoArticulos ON FacturaCorrida.CodArticulo = CatalogoArticulos.CodArticulo INNER JOIN&#xD;&#xA;                      CatalogoLineas ON CatalogoArticulos.CodLinea = CatalogoLineas.CodLinea INNER JOIN&#xD;&#xA;                      CatalogoFamilias ON CatalogoArticulos.CodFamilia = CatalogoFamilias.CodFamilia&#xD;&#xA;WHERE     (FacturaCorrida.Fecha BETWEEN '01/01/2006' AND '01/02/2006')&#xD;&#xA;GROUP BY FacturaCorrida.CodArticulo, FacturaCorrida.Numero, CatalogoLineas.Descripcion, CatalogoFamilias.Descripcion&#xD;&#xA;ORDER BY SUM(FacturaCorrida.Cantidad) DESC, CatalogoFamilias.Descripcion, CatalogoLineas.Descripcion, FacturaCorrida.CodArticulo" />
+  </DataSources>
+  <PageSettings LeftMargin="850" RightMargin="850" TopMargin="1134" BottomMargin="1134" />
+</ActiveReportsLayout>

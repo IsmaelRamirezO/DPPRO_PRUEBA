@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="8220" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="CierreDiaCancelacionApartados.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="1215" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="0" Width="8190" Height="1170" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2700" Top="0" Width="2970" Height="270" Caption="Reporte de Cancelación Apartados" Style="text-align: center; font-weight: bold; font-size: 8pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="90" Top="0" Width="720" Height="270" Caption="Fecha :" Style="font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="90" Top="900" Width="1440" Height="270" Caption="Folio Apartado" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="1620" Top="900" Width="1440" Height="270" Caption="Folio Abono" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="3150" Top="900" Width="1710" Height="270" Caption="Abono" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="4950" Top="900" Width="1530" Height="270" Caption="Usuario" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="6570" Top="900" Width="1530" Height="270" Caption="Fecha" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="0" Y1="810" X2="8190" Y2="810" />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="2520" Top="270" Width="404.646" Height="260.7876" Caption="De:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblFechaDE" MOD="4" Left="2970" Top="270" Width="1394.646" Height="260.7876" Caption="LblFechaDE" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="4410" Top="270" Width="404.646" Height="260.7876" Caption="Al:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblFechaAL" MOD="4" Left="4770" Top="270" Width="1394.646" Height="260.7876" Caption="LblFechaAL" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="1350" Top="540" Width="810" Height="260.7876" Caption="Sucursal:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblSucursal" MOD="4" Left="2340.001" Top="540" Width="4965.59" Height="260.7876" Caption="LblSucursal" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="810" Top="0" Width="1260" Height="288" Caption="Fecha" Style="font-size: 8.25pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="225" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbFolioApartado" MOD="4" Left="150" Top="0" Width="1380" Height="270" Text="" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbFolioAbono" MOD="4" Left="1620" Top="0" Width="1440" Height="270" Text="" OutputFormat="" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbAbono" MOD="4" Left="3150" Top="0" Width="1710" Height="270" Text="" OutputFormat="#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbUsuario" MOD="4" Left="4950" Top="0" Width="1530" Height="270" Text="" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbFecha" MOD="4" Left="6570" Top="0" Width="1530" Height="270" Text="" OutputFormat="dd-MMM-yyyy" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Arial; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="419" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="8190" Height="360" BackColor="16777215" />
+      <Control Type="AR.Field" Name="tbTotalAbono" MOD="4" Left="3150" Top="0" Width="1710" Height="270" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Arial; " SummaryType="2" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" TopMargin="1417" BottomMargin="567" Orientation="1" />
+</ActiveReportsLayout>

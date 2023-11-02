@@ -1,0 +1,3 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TomadeInventarioAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.TomadeInventarioAU.rptTomadeInventario.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TomadeInventarioAU\obj\x86\Debug\TomadeInventarioAU.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TomadeInventarioAU\obj\x86\Debug\TomadeInventarioAU.dll.licenses

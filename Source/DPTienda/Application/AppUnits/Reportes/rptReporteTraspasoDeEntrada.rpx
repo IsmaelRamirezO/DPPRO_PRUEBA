@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9360" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptReporteTraspasoDeEntrada.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="1410" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="90" Top="0" Width="9180" Height="900" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2430" Top="0" Width="3600" Height="270" Caption="REPORTE DE TRASPASO DE ENTRADA" Style="text-align: center; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="180" Top="630" Width="990" Height="270" Caption="Traspaso No." Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2250" Top="630" Width="900" Height="270" Caption="Suc. Origen." Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="3960" Top="630" Width="900" Height="270" Caption="Suc. Destino" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="5760" Top="630" Width="720" Height="270" Caption="Entrego:" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="7470" Top="630" Width="630" Height="270" Caption="Recibio:" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="180" Top="1080" Width="1980" Height="270" Caption="MODELO/DESCRIPCION" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="3600" Top="1080" Width="3960" Height="270" Caption="CANTIDADES POR TALLAS" Style="text-align: center; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="180" Top="90" Width="1170" Height="270" Text="Fecha" OutputFormat="dd/MM/yyyy" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="7920" Top="90" Width="540" Height="270" Caption="Pág." Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtPag" MOD="4" Left="8460" Top="90" Width="720" Height="270" Text="N. Pag" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="90" Top="990" Width="9180" Height="360" BackColor="16777215" />
+      <Control Type="AR.Field" Name="txtTraspaso" MOD="4" Left="1260" Top="630" Width="900" Height="270" Text="Traspaso" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtOrigen" MOD="4" Left="3240" Top="630" Width="630" Height="270" Text="Origen" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtDestino" MOD="4" Left="4950" Top="630" Width="720" Height="270" Text="Destino" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="7470" Y1="810" X2="6480" Y2="810" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="9180" Y1="810" X2="8100" Y2="810" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="540" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="T1" DataField="T01" MOD="4" Left="2250" Top="0" Width="450" Height="270" Text="T1" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T2" DataField="T02" MOD="4" Left="2790" Top="0" Width="450" Height="270" Text="T2" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T3" DataField="T03" MOD="4" Left="3330" Top="0" Width="450" Height="270" Text="T3" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T4" DataField="T04" MOD="4" Left="3870" Top="0" Width="450" Height="270" Text="T4" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T5" DataField="T05" MOD="4" Left="4410" Top="0" Width="450" Height="270" Text="T5" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T6" DataField="T06" MOD="4" Left="4950" Top="0" Width="450" Height="270" Text="T6" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T7" DataField="T07" MOD="4" Left="5490" Top="0" Width="450" Height="270" Text="T7" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T8" DataField="T08" MOD="4" Left="6030" Top="0" Width="450" Height="270" Text="T8" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T9" DataField="T09" MOD="4" Left="6570" Top="0" Width="450" Height="270" Text="T9" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T10" DataField="T10" MOD="4" Left="7110" Top="0" Width="450" Height="270" Text="T10" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T11" DataField="T11" MOD="4" Left="7650" Top="0" Width="450" Height="270" Text="T11" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="T12" DataField="T12" MOD="4" Left="8190" Top="0" Width="450" Height="270" Text="T12" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C1" DataField="C01" MOD="4" Left="2250" Top="270" Width="450" Height="270" Text="C1" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C2" DataField="C02" MOD="4" Left="2790" Top="270" Width="450" Height="270" Text="C2" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C3" DataField="C03" MOD="4" Left="3330" Top="270" Width="450" Height="270" Text="C3" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C4" DataField="C04" MOD="4" Left="3870" Top="270" Width="450" Height="270" Text="C4" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C5" DataField="C05" MOD="4" Left="4410" Top="270" Width="450" Height="270" Text="C5" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C6" DataField="C06" MOD="4" Left="4950" Top="270" Width="450" Height="270" Text="C6" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C7" DataField="C07" MOD="4" Left="5490" Top="270" Width="450" Height="270" Text="C7" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C8" DataField="C08" MOD="4" Left="6030" Top="270" Width="450" Height="270" Text="C8" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C9" DataField="C09" MOD="4" Left="6570" Top="270" Width="450" Height="270" Text="C9" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C10" DataField="C10" MOD="4" Left="7110" Top="270" Width="450" Height="270" Text="C10" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C11" DataField="C11" MOD="4" Left="7650" Top="270" Width="450" Height="270" Text="C11" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="C12" DataField="C12" MOD="4" Left="8190" Top="270" Width="450" Height="270" Text="C12" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="CTotal" DataField="TotalA" MOD="4" Left="8730" Top="270" Width="450" Height="270" Text="CTotal" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="9270" Y1="0" X2="9270" Y2="540" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="90" Y1="0" X2="90" Y2="540" />
+      <Control Type="AR.Field" Name="txtCodigo" DataField="Codigo" MOD="4" Left="180" Top="0" Width="1980" Height="270" Text="Codigo" Multiline="0" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtDescripcion" DataField="Descripcion" MOD="4" Left="180" Top="270" Width="1980" Height="270" Text="Descripcion" Multiline="0" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="1410" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="180" Top="90" Width="2340" Height="270" Caption="Total Artículos" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="180" Top="360" Width="2340" Height="270" Caption="Valor Declarado" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="180" Top="630" Width="2340" Height="270" Caption="Número de Guía" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtTotalArticulos" DataField="TotalA" MOD="4" Left="7740" Top="90" Width="1440" Height="270" Text="TotalArticulos" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " SummaryType="1" />
+      <Control Type="AR.Field" Name="txtValorDeclarado" MOD="4" Left="7740" Top="360" Width="1440" Height="270" Text="ValorDeclarado" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Field" Name="txtNumeroGuia" MOD="4" Left="7740" Top="630" Width="1440" Height="270" Text="NumeroGuia" Style="text-align: right; font-size: 8.25pt; font-family: Times New Roman; " />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="9270" Y1="0" X2="90" Y2="0" />
+      <Control Type="AR.Field" Name="txtObservaciones" MOD="4" Left="180" Top="900" Width="9090" Height="270" Text="Observaciones" Style="font-size: 8.25pt; font-family: Times New Roman; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="720" RightMargin="720" BottomMargin="1008" />
+</ActiveReportsLayout>

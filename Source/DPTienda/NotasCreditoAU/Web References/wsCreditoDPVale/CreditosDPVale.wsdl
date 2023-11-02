@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://ws.dportenis.com.mx/Credito/CreditosDPVale" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dportenis.com.mx/Credito/CreditosDPVale" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dportenis.com.mx/Credito/CreditosDPVale">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreateCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="s0:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CreditoDPValeInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoDPValeID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Banco" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoBancario" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Plazo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalNombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalSexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalDomicilio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalCiudad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalColonia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalTelefono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalCodigoPostal" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaExpiracion" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCredito" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Saldo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="CuentaContable" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FirmaDigital" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="RecordCreatedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordCreatedOn" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordStatus" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NumeroCuenta1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NumeroCuenta2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NumeroCuenta3" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCuenta1" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCuenta2" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCuenta3" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateCreditoDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateCreditoDPValeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="s0:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateCreditoDPValeSaldo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="Monto" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPValeSaldoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeleteCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteCreditoDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCreditoDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetCreditoDPValeResult" type="s0:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetListCreditosDPValeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeByCliente">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PlazaID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeByClienteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetListCreditosDPValeByClienteResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="CreateCreditoDPValeSoapIn">
+    <part name="parameters" element="s0:CreateCreditoDPVale" />
+  </message>
+  <message name="CreateCreditoDPValeSoapOut">
+    <part name="parameters" element="s0:CreateCreditoDPValeResponse" />
+  </message>
+  <message name="UpdateCreditoDPValeSoapIn">
+    <part name="parameters" element="s0:UpdateCreditoDPVale" />
+  </message>
+  <message name="UpdateCreditoDPValeSoapOut">
+    <part name="parameters" element="s0:UpdateCreditoDPValeResponse" />
+  </message>
+  <message name="UpdateCreditoDPValeSaldoSoapIn">
+    <part name="parameters" element="s0:UpdateCreditoDPValeSaldo" />
+  </message>
+  <message name="UpdateCreditoDPValeSaldoSoapOut">
+    <part name="parameters" element="s0:UpdateCreditoDPValeSaldoResponse" />
+  </message>
+  <message name="DeleteCreditoDPValeSoapIn">
+    <part name="parameters" element="s0:DeleteCreditoDPVale" />
+  </message>
+  <message name="DeleteCreditoDPValeSoapOut">
+    <part name="parameters" element="s0:DeleteCreditoDPValeResponse" />
+  </message>
+  <message name="GetCreditoDPValeSoapIn">
+    <part name="parameters" element="s0:GetCreditoDPVale" />
+  </message>
+  <message name="GetCreditoDPValeSoapOut">
+    <part name="parameters" element="s0:GetCreditoDPValeResponse" />
+  </message>
+  <message name="GetListCreditosDPValeSoapIn">
+    <part name="parameters" element="s0:GetListCreditosDPVale" />
+  </message>
+  <message name="GetListCreditosDPValeSoapOut">
+    <part name="parameters" element="s0:GetListCreditosDPValeResponse" />
+  </message>
+  <message name="GetListCreditosDPValeByClienteSoapIn">
+    <part name="parameters" element="s0:GetListCreditosDPValeByCliente" />
+  </message>
+  <message name="GetListCreditosDPValeByClienteSoapOut">
+    <part name="parameters" element="s0:GetListCreditosDPValeByClienteResponse" />
+  </message>
+  <portType name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap">
+    <operation name="CreateCreditoDPVale">
+      <documentation>Crea un nuevo credito DPVale.</documentation>
+      <input message="s0:CreateCreditoDPValeSoapIn" />
+      <output message="s0:CreateCreditoDPValeSoapOut" />
+    </operation>
+    <operation name="UpdateCreditoDPVale">
+      <documentation>Actualiza un credito DPVale.</documentation>
+      <input message="s0:UpdateCreditoDPValeSoapIn" />
+      <output message="s0:UpdateCreditoDPValeSoapOut" />
+    </operation>
+    <operation name="UpdateCreditoDPValeSaldo">
+      <documentation>Actualiza Saldo de un credito DPVale.</documentation>
+      <input message="s0:UpdateCreditoDPValeSaldoSoapIn" />
+      <output message="s0:UpdateCreditoDPValeSaldoSoapOut" />
+    </operation>
+    <operation name="DeleteCreditoDPVale">
+      <documentation>Elimina un credito DPVale.</documentation>
+      <input message="s0:DeleteCreditoDPValeSoapIn" />
+      <output message="s0:DeleteCreditoDPValeSoapOut" />
+    </operation>
+    <operation name="GetCreditoDPVale">
+      <documentation>Obtiene un credito DPVale.</documentation>
+      <input message="s0:GetCreditoDPValeSoapIn" />
+      <output message="s0:GetCreditoDPValeSoapOut" />
+    </operation>
+    <operation name="GetListCreditosDPVale">
+      <documentation>Obtiene una lista de creditos DPVale.</documentation>
+      <input message="s0:GetListCreditosDPValeSoapIn" />
+      <output message="s0:GetListCreditosDPValeSoapOut" />
+    </operation>
+    <operation name="GetListCreditosDPValeByCliente">
+      <documentation>Obtiene una lista de creditos DPVale adjuntando la información de Cliente.</documentation>
+      <input message="s0:GetListCreditosDPValeByClienteSoapIn" />
+      <output message="s0:GetListCreditosDPValeByClienteSoapOut" />
+    </operation>
+  </portType>
+  <binding name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap" type="s0:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="CreateCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/CreateCreditoDPVale" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/UpdateCreditoDPVale" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateCreditoDPValeSaldo">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/UpdateCreditoDPValeSaldo" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/DeleteCreditoDPVale" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetCreditoDPVale" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetListCreditosDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetListCreditosDPVale" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetListCreditosDPValeByCliente">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetListCreditosDPValeByCliente" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPVale">
+    <documentation>Proporciona métodos para manejar Créditos DPVale.</documentation>
+    <port name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap" binding="s0:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap">
+      <soap:address location="http://dpssvr/credito/CreditosDPVale.asmx" />
+    </port>
+  </service>
+</definitions>

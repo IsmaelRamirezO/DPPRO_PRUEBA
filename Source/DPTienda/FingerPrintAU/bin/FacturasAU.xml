@@ -1,0 +1,199 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FacturasAU
+</name>
+</assembly>
+<members>
+<member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.FacturaManager.SelectByReferencia(System.String,System.String,DportenisPro.DPTienda.ApplicationUnits.Facturas.Factura)">
+	<summary>
+ Función para obtener los datos de una factura en base a al valor de la columna Referencia
+ </summary>
+	<param name="ReferenciaFactura">Referencia a buscar</param>
+	<param name="CodCaja">Código de caja</param>
+	<param name="Factura">Datos de la factura resultado</param>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.FacturaManager.SelectFacturasNotasCreditoMasivo">
+	<summary>
+ ' AF (14-11-2016): Función para retornar todos los registros previamente cargados de notas de crédito masivo
+ </summary>
+	<returns>Lista de registros de notas de crédito</returns>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.FacturaDataGateway.SelectByReferencia(System.String,System.String,DportenisPro.DPTienda.ApplicationUnits.Facturas.Factura)">
+	<summary>
+ Función para obtener los datos de una factura en base a al valor de la columna Referencia
+ </summary>
+	<param name="ReferenciaFactura">Referencia a buscar</param>
+	<param name="CodCaja">Código de caja</param>
+	<param name="Factura">Datos de la factura resultado</param>
+	<remarks></remarks>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.FacturaDataGateway.SelectFacturasNotasCreditoMasivo">
+	<summary>
+ Función para retornar todos los registros previamente cargados de notas de crédito masivo
+ </summary>
+	<returns>Lista de registros de notas de crédito</returns>
+	<remarks></remarks>
+</member><member name="F:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.strURL">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.CreateCreditosEnTiendaCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.UpdateCreditosEnTiendaCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.DeleteCreditosEnTiendaCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaByClienteIDCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetListCreditosEnTiendaCompleted">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.CreateCreditosEnTienda(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.BeginCreateCreditosEnTienda(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.EndCreateCreditosEnTienda(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.CreateCreditosEnTiendaAsync(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.CreateCreditosEnTiendaAsync(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.UpdateCreditosEnTienda(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.BeginUpdateCreditosEnTienda(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.EndUpdateCreditosEnTienda(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.UpdateCreditosEnTiendaAsync(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.UpdateCreditosEnTiendaAsync(DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.DeleteCreditosEnTienda(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.BeginDeleteCreditosEnTienda(System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.EndDeleteCreditosEnTienda(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.DeleteCreditosEnTiendaAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.DeleteCreditosEnTiendaAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTienda(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.BeginGetCreditosEnTienda(System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.EndGetCreditosEnTienda(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaByClienteID(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.BeginGetCreditosEnTiendaByClienteID(System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.EndGetCreditosEnTiendaByClienteID(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaByClienteIDAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetCreditosEnTiendaByClienteIDAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetListCreditosEnTienda(System.Boolean)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.BeginGetListCreditosEnTienda(System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.EndGetListCreditosEnTienda(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetListCreditosEnTiendaAsync(System.Boolean)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.GetListCreditosEnTiendaAsync(System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoCreditosEnTienda">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.CreditoEnTiendaID">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AsociadoID">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.ClienteID">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.Banco">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.LimiteCreditoBancario">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.Plazo">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalNombre">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalApellidoPaterno">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalApellidoMaterno">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalSexo">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalDomicilio">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalEstado">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalCiudad">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalColonia">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalTelefono">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalEmail">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.AvalCodigoPostal">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.FechaExpiracion">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.LimiteCredito">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.Saldo">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.CuentaContable">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.FirmaDigital">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.RecordCreatedBy">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.RecordCreatedOn">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.RecordStatus">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo.SaldoVencido">
+	<comentarios/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreditoEnTiendaInfo">
+	<comentarios/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreateCreditosEnTiendaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreateCreditosEnTiendaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.CreateCreditosEnTiendaCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.UpdateCreditosEnTiendaCompletedEventHandler">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.DeleteCreditosEnTiendaCompletedEventHandler">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetCreditosEnTiendaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetCreditosEnTiendaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetCreditosEnTiendaCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetCreditosEnTiendaByClienteIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetCreditosEnTiendaByClienteIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetCreditosEnTiendaByClienteIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetListCreditosEnTiendaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetListCreditosEnTiendaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.Facturas.wsCreditosEnTienda.GetListCreditosEnTiendaCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

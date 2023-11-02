@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10815" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptTraspasosEntradasInventarios.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="1320" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblTituloReporte" MOD="4" Left="2610" Top="90" Width="8100" Height="360" Caption="Reporte Traspasos Entradas" Style="font-weight: bold; font-size: 14pt; " />
+      <Control Type="AR.Label" Name="lblDe" MOD="4" Left="2790" Top="540" Width="450" Height="270" Caption="De:" Style="font-weight: bold; " />
+      <Control Type="AR.Label" Name="txtDe" MOD="4" Left="3240" Top="540" Width="1350" Height="270" Caption="" />
+      <Control Type="AR.Label" Name="lblA" MOD="4" Left="4590" Top="540" Width="270" Height="270" Caption="A" Style="text-align: center; font-weight: bold; font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="txtA" MOD="4" Left="4860" Top="540" Width="1350.72" Height="270.72" Caption="" />
+      <Control Type="AR.Label" Name="lblSucursal" MOD="4" Left="2790" Top="810" Width="990" Height="270" Caption="Sucursal:" Style="font-weight: bold; " />
+      <Control Type="AR.Label" Name="txtSucursal" MOD="4" Left="3780" Top="810" Width="5130" Height="270" Caption="" />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="90" Top="180" Width="810" Height="270" Caption="Fecha:" Style="font-weight: bold; " />
+      <Control Type="AR.Label" Name="txtFecha" MOD="4" Left="900" Top="180" Width="1620" Height="270" Caption="" />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblFolioSAP" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="0" Top="0" Width="1440" Height="270" Caption="Folio SAP" Style="font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblOrigen" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="3060" Top="0" Width="1350" Height="270" Caption="Origen" Style="text-align: center; font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblDestino" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="4410" Top="0" Width="1350" Height="270" Caption="Destino" Style="text-align: center; font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblPiezas" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="5760" Top="0" Width="990" Height="270" Caption="Piezas" Style="text-align: center; font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblCosto" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="6750" Top="0" Width="1350" Height="270" Caption="Costo" Style="text-align: center; font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblUsuario" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="8100" Top="0" Width="1350" Height="270" Caption="Usuario" Style="text-align: center; font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblGuia" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="9450" Top="0" Width="1350" Height="270" Caption="Guía" Style="text-align: center; font-weight: bold; background-color: LightGrey; " />
+      <Control Type="AR.Label" Name="lblFechaTraspaso" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="1440" Top="0" Width="1620" Height="270" Caption="Fecha Traspaso" Style="font-weight: bold; background-color: LightGrey; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="txtFolioSAP" DataField="FolioSAP" MOD="4" Left="0" Top="0" Width="1440" Height="270" Caption="" Style="font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtFechaTraspaso" DataField="FechaTraspaso" MOD="4" Left="1440" Top="0" Width="1620" Height="270" Caption="" Style="font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtOrigen" DataField="Origen" MOD="4" Left="3060" Top="0" Width="1350" Height="270" Caption="" Style="text-align: left; font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtDestino" DataField="Destino" MOD="4" Left="4410" Top="0" Width="1350" Height="270" Caption="" Style="text-align: left; font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtPiezas" DataField="Piezas" MOD="4" Left="5760" Top="0" Width="990" Height="270" Caption="" Style="text-align: right; font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtCosto" DataField="Costo" MOD="4" Left="6750" Top="0" Width="1350" Height="270" Caption="" Style="text-align: right; font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtUsuario" DataField="UsuarioDPPRO" MOD="4" Left="8100" Top="0" Width="1350" Height="270" Caption="" Style="text-align: left; font-weight: normal; " />
+      <Control Type="AR.Label" Name="txtGuia" DataField="Guia" MOD="4" Left="9450" Top="0" Width="1350" Height="270" Caption="" Style="text-align: left; font-weight: normal; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblCostoTotal" MOD="4" Left="5580" Top="0" Width="1350" Height="270" Caption="Costo Total:" Style="font-weight: bold; " />
+      <Control Type="AR.Field" Name="txtCostoTotal" DataField="Costo" MOD="4" Left="6930" Top="0" Width="1350" Height="270" Text="" SummaryType="1" SummaryRunning="2" />
+    </Section>
+    <Section Type="ReportFooter" Name="ReportFooter" Height="360" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3660" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptDPValeFinanciero.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="Detail" Name="Detail" Height="18523" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblDist" MOD="4" Left="0" Top="295.1575" Width="1814.173" Height="340.1575" Caption="Distribuidor:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblPlaza" MOD="4" Left="0" Top="1020.472" Width="1020.472" Height="340.1575" Caption="Plaza:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblCli" MOD="4" Left="0" Top="1564.016" Width="1133.858" Height="340.1575" Caption="Cliente:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblNoDPVale" MOD="4" Left="0" Top="2411.575" Width="1247.244" Height="340.1575" Caption="# DPVale:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblLeyenda" MOD="4" Left="0" Top="4182.52" Width="2154.331" Height="340.1573" Caption="Usted pagará" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblLeyenda2" MOD="4" Left="0" Top="4522.676" Width="1247.244" Height="340.1566" Caption="durante" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblQuincenas" MOD="4" Left="1814.173" Top="4522.676" Width="1700.787" Height="340.1574" Caption="quincenas." Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblLeyenda3" MOD="4" Left="0" Top="5062.676" Width="3514.961" Height="3448.348" Caption="Por este pagaré, me obligo a pagar incondicionalmente a la orden de ________________________ el día______ del mes de____________  del año ______,  en su domicilio ubicado en ____________________ la ciudad de _________, la cantidad de: _________  (En letra: _____________________________________________________________________)." Style="text-align: justify; font-size: 9.75pt; font-family: Courier New; white-space: inherit; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="0" Top="13604.17" Width="3514.961" Height="907.0862" Caption="_________________________ a _____ de ______________ de 20____" Style="text-align: right; font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblDireccion" MOD="4" Left="0" Top="14648.03" Width="3514.961" Height="2220.945" Caption="Nombre: _________________________ Domicilio: _________________________ Telefono: _________________________ Ciudad: _________________________" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblFirma" MOD="4" Left="293.3858" Top="17012.84" Width="3061.417" Height="566.9288" Caption="______________________   Firma del Suscriptor." Style="text-align: center; font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblLeyenda4" MOD="4" Left="0" Top="8764.72" Width="3514.961" Height="4538.981" Caption="Valor recibido a mi entera satisfacción. Si el presente pagaré no fuera cubierto el día señalado para su pago, cubriré además el importe de este documento el ______%  mensual de intereses moratorios, desde el día en que debió ser pagado hasta el día en que sea cubierto totalmente el presente pagaré, sometiéndome expresamente a la jurisdicción de los tribunales que el tenedor del documento señale, renunciando expresamente al fuero que por razón de mi domicilio presente futuro me llegare a corresponder. " Style="text-align: justify; font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNombreDist" MOD="4" Left="0" Top="680.315" Width="3514.961" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNoDist" MOD="4" Left="1814.173" Top="296.9291" Width="1700.787" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtPlaza" MOD="4" Left="1043.858" Top="1020.472" Width="1247.244" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNombreCliente" MOD="4" Left="0" Top="1931.102" Width="3514.961" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNoCLiente" MOD="4" Left="1133.858" Top="1564.016" Width="2381.103" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNoDPVale" MOD="4" Left="1360.63" Top="2414.409" Width="2154.331" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtPagoMin" MOD="4" Left="2154.331" Top="4182.52" Width="1360.63" Height="340.1573" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtPlazo" MOD="4" Left="1247.244" Top="4522.676" Width="566.9291" Height="340.1575" Text="TextBox2" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNoFact" MOD="4" Left="1360.63" Top="2868.662" Width="2143.701" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNoDocContPrestamo" MOD="4" Left="1360.63" Top="3255.591" Width="2130.945" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblNoFact" MOD="4" Left="0" Top="2861.575" Width="1247.244" Height="347.2438" Caption="Factura:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblNoDocContPrest" MOD="4" Left="0" Top="3255.591" Width="1360.63" Height="340.157" Caption="# Prestamo:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="23.38579" Top="17642.84" Width="3491.575" Height="839.0492" Caption="* El Costo Anual Total (CAT) es entre 246.30% y 287.28% en promedio se da a conocer para fines informativos y de comparación exclusivamente." Style="text-align: justify; font-size: 7.5pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="lblIFE" MOD="4" Left="0" Top="3705.591" Width="1133.858" Height="340.157" Caption="No. IFE:" Style="font-size: 9.75pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtNoIFE" MOD="4" Left="1360.63" Top="3705.591" Width="2130.945" Height="340.1575" Text="TextBox1" Style="font-size: 9.75pt; font-family: Courier New; " />
+    </Section>
+  </Sections>
+  <PageSettings TopMargin="567" BottomMargin="2268" PaperSize="0" PaperWidth="3931" PaperHeight="31162" PaperName="Custom paper" />
+</ActiveReportsLayout>

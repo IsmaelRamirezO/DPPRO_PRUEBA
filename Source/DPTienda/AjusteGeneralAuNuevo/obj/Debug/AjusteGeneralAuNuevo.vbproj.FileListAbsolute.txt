@@ -1,0 +1,316 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AjusteGeneralAuNuevo\obj\Debug\AjusteGeneralAuNuevo.pdb

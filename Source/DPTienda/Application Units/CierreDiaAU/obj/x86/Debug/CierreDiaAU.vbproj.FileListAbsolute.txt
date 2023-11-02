@@ -1,0 +1,5 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\x86\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\x86\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\x86\Debug\CierreDiaAU.dll.licenses

@@ -1,0 +1,204 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\CatalogoTipoMonedaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoMonedaAU.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoTipoMonedaAU\obj\Debug\CatalogoTipoMonedaAU.pdb

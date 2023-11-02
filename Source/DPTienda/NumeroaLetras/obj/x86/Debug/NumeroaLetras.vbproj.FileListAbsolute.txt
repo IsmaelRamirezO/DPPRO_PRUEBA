@@ -1,0 +1,6 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\NumeroaLetras\bin\x86\Debug\NumeroaLetras.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\NumeroaLetras\bin\x86\Debug\NumeroaLetras.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\NumeroaLetras\bin\x86\Debug\NumeroaLetras.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\NumeroaLetras\obj\x86\Debug\NumeroaLetras.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\NumeroaLetras\obj\x86\Debug\NumeroaLetras.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\NumeroaLetras\obj\x86\Debug\NumeroaLetras.pdb

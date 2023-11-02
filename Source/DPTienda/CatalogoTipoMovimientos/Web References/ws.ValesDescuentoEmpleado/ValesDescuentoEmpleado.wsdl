@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/Credito/ValesDescuentoEmpleado" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/ValesDescuentoEmpleado" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/ValesDescuentoEmpleado">
+      <s:element name="GetValeDescuentoEmpleado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Folio" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="TipoVale" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetValeDescuentoEmpleadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetValeDescuentoEmpleadoResult" type="tns:ValesDescuentoEmpleadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ValesDescuentoEmpleadoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="FolioVale" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="FolioInicial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FolioFinal" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TipoVale" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Caducidad" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaAlta" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Enviado" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sucursal" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Resultado" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertValeDescuentoUtilizado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oValeUtilizado" type="tns:ValesDescuentoEmpleadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertValeDescuentoUtilizadoResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetValeDescuentoEmpleadoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetValeDescuentoEmpleado" />
+  </wsdl:message>
+  <wsdl:message name="GetValeDescuentoEmpleadoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetValeDescuentoEmpleadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertValeDescuentoUtilizadoSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertValeDescuentoUtilizado" />
+  </wsdl:message>
+  <wsdl:message name="InsertValeDescuentoUtilizadoSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertValeDescuentoUtilizadoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ValesDescuentoEmpleadoSoap">
+    <wsdl:operation name="GetValeDescuentoEmpleado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene Información de un Vale de Descuento de Empleado.</documentation>
+      <wsdl:input message="tns:GetValeDescuentoEmpleadoSoapIn" />
+      <wsdl:output message="tns:GetValeDescuentoEmpleadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertValeDescuentoUtilizado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Inserta un Vale de Descuento Utilizado.</documentation>
+      <wsdl:input message="tns:InsertValeDescuentoUtilizadoSoapIn" />
+      <wsdl:output message="tns:InsertValeDescuentoUtilizadoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ValesDescuentoEmpleadoSoap" type="tns:ValesDescuentoEmpleadoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="GetValeDescuentoEmpleado">
+      <soap:operation soapAction="http://tempuri.org/Credito/ValesDescuentoEmpleado/GetValeDescuentoEmpleado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertValeDescuentoUtilizado">
+      <soap:operation soapAction="http://tempuri.org/Credito/ValesDescuentoEmpleado/InsertValeDescuentoUtilizado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ValesDescuentoEmpleado">
+    <wsdl:port name="ValesDescuentoEmpleadoSoap" binding="tns:ValesDescuentoEmpleadoSoap">
+      <soap:address location="http://dpws/credito/ValesDescuentoEmpleado.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

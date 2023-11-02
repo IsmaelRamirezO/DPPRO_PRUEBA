@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/DHLComplete" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/DHLComplete" name="DHLComplete" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <wsdl:appinfo source="WMQI_APPINFO">
+      <MRWSDLAppInfo imported="true">
+        <binding hasEncoding="false" imported="true" name="DHLCompleteSOAP_HTTP_Binding" originalBindingStyle="document" />
+      </MRWSDLAppInfo>
+    </wsdl:appinfo>
+  </wsdl:documentation>
+  <wsdl:types>
+    <s:schema xmlns:mrm="http://tempuri.org/DHLComplete" targetNamespace="http://tempuri.org/DHLComplete">
+      <s:import schemaLocation="http://10.200.3.18:7800/DHLCompleteSOAP_HTTP_Service?xsd=xsd0" namespace="http://dhl.dportenis.com" />
+      <s:import schemaLocation="http://10.200.3.18:7800/DHLCompleteSOAP_HTTP_Service?xsd=xsd1" namespace="http://www.dhl.com" />
+      <s:import schemaLocation="http://10.200.3.18:7800/DHLCompleteSOAP_HTTP_Service?xsd=xsd2" namespace="http://www.dhl.com" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="solicitarEnvio_in">
+    <wsdl:part name="SapZinfoPaqueteServ" xmlns:q1="http://dhl.dportenis.com" element="q1:SapZinfoPaqueteServ" />
+  </wsdl:message>
+  <wsdl:message name="solicitarEnvio_out">
+    <wsdl:part name="ShipmentValidateResponse" xmlns:q2="http://www.dhl.com" element="q2:ShipmentValidateResponse" />
+    <wsdl:part name="PDFfile" type="s:hexBinary" />
+  </wsdl:message>
+  <wsdl:message name="solicitarEnvio_fault1">
+    <wsdl:part name="ShipmentValidateErrorResponse" xmlns:q3="http://www.dhl.com" element="q3:ShipmentValidateErrorResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DHLCompletePortType">
+    <wsdl:operation name="solicitarEnvio">
+      <wsdl:input name="solicitarEnvio_Input" message="tns:solicitarEnvio_in" />
+      <wsdl:output name="solicitarEnvio_Output" message="tns:solicitarEnvio_out" />
+      <wsdl:fault name="solicitarEnvio_Fault" message="tns:solicitarEnvio_fault1" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DHLCompleteSOAP_HTTP_Binding" type="tns:DHLCompletePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="solicitarEnvio">
+      <soap:operation soapAction="solicitarEnvio" />
+      <wsdl:input name="solicitarEnvio_Input">
+        <soap:body use="literal" parts="SapZinfoPaqueteServ" />
+      </wsdl:input>
+      <wsdl:output name="solicitarEnvio_Output">
+        <soap:body use="literal" parts="ShipmentValidateResponse" />
+      </wsdl:output>
+      <wsdl:fault name="solicitarEnvio_Fault">
+        <soap:fault use="literal" namespace="" encodingStyle="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DHLCompleteSOAP_HTTP_Service">
+    <wsdl:port name="DHLCompleteSOAP_HTTP_Port" binding="tns:DHLCompleteSOAP_HTTP_Binding">
+      <soap:address location="http://10.200.3.18:7800/DHLCompleteSOAP_HTTP_Service" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

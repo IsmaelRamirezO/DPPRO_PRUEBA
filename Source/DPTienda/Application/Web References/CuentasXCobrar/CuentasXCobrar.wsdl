@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/Credito/CuentasXCobrar" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/CuentasXCobrar" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/CuentasXCobrar">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="ObtCuentasXCobrar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Desde" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="Hasta" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Caja" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtCuentasXCobrarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtCuentasXCobrarResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtCuentasXCobrarCan">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Desde" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="Hasta" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Caja" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtCuentasXCobrarCanResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtCuentasXCobrarCanResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectHistorialCrediticio">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Asociado" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="FechaDesde" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="FechaHasta" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectHistorialCrediticioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectHistorialCrediticioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="ObtCuentasXCobrarSoapIn">
+    <part name="parameters" element="s0:ObtCuentasXCobrar" />
+  </message>
+  <message name="ObtCuentasXCobrarSoapOut">
+    <part name="parameters" element="s0:ObtCuentasXCobrarResponse" />
+  </message>
+  <message name="ObtCuentasXCobrarCanSoapIn">
+    <part name="parameters" element="s0:ObtCuentasXCobrarCan" />
+  </message>
+  <message name="ObtCuentasXCobrarCanSoapOut">
+    <part name="parameters" element="s0:ObtCuentasXCobrarCanResponse" />
+  </message>
+  <message name="SelectHistorialCrediticioSoapIn">
+    <part name="parameters" element="s0:SelectHistorialCrediticio" />
+  </message>
+  <message name="SelectHistorialCrediticioSoapOut">
+    <part name="parameters" element="s0:SelectHistorialCrediticioResponse" />
+  </message>
+  <portType name="CuentasXCobrarSoap">
+    <operation name="ObtCuentasXCobrar">
+      <input message="s0:ObtCuentasXCobrarSoapIn" />
+      <output message="s0:ObtCuentasXCobrarSoapOut" />
+    </operation>
+    <operation name="ObtCuentasXCobrarCan">
+      <input message="s0:ObtCuentasXCobrarCanSoapIn" />
+      <output message="s0:ObtCuentasXCobrarCanSoapOut" />
+    </operation>
+    <operation name="SelectHistorialCrediticio">
+      <input message="s0:SelectHistorialCrediticioSoapIn" />
+      <output message="s0:SelectHistorialCrediticioSoapOut" />
+    </operation>
+  </portType>
+  <binding name="CuentasXCobrarSoap" type="s0:CuentasXCobrarSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="ObtCuentasXCobrar">
+      <soap:operation soapAction="http://tempuri.org/Credito/CuentasXCobrar/ObtCuentasXCobrar" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ObtCuentasXCobrarCan">
+      <soap:operation soapAction="http://tempuri.org/Credito/CuentasXCobrar/ObtCuentasXCobrarCan" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="SelectHistorialCrediticio">
+      <soap:operation soapAction="http://tempuri.org/Credito/CuentasXCobrar/SelectHistorialCrediticio" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="CuentasXCobrar">
+    <port name="CuentasXCobrarSoap" binding="s0:CuentasXCobrarSoap">
+      <soap:address location="http://dpssvr/Credito/CuentasXCobrar.asmx" />
+    </port>
+  </service>
+</definitions>

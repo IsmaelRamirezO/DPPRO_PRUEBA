@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://ws.dportenis.com.mx/Credito/CreditosDPVale" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dportenis.com.mx/Credito/CreditosDPVale" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dportenis.com.mx/Credito/CreditosDPVale">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreateCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CreditoDPValeInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoDPValeID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalNombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalSexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalDomicilio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalCiudad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalColonia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalTelefono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalCodigoPostal" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCredito" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Saldo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="FirmaDigital" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="RecordCreatedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordCreatedOn" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordStatus" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NumeroCuenta1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NumeroCuenta2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NumeroCuenta3" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCuenta1" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCuenta2" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCuenta3" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalTelefonoOtro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones3" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Congelado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Bloqueado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="EsEmpresa" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Representante" type="tns:RepresentanteCreditoInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="RepresentanteCreditoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="RepresentanteCreditoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoDPValeID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Domicilio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Colonia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Ciudad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Estado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EMail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CP" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Telefono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelefonoOtro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FirmaDigital" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="Logotipo" type="s:base64Binary" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateCreditoDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateCreditoDPValeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateCreditoDPValeSaldo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="Monto" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPValeSaldoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateCreditoDPValeCongelado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreditoDPValeID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="Congelado" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPValeCongeladoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateCreditoDPValeRegistroZero">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreditoDPValeID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPValeRegistroZeroResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeleteCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteCreditoDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCreditoDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetCreditoDPValeResult" type="tns:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetListCreditosDPValeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeByCliente">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PlazaID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeByClienteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetListCreditosDPValeByClienteResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeByAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeByAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetListCreditosDPValeByAsociadoResult" type="tns:CreditoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosDPValeZero">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetListCreditosDPValeZeroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetListCreditosDPValeZeroResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreditoDPValeSelAllToDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Plaza" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreditoDPValeSelAllToDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CreditoDPValeSelAllToDocumentResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BloquearCreditosDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Folios" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Status" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BloquearCreditosDPValeResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CreateCreditoDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateCreditoDPVale" />
+  </wsdl:message>
+  <wsdl:message name="CreateCreditoDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateCreditoDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPVale" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeSaldoSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeSaldo" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeSaldoSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeSaldoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeCongeladoSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeCongelado" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeCongeladoSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeCongeladoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeRegistroZeroSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeRegistroZero" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPValeRegistroZeroSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPValeRegistroZeroResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteCreditoDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteCreditoDPVale" />
+  </wsdl:message>
+  <wsdl:message name="DeleteCreditoDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteCreditoDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCreditoDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCreditoDPVale" />
+  </wsdl:message>
+  <wsdl:message name="GetCreditoDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCreditoDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPVale" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeByClienteSoapIn">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeByCliente" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeByClienteSoapOut">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeByClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeByAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeByAsociado" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeByAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeByAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeZeroSoapIn">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeZero" />
+  </wsdl:message>
+  <wsdl:message name="GetListCreditosDPValeZeroSoapOut">
+    <wsdl:part name="parameters" element="tns:GetListCreditosDPValeZeroResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreditoDPValeSelAllToDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:CreditoDPValeSelAllToDocument" />
+  </wsdl:message>
+  <wsdl:message name="CreditoDPValeSelAllToDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:CreditoDPValeSelAllToDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="BloquearCreditosDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:BloquearCreditosDPVale" />
+  </wsdl:message>
+  <wsdl:message name="BloquearCreditosDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:BloquearCreditosDPValeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap">
+    <wsdl:operation name="CreateCreditoDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Crea un nuevo credito DPVale.</documentation>
+      <wsdl:input message="tns:CreateCreditoDPValeSoapIn" />
+      <wsdl:output message="tns:CreateCreditoDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza un credito DPVale.</documentation>
+      <wsdl:input message="tns:UpdateCreditoDPValeSoapIn" />
+      <wsdl:output message="tns:UpdateCreditoDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPValeSaldo">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza Saldo de un credito DPVale.</documentation>
+      <wsdl:input message="tns:UpdateCreditoDPValeSaldoSoapIn" />
+      <wsdl:output message="tns:UpdateCreditoDPValeSaldoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPValeCongelado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza el Status de Congelado del Credito DP Vale.</documentation>
+      <wsdl:input message="tns:UpdateCreditoDPValeCongeladoSoapIn" />
+      <wsdl:output message="tns:UpdateCreditoDPValeCongeladoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPValeRegistroZero">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza el Status de Registro del Credito DP Vale.</documentation>
+      <wsdl:input message="tns:UpdateCreditoDPValeRegistroZeroSoapIn" />
+      <wsdl:output message="tns:UpdateCreditoDPValeRegistroZeroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCreditoDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Elimina un credito DPVale.</documentation>
+      <wsdl:input message="tns:DeleteCreditoDPValeSoapIn" />
+      <wsdl:output message="tns:DeleteCreditoDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCreditoDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene un credito DPVale.</documentation>
+      <wsdl:input message="tns:GetCreditoDPValeSoapIn" />
+      <wsdl:output message="tns:GetCreditoDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene una lista de creditos DPVale.</documentation>
+      <wsdl:input message="tns:GetListCreditosDPValeSoapIn" />
+      <wsdl:output message="tns:GetListCreditosDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPValeByCliente">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene una lista de creditos DPVale adjuntando la información de Cliente.</documentation>
+      <wsdl:input message="tns:GetListCreditosDPValeByClienteSoapIn" />
+      <wsdl:output message="tns:GetListCreditosDPValeByClienteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPValeByAsociado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene una lista de creditos DPVale adjuntando la información del Asociado.</documentation>
+      <wsdl:input message="tns:GetListCreditosDPValeByAsociadoSoapIn" />
+      <wsdl:output message="tns:GetListCreditosDPValeByAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPValeZero">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene una lista de creditos DPVale con Status Zero.</documentation>
+      <wsdl:input message="tns:GetListCreditosDPValeZeroSoapIn" />
+      <wsdl:output message="tns:GetListCreditosDPValeZeroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreditoDPValeSelAllToDocument">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene una lista de creditos DPVale por Plaza.</documentation>
+      <wsdl:input message="tns:CreditoDPValeSelAllToDocumentSoapIn" />
+      <wsdl:output message="tns:CreditoDPValeSelAllToDocumentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BloquearCreditosDPVale">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Bloquea o DesBloquea una Serie de Asociados.</documentation>
+      <wsdl:input message="tns:BloquearCreditosDPValeSoapIn" />
+      <wsdl:output message="tns:BloquearCreditosDPValeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap" type="tns:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="CreateCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/CreateCreditoDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/UpdateCreditoDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPValeSaldo">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/UpdateCreditoDPValeSaldo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPValeCongelado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/UpdateCreditoDPValeCongelado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPValeRegistroZero">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/UpdateCreditoDPValeRegistroZero" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/DeleteCreditoDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetCreditoDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetListCreditosDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPValeByCliente">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetListCreditosDPValeByCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPValeByAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetListCreditosDPValeByAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetListCreditosDPValeZero">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/GetListCreditosDPValeZero" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreditoDPValeSelAllToDocument">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/CreditoDPValeSelAllToDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BloquearCreditosDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/CreditosDPVale/BloquearCreditosDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPVale">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Proporciona métodos para manejar Créditos DPVale.</documentation>
+    <wsdl:port name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap" binding="tns:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap">
+      <soap:address location="http://pcerick/credito/CreditosDPVale.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

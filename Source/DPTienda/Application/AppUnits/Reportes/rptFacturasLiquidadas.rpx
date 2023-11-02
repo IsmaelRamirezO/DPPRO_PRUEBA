@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10260" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptFacturasLiquidadas.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="1215" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="9900" Height="1170" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="90" Top="900" Width="810" Height="198" Caption="F. Fact." Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="990" Top="900" Width="1080" Height="198" Caption="Importe" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2250" Top="900" Width="990" Height="198" Caption="Fol. Apart." Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="3330" Top="900" Width="3870" Height="198" Caption=" Folio Abonos" Style="text-align: justify; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="7290" Top="900" Width="1350" Height="198" Caption=" Usuario" Style="text-align: justify; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="8910" Top="900" Width="810" Height="198" Caption="Fecha" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="3465" Top="0" Width="3330" Height="288" Caption="Reporte de Liquidaciones" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="90" Top="0" Width="630" Height="270" Caption="Fecha :" Style="font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="810" Top="0" Width="1260" Height="288" Caption="Fecha" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="2070" Top="540" Width="810" Height="260.7876" Caption="Sucursal:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblSucursal" MOD="4" Left="3060.001" Top="540" Width="4965.59" Height="260.7876" Caption="LblSucursal" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="3240" Top="270" Width="404.646" Height="260.7876" Caption="De:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblFechaDE" MOD="4" Left="3690" Top="270" Width="1394.646" Height="260.7876" Caption="LblFechaDE" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="5130" Top="270" Width="404.646" Height="260.7876" Caption="Al:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblFechaAL" MOD="4" Left="5490" Top="270" Width="1394.646" Height="260.7876" Caption="LblFechaAL" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="0" Y1="810" X2="9900" Y2="810" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="254" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtFolioFactura" DataField="FolioFactura" MOD="4" Left="0" Top="0" Width="900" Height="288" Text="Factura" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtImporte" DataField="Total" MOD="4" Left="990" Top="0" Width="1170" Height="288" Text="Importe" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtApartado" DataField="FolioApartado" MOD="4" Left="2250" Top="0" Width="990" Height="288" Text="Apartado" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtAbonos" DataField="Abonos" MOD="4" Left="3330" Top="0" Width="3870" Height="288" Text="Abonos" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtUsuario" DataField="CodVendedor" MOD="4" Left="7290" Top="0" Width="1440" Height="288" Text="Usuario" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFecha" DataField="Fecha" MOD="4" Left="8820" Top="0" Width="1080" Height="288" Text="00/00/0000" OutputFormat="dd/MM/yyyy" Style="text-align: center; font-size: 8.25pt; " />
+    </Section>
+    <Section Type="ReportFooter" Name="ReportFooter" Height="390" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="0" Width="9900" Height="360" BackColor="16777215" />
+      <Control Type="AR.Field" Name="TextBox2" DataField="Total" MOD="4" Left="270" Top="0" Width="1890" Height="288" Text="Importe" OutputFormat="$#,##0.00" Style="text-align: right; font-weight: normal; font-size: 8.25pt; " SummaryType="1" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

@@ -1,0 +1,1 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ArchivosTransAU\obj\x86\Debug\ArchivosTransAU.vbprojResolveAssemblyReference.cache

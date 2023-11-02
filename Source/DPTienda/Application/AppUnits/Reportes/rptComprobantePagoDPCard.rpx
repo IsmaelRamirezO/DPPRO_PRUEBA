@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3780" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptComprobantePagoDPCard.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="11250" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label2" Visible="0" MOD="4" Left="90" Top="5760" Width="720" Height="203.3861" Caption="F. PAGO:" Style="text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Subreport" Name="SubReport1" MOD="4" Left="990" Top="5760" Width="2430" Height="997.087" />
+      <Control Type="AR.Field" Name="tbNota1" MOD="4" Left="90" Top="6890.314" Width="3510" Height="579.6854" Text="" CanShrink="1" Style="text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbNota2" MOD="4" Left="90" Top="7560" Width="3510" Height="270" Text="" CanShrink="1" Style="text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbNombreCliente" MOD="4" Left="90" Top="3780" Width="3600" Height="270" Text="Nombre Cliente" CanShrink="1" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbLugarFecha" MOD="4" Left="98.50389" Top="3011.102" Width="3543.307" Height="226.7712" Text="Lugar Fecha" Style="ddo-char-set: 0; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTipoVenta" MOD="4" Left="98.50381" Top="2723.149" Width="2250" Height="226.7712" Text="OTROS PAGOS" Style="ddo-char-set: 0; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblCaja" MOD="4" Left="98.50389" Top="2437.086" Width="1800" Height="226.7709" Caption="CAJA" Style="ddo-char-set: 0; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTicket" MOD="4" Left="98.50381" Top="2147.244" Width="1899.213" Height="226.7717" Caption="Ticket:" Style="font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbticket" MOD="4" Left="2092.205" Top="2164.252" Width="1511.811" Height="226.7717" Text="256321" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label36" MOD="4" Left="90" Top="3510" Width="990" Height="270" Caption="CLIENTE:" Style="font-weight: bold; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label39" MOD="4" Left="90" Top="406.7715" Width="3476.693" Height="583.2285" Caption="Matriz: Melchor Ocampo #1005 Centro     Mazatlán, Sin." Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label38" MOD="4" Left="90" Top="180" Width="3510" Height="226.7717" Caption="COMERCIAL D'PORTENIS, S.A. DE C.V." Style="text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="90" Top="1004.173" Width="3500.079" Height="226.7717" Caption="SUCURSAL:" Style="text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNumTarjeta" MOD="4" Left="1080" Top="3510" Width="2610" Height="270" Text="NumTarjeta" CanShrink="1" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 11.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtInfoSuc" MOD="4" Left="90" Top="1260" Width="3491.28" Height="270" Text="InfoSuc" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label37" MOD="4" Left="90" Top="4320" Width="1440" Height="270" Caption="IMPORTE:" Style="font-weight: bold; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbAnticipo" MOD="4" Left="2250" Top="4320" Width="1360.63" Height="270" Text="$ 599.00" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-weight: bold; font-size: 9pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotalLetras" MOD="4" Left="98.50389" Top="4730.314" Width="3591.496" Height="288" Text="" Style="font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="90" Top="5220" Width="720" Height="257.2438" Caption="PLAYER:" Style="text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbPlayer" MOD="4" Left="990" Top="5220" Width="810" Height="288" Text="" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="LblCopia" MOD="4" Left="90" Top="1668.189" Width="3500.788" Height="226.7719" Caption="COPIA DE FACTURA" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; vertical-align: top; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="3420" Y1="8110" X2="360" Y2="8110" />
+      <Control Type="AR.Field" Name="txtFirma" MOD="4" Left="360" Top="8200" Width="3060" Height="270" Text="Nombre" Style="ddo-char-set: 1; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtOperacion" MOD="4" Left="90" Top="8640" Width="3600" Height="2520" Text="LA OPERACIÓN SE HACE POR CUENTA Y ORDEN DE FUTURO ABC S.A.P.I. DE C.V. SOFOM ENR RFC: FAB110520KX1, DOM MELCHOR OCAMPO No. 1005 INT 10, COL CENTRO, MAZATLAN, SINALOA CP 82000, Aclaraciones comunicarse a lada sin costo 01800 8903198, dpcardcredito@grupodp.com.mx Quejas: CONDUSEF 53400999 o 018009998080." Style="ddo-char-set: 1; text-align: justify; font-size: 9.75pt; font-family: Arial; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="432" RightMargin="0" TopMargin="0" BottomMargin="0" PaperSize="0" PaperWidth="4248" PaperHeight="56650" PaperName="" />
+</ActiveReportsLayout>

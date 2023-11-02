@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D920691-B90A-42CE-ADF5-2C460ACCF378}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU</RootNamespace>
+    <StartupObject>DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.%28Ninguno%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <COMReference Include="SAPFunctionsOCX">
+      <Guid>{5B076C00-2F26-11CF-9AE5-0800096E19F4}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="SAPTableFactoryCtrl">
+      <Guid>{87D28511-6B43-101C-92CE-10005AF5DF4D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <ProjectReference Include="..\AjusteGeneralAuNuevo\AjusteGeneralAuNuevo.vbproj">
+      <Name>AjusteGeneralAuNuevo</Name>
+      <Project>{59F9EA5F-022E-4156-933D-B390FC940916}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\AjusteGeneralTalla\AjusteGeneralTalla.vbproj">
+      <Name>AjusteGeneralTalla</Name>
+      <Project>{72370037-CF03-4735-A465-B4737092904E}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\AjusteGeneralAU\AjusteGeneralAU.vbproj">
+      <Name>AjusteGeneralAU</Name>
+      <Project>{9BB746ED-7844-4A63-83C0-A473D101D664}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\CatalogoAlmacenesAU\CatalogoAlmacenesAU.vbproj">
+      <Name>CatalogoAlmacenesAU</Name>
+      <Project>{DE9375EA-C2D9-449E-AB29-AB78B4DE9F57}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\CatalogoMarcas\CatalogoMarcas.vbproj">
+      <Name>CatalogoMarcas</Name>
+      <Project>{3AC208FD-2A72-43EF-AD58-C124C496A6F0}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalogoPromocionesAU\CatalogoPromocionesAU.vbproj">
+      <Name>CatalogoPromocionesAU</Name>
+      <Project>{B6C992D9-62A4-4DDA-A667-1C2CC5B407F8}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CinfiguracionSAPAU\ConfiguracionSAPAU.vbproj">
+      <Name>ConfiguracionSAPAU</Name>
+      <Project>{689BA3C9-A2FA-4A1A-83C2-76380EE36FD3}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ConfigSaveArchivos\ConfigSaveArchivos.vbproj">
+      <Name>ConfigSaveArchivos</Name>
+      <Project>{46FAF0FB-46AF-40BB-8CD8-8E042556EE17}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <Reference Include="ActiveReports">
+      <Name>ActiveReports</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\Empresaria S.A. de C.V\DPPhotoSetup\ActiveReports.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveReports.HtmlExport">
+      <Name>ActiveReports.HtmlExport</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports for .NET\ActiveReports.HtmlExport.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ActiveReports.PdfExport">
+      <Name>ActiveReports.PdfExport</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports for .NET\ActiveReports.PdfExport.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ActiveReports.RtfExport">
+      <Name>ActiveReports.RtfExport</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports for .NET\ActiveReports.RtfExport.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ActiveReports.TextExport">
+      <Name>ActiveReports.TextExport</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports for .NET\ActiveReports.TextExport.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ActiveReports.TiffExport">
+      <Name>ActiveReports.TiffExport</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports for .NET\ActiveReports.TiffExport.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ActiveReports.Viewer">
+      <Name>ActiveReports.Viewer</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\Empresaria S.A. de C.V\DPPhotoSetup\ActiveReports.Viewer.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveReports.XlsExport">
+      <Name>ActiveReports.XlsExport</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports for .NET\ActiveReports.XlsExport.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DportenisPro.DPTienda.Core">
+      <Name>DportenisPro.DPTienda.Core</Name>
+      <HintPath>C:\Archivos de programa\EMPRESARIA\ComponentAUSetup\DportenisPro.DPTienda.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DPSoft.Framework.ApplicationContext">
+      <Name>DPSoft.Framework.ApplicationContext</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.ApplicationContext.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Configuration">
+      <Name>DPSoft.Framework.Configuration</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Configuration.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Data.SQLServer">
+      <Name>DPSoft.Framework.Data.SQLServer</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Data.SQLServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Security">
+      <Name>DPSoft.Framework.Security</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Security.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ERPConnect">
+      <Name>ERPConnect</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\DPortenis\InstallerERPConnectLIC\ERPConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="ERPConnectLIC">
+      <Name>ERPConnectLIC</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\DPortenis\InstallerERPConnectLIC\ERPConnectLIC.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Windows.Common.v2">
+      <Name>Janus.Windows.Common.v2</Name>
+      <HintPath>C:\Archivos de programa\EMPRESARIA\ComponentAUSetup\Janus.Windows.Common.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Windows.ExplorerBar.v2">
+      <Name>janus.windows.explorerbar.v2</Name>
+      <HintPath>c:\archivos de programa\janus systems\controls for microsoft .net\windows forms controls v2\bin\janus.windows.explorerbar.v2.dll</HintPath>
+      <AssemblyFolderKey>hklm\janus.windows.schedule.v2</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Janus.Windows.UI.v2">
+      <Name>janus.windows.ui.v2</Name>
+      <HintPath>c:\archivos de programa\janus systems\controls for microsoft .net\windows forms controls v2\bin\janus.windows.ui.v2.dll</HintPath>
+      <AssemblyFolderKey>hklm\janus.windows.schedule.v2</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="NumeroReferencia">
+      <Name>NumeroReferencia</Name>
+      <HintPath>..\..\..\Resources\NumeroReferencia.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcrRptDifSAPyDP.vb">
+      <DependentUpon>AcrRptDifSAPyDP.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ArticulosSAP.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cDPVale.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClientesSAP.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CondicionesVtaSAP.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CreditoAsociadoSAP.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CuponDescuento.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExportForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InitialForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcesoSAPDataGateway.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProcesoSAPManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProcesoSAPProxy.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReportViewerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeparacionesDataGateWay.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SeparacionesManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ServerUPCDataGateWay.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ServerUPCManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ValeEmpleado.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="VentasFacturaSAP.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZBapiAbonoCierreDia.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZDP_PRODAPARTADO.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="AcrRptDifSAPyDP.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>AcrRptDifSAPyDP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportForm.resx">
+      <DependentUpon>ExportForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InitialForm.resx">
+      <DependentUpon>InitialForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="ReportViewerForm.resx">
+      <DependentUpon>ReportViewerForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties XMLCommentsActionBuild="-1" XMLCommentsOutputFile="" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoBancosAU\obj\x86\Debug\DportenisPro.DpTienda.ApplicationUnits.CatalogoBancosAU.Component1.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoBancosAU\obj\x86\Debug\CatalogoBancosAU.vbproj.GenerateResource.Cache

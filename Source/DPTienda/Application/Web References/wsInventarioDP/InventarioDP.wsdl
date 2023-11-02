@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://ws.dpportal.com.mx/InventarioDP/InventarioDP" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dpportal.com.mx/InventarioDP/InventarioDP" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dpportal.com.mx/InventarioDP/InventarioDP">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="ConsultaExistenciaWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodArticulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodPlaza" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaExistenciaWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaExistenciaWebResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="ConsultaExistenciaWebSoapIn">
+    <part name="parameters" element="s0:ConsultaExistenciaWeb" />
+  </message>
+  <message name="ConsultaExistenciaWebSoapOut">
+    <part name="parameters" element="s0:ConsultaExistenciaWebResponse" />
+  </message>
+  <portType name="InventarioDPSoap">
+    <operation name="ConsultaExistenciaWeb">
+      <input message="s0:ConsultaExistenciaWebSoapIn" />
+      <output message="s0:ConsultaExistenciaWebSoapOut" />
+    </operation>
+  </portType>
+  <binding name="InventarioDPSoap" type="s0:InventarioDPSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="ConsultaExistenciaWeb">
+      <soap:operation soapAction="http://ws.dpportal.com.mx/InventarioDP/InventarioDP/ConsultaExistenciaWeb" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="InventarioDP">
+    <port name="InventarioDPSoap" binding="s0:InventarioDPSoap">
+      <soap:address location="http://dpssvr/InventarioDP/InventarioDP.asmx" />
+    </port>
+  </service>
+</definitions>

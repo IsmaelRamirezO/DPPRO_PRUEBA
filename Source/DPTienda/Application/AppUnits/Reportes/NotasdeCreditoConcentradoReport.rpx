@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9915" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="NotasdeCreditoConcentradoReport.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1452" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="9864.567" Height="1440" BackColor="16777215" />
+      <Control Type="AR.Label" Name="lblFolio" MOD="4" Left="90.71999" Top="1123.2" Width="929.7525" Height="288" Caption="Folio" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblSucursal" MOD="4" Left="2464.016" Top="1133.858" Width="1170" Height="288" Caption="CAJA" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="3870" Top="1123.2" Width="1260" Height="288" Caption="Fecha" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblImporte" MOD="4" Left="5310" Top="1123.2" Width="1260" Height="288" Caption="Importe" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblCliente" MOD="4" Left="6840" Top="1123.2" Width="1425.591" Height="288" Caption="Cliente" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblReviso" MOD="4" Left="8503.938" Top="1123.2" Width="1216.063" Height="288" Caption="Reviso" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblTitulo" MOD="4" Left="2250" Top="90" Width="4950" Height="288" Caption="REPORTE DE NOTAS DE CREDITO TOTALES" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblRango" MOD="4" Left="2610" Top="450" Width="4230" Height="288" Caption="Desde : Hasta:" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblFechaReporte" MOD="4" Left="90" Top="90" Width="1350" Height="288" Caption="FechaReporte" Style="text-align: left; " />
+      <Control Type="AR.Label" Name="lblPagina" MOD="4" Left="7830" Top="90" Width="1350" Height="288" Caption="Pagina" Style="text-align: right; " />
+      <Control Type="AR.Label" Name="lblSucursalDescripcion" MOD="4" Left="90" Top="810" Width="9180" Height="288" Caption="Sucursal :" Style="text-align: center; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="9864.567" Y1="1080" X2="0" Y2="1080" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="3751.732" Y1="1082.835" X2="3751.732" Y2="1442.835" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="1143.858" Y1="1082.835" X2="1143.858" Y2="1442.835" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="5225.748" Y1="1082.835" X2="5225.748" Y2="1442.835" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="6699.764" Y1="1082.835" X2="6699.764" Y2="1442.835" />
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="8400.552" Y1="1082.835" X2="8400.552" Y2="1442.835" />
+      <Control Type="AR.Label" Name="lblCaja" MOD="4" Left="90" Top="450" Width="1440" Height="288" Caption="Caja" Style="text-align: left; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="1170.72" Top="1123.2" Width="1260" Height="288" Caption="Folio SAP" Style="text-align: left; " />
+      <Control Type="AR.Line" Name="Line7" MOD="4" X1="2504.488" Y1="1082.835" X2="2504.488" Y2="1442.835" />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="288" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="2464.016" Top="0" Width="1170" Height="288" Text="003" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtFolio" MOD="4" Left="90.71999" Top="0" Width="929.7525" Height="288" Text="Folio" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="3960" Top="0" Width="1080" Height="288" Text="08/06/2005" OutputFormat="dd/MM/yyyy" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtImporte" MOD="4" Left="5310" Top="0" Width="1260" Height="288" Text="Importe" OutputFormat="$#,##0.00" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtCliente" MOD="4" Left="6753.78" Top="0" Width="1511.811" Height="288" Text="Cliente" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtReviso" MOD="4" Left="8503.938" Top="0" Width="1216.063" Height="288" Text="Reviso" />
+      <Control Type="AR.Field" Name="txtFolioSAP" MOD="4" Left="1170.72" Top="0" Width="1260" Height="288" Text="FolioSAP" Style="text-align: center; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="374" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="0" Width="9360" Height="360" BackColor="16777215" />
+      <Control Type="AR.Field" Name="txtTotalImporte" MOD="4" Left="3600" Top="57.6" Width="2070" Height="270" Text="Total" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" SummaryRunning="1" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="1530" Top="57.6" Width="1350" Height="288" Caption="TOTALES   :" Style="text-align: center; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="1134" RightMargin="1134" />
+</ActiveReportsLayout>

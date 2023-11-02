@@ -1,0 +1,201 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.ResolveComReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe.config
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\LiveUpdate.exe
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\LiveUpdate.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\LiveUpdate.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe.licenses
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\LiveUpdate\obj\Debug\LiveUpdate.pdb

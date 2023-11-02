@@ -1,0 +1,3 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\x86\Debug\LiveUpdate.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\LiveUpdate\obj\x86\Debug\LiveUpdate.exe.licenses

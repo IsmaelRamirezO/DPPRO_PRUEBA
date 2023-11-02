@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10590" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="RptCierredeDia.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="5400" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Subreport" Name="SubReport3" MOD="4" Left="70.86614" Top="1877.953" Width="10346.46" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport1" MOD="4" Left="113.3858" Top="226.7717" Width="10339.2" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport2" MOD="4" Left="90" Top="1531.417" Width="10327.32" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport4" Visible="0" MOD="4" Left="90" Top="6211.417" Width="10080" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport5" Visible="0" MOD="4" Left="90" Top="6661.418" Width="10080" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport6" MOD="4" Left="113.3858" Top="683.8582" Width="10339.37" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport7" Visible="0" MOD="4" Left="90" Top="7110" Width="10080" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport8" Visible="0" MOD="4" Left="90" Top="7575.59" Width="10080" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport9" Visible="0" MOD="4" Left="90" Top="8025.59" Width="10080" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport10" Visible="0" MOD="4" Left="180" Top="5760.72" Width="10080" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport11" MOD="4" Left="113.3858" Top="1133.858" Width="10303.94" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport12" MOD="4" Left="90" Top="5040" Width="10346.46" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport13" MOD="4" Left="70.86614" Top="2286.85" Width="10346.46" Height="283.4646" />
+      <Control Type="AR.Subreport" Name="OtrosPagos" MOD="4" Left="90" Top="3600" Width="10350" Height="270" />
+      <Control Type="AR.Subreport" Name="PedidosFacturados" MOD="4" Left="90" Top="2745" Width="10350" Height="270" />
+      <Control Type="AR.Subreport" Name="PedidosNoFacturados" MOD="4" Left="90" Top="3195" Width="10350" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport14" MOD="4" Left="90" Top="4320" Width="10346.46" Height="270" />
+      <Control Type="AR.Subreport" Name="SubReport15" MOD="4" Left="90" Top="4680" Width="10346.46" Height="270" />
+      <Control Type="AR.Subreport" Name="PagosDPCard" MOD="4" Left="180" Top="3960" Width="10346.46" Height="270" />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtNoPagina" MOD="4" Left="9810" Top="0" Width="630" Height="270" Text="Pag. 2" Style="text-align: right; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="423" RightMargin="423" TopMargin="567" BottomMargin="567" />
+</ActiveReportsLayout>

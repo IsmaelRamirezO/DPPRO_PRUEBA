@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveConfigArchivos xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="SaveConfigArchivos">
+  <MinimoEC>9228000001</MinimoEC>
+  <MaximoEC>9228999999</MaximoEC>
+  <MontoMaxTarjetas>0</MontoMaxTarjetas>
+  <ServerSeparaciones />
+  <BDSeparaciones />
+  <UserSeparaciones />
+  <PassSeparaciones />
+  <PassEhub />
+  <UserEhub />
+  <BaseDatosEhub />
+  <ServerEhub />
+  <UsarDescargaClientes>false</UsarDescargaClientes>
+  <ValidacionFS>false</ValidacionFS>
+  <PrinterHP>false</PrinterHP>
+  <MiniPrinter>false</MiniPrinter>
+  <CargaInicial>false</CargaInicial>
+  <Usuario>dportenis\raymundo.germain</Usuario>
+  <Password>dptray</Password>
+  <Ruta>\\192.168.1.14\images</Ruta>
+  <Unidad>X:</Unidad>
+  <FechaAutoF>9999-01-01T00:00:00.0000000-07:00</FechaAutoF>
+  <ImprimirCedula>true</ImprimirCedula>
+  <ServerFirma />
+  <BaseDatosFirmas />
+  <UserFirma />
+  <PassFirma />
+  <CuentaCorreo />
+  <ServidorSMTP />
+  <ServerHuellas />
+  <BaseDatosHuellas />
+  <UserHuellas />
+  <PassHuellas />
+  <UsarHuellas>false</UsarHuellas>
+  <UsarSccanerIFE>false</UsarSccanerIFE>
+  <UsarTPV>true</UsarTPV>
+</SaveConfigArchivos>

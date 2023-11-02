@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10215" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptPoliza.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1830" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2681.575" Top="56.69291" Width="3855.118" Height="288" Caption="COMERCIAL D'PORTENIS, S.A. DE C.V." />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="56.69291" Top="963.7796" Width="1440" Height="288" Caption="Dirección:" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="23.38583" Top="1303.937" Width="1440" Height="288" Caption="Reg. Fed.:" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="3288.189" Top="1303.937" Width="1440" Height="288" Caption="Reg. Estatal:" />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="3288.189" Top="963.7796" Width="1360.63" Height="288" Caption="Codigo postal:" />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="5839.37" Top="963.7796" Width="1440" Height="288" Caption="Reg. Camara:" />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="6746.457" Top="453.5433" Width="700.1573" Height="288" Caption="Fecha:" />
+      <Control Type="AR.Field" Name="txtFechaPoliza" MOD="4" Left="7596.85" Top="453.5433" Width="1440" Height="288" Text="FechaPoliza" />
+      <Control Type="AR.Field" Name="txtDireccion" MOD="4" Left="1620.709" Top="940.3936" Width="1440" Height="288" Text="txtDireccion" />
+      <Control Type="AR.Field" Name="txtRegFed" MOD="4" Left="1587.401" Top="1303.937" Width="1440" Height="288" Text="txtRegFed" />
+      <Control Type="AR.Field" Name="txtRegEstatal" MOD="4" Left="4818.898" Top="1303.937" Width="1440" Height="288" Text="txtRegEstatal" />
+      <Control Type="AR.Field" Name="txtCodPostal" MOD="4" Left="4762.205" Top="963.7796" Width="963.7801" Height="288" Text="txtCodPostal" />
+      <Control Type="AR.Field" Name="txtRegCamara" MOD="4" Left="7313.386" Top="963.7796" Width="1440" Height="288" Text="txtRegCamara" />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="1440" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="90" Top="90" Width="703.7007" Height="288" Caption="Fecha" />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="56.69289" Top="453.5433" Width="963.7796" Height="288" Caption="No. Refer." />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="1260" Top="90" Width="518.0315" Height="288" Caption="Tipo" />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="1797.165" Top="453.5433" Width="737.0079" Height="288" Caption="Cuenta" />
+      <Control Type="AR.Label" Name="Label14" MOD="4" Left="2610" Top="90" Width="1776.614" Height="288" Caption="Número Concepto" />
+      <Control Type="AR.Label" Name="Label15" MOD="4" Left="8640" Top="90" Width="1160.787" Height="288" Caption="Clase Diario" />
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="5952.756" Top="453.5433" Width="566.9296" Height="288" Caption="Diario" />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="8987.244" Top="453.5433" Width="805.7479" Height="288" Caption="Abonos" />
+      <Control Type="AR.Label" Name="Label18" MOD="4" Left="7236.85" Top="453.5433" Width="726.3782" Height="288" Caption="Cargos" />
+      <Control Type="AR.Label" Name="Label19" MOD="4" Left="4552.441" Top="453.5433" Width="793.7011" Height="288" Caption="Nombre" />
+      <Control Type="AR.Field" Name="txtFechaPolizaGH" MOD="4" Left="0" Top="1133.858" Width="1440" Height="288" Text="FechaPolizaGH" />
+      <Control Type="AR.Label" Name="Label20" MOD="4" Left="1690.866" Top="1133.858" Width="850.3938" Height="288" Caption="Ingresos" />
+      <Control Type="AR.Field" Name="txtCajaSucursal" MOD="4" Left="2868.661" Top="1133.858" Width="1440" Height="288" Text="CajaSucursal" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="9864.567" Y1="907.0866" X2="56.69357" Y2="907.0866" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="9817.874" Y1="9.999962" X2="9.999999" Y2="9.999962" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="330" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtNumMovimiento" MOD="4" Left="56.69291" Top="0" Width="1020.472" Height="288" Text="txtNumMovimiento" />
+      <Control Type="AR.Field" Name="txtCuenta" MOD="4" Left="1586.693" Top="0" Width="1440" Height="288" Text="txtCuenta" />
+      <Control Type="AR.Field" Name="txtNombre" MOD="4" Left="3206.693" Top="0" Width="4163.385" Height="288" Text="txtNombre" />
+      <Control Type="AR.Field" Name="txtCargos" MOD="4" Left="6873.307" Top="0" Width="1340.079" Height="288" Text="txtCargos" OutputFormat="#,##0.00" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtAbonos" MOD="4" Left="8560.63" Top="0" Width="1276.063" Height="288" Text="txtAbonos" OutputFormat="#,##0.00" Style="text-align: right; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtTCargos" DataField="Cargos" MOD="4" Left="6816.614" Top="0" Width="1440" Height="288" Text="txtTCargos" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" />
+      <Control Type="AR.Field" Name="txtTAbonos" DataField="Abonos" MOD="4" Left="8396.929" Top="0" Width="1440" Height="288" Text="txtTAbonos" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" />
+      <Control Type="AR.Label" Name="Label21" MOD="4" Left="5385.827" Top="0" Width="1190.551" Height="288" Caption="Total poliza" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="7266.693" Y1="10" X2="9817.874" Y2="10" />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="2160" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label22" MOD="4" Left="113.3858" Top="113.3858" Width="9637.796" Height="737.0079" Caption="La información aquí presentada es real, generada de la operacion del dia de hoy #fecha#, realizada con el Marcador DXT. Por lo que de existir diferncias a cargos en los ingresos reportados acepto cubrir la cantidad mencionada en la cuenta contable diferencias. El fondo de la caja cerro con $ $cantidad$" />
+      <Control Type="AR.Label" Name="Label23" MOD="4" Left="283.4644" Top="1700.787" Width="1190.551" Height="288" Caption="Reviso        :" />
+      <Control Type="AR.Label" Name="Label24" MOD="4" Left="226.7717" Top="1303.937" Width="1303.937" Height="288" Caption="Responsable:" />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="4091.89" Y1="1540.709" X2="1540.709" Y2="1540.709" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="4091.889" Y1="1937.559" X2="1540.709" Y2="1937.559" />
+    </Section>
+  </Sections>
+  <PageSettings Orientation="1" />
+</ActiveReportsLayout>

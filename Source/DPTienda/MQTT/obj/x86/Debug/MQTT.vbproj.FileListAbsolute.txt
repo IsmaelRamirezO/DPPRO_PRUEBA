@@ -1,0 +1,6 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\x86\Debug\MQTT.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\x86\Debug\MQTT.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\x86\Debug\MQTT.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\x86\Debug\MQTT.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\x86\Debug\MQTT.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\x86\Debug\MQTT.pdb

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10515" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptAbonosContratosAll.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1477" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="10488.19" Height="1474.016" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="3838.11" Top="1100.551" Width="1170" Height="288" Caption="PLAYER" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="7863.307" Top="1100.551" Width="1260" Height="288" Caption="SALDO" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="2194.016" Top="1100.551" Width="1520.079" Height="288" Caption="FOLIO APARTADO" Style="text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="6616.063" Top="1100.551" Width="1170" Height="288" Caption="IMPORTE" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="5085.354" Top="1100.551" Width="1440" Height="288" Caption="FORMA DE PAGO" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="90" Top="1100.551" Width="1190.551" Height="288" Caption="FOLIO ABONO" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="9280.63" Top="1100.551" Width="1110.473" Height="288" Caption="CANCELADO" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2834.646" Top="56.69291" Width="4025.197" Height="288" Caption="REPORTE DE ABONOS Y ANTICIPOS" />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="113.3858" Top="396.8504" Width="623.6221" Height="288" Caption="Caja.:" />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="1927.559" Top="396.8504" Width="396.8502" Height="288" Caption="De.:" />
+      <Control Type="AR.Field" Name="txtFechaDel" MOD="4" Left="2381.102" Top="396.8504" Width="3174.804" Height="288" Text="" />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="1927.559" Top="737.0079" Width="907.0865" Height="288" Caption="Sucursal.:" />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="2891.339" Top="737.0079" Width="3968.504" Height="288" Text="" />
+      <Control Type="AR.Label" Name="Label14" MOD="4" Left="5565.827" Top="396.8504" Width="396.8502" Height="288" Caption="Al.:" />
+      <Control Type="AR.Field" Name="txtFechaAl" MOD="4" Left="6019.37" Top="396.8504" Width="2948.031" Height="288" Text="" />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="56.69289" Top="56.69291" Width="1927.559" Height="288" Text="" />
+      <Control Type="AR.Field" Name="txtCaja" MOD="4" Left="113.3859" Top="737.0079" Width="1757.48" Height="288" Text="" />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="10488.19" Y1="1020.472" X2="0" Y2="1020.472" />
+      <Control Type="AR.Field" Name="TextBox10" MOD="4" Left="8900.787" Top="56.69291" Width="430.1573" Height="288" Text="Pág." Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox11" MOD="4" Left="9350.787" Top="56.69291" Width="340.1573" Height="288" Text="100" Style="font-size: 8.25pt; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="1384.016" Top="1100.551" Width="713.6218" Height="288" Caption="FECHA" Style="text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtFolioAbono" DataField="FolioAbono" MOD="4" Left="0" Top="0" Width="1077.165" Height="288" Text="TextBox5" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtFolioApartado" DataField="ApartadoID" MOD="4" Left="2160" Top="0" Width="1440" Height="288" Text="TextBox6" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtPlayer" DataField="CodVendedor" MOD="4" Left="3600" Top="0" Width="1440" Height="288" Text="TextBox7" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtFormaPago" DataField="CodFormaPago" MOD="4" Left="5040" Top="0" Width="1440" Height="288" Text="TextBox8" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtImporte" DataField="Abono" MOD="4" Left="6480" Top="0" Width="1213.229" Height="288" Text="0" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtSaldo" DataField="SaldoNuevo" MOD="4" Left="7920" Top="0" Width="1133.858" Height="288" Text="0" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtCancelado" DataField="StatusRegistro" MOD="4" Left="9360" Top="0" Width="1054.488" Height="288" Text="" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="txtFechaAbono" DataField="Fecha" MOD="4" Left="1170" Top="0" Width="870.9448" Height="288" Text="TextBox6" OutputFormat="dd/MM/yy" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="10488.19" Y1="0" X2="10488.19" Y2="283.4646" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="10.00031" Y1="0" X2="10.00031" Y2="283.4646" />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="360" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="0" Width="10488.19" Height="340.1575" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label15" MOD="4" Left="90" Top="0" Width="1440" Height="288" Caption="Total" Style="font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtImporteGT" MOD="4" Left="6495" Top="0" Width="1170" Height="288" Text="Tabono" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtSaldoGT" MOD="4" Left="8025" Top="0" Width="1028.859" Height="288" Text="Tabono" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="360" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape3" Visible="0" MOD="4" Left="0" Top="0" Width="10488.19" Height="340.1575" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label10" Visible="0" MOD="4" Left="90" Top="0" Width="1440" Height="288" Caption="Total Pág." Style="font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtImportePagina" Visible="0" MOD="4" Left="6389.292" Top="0" Width="1170" Height="288" Text="Tabono" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox6" Visible="0" MOD="4" Left="10043.86" Top="0" Width="340.1573" Height="288" Text="100" Style="font-size: 8.25pt; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Field" Name="TextBox9" Visible="0" MOD="4" Left="9593.858" Top="0" Width="430.1573" Height="288" Text="Pág." Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtSaldoPagina" Visible="0" MOD="4" Left="7755" Top="0" Width="1170" Height="288" Text="Tabono" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

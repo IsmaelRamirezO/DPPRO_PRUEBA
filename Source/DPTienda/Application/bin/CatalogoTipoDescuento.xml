@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CatalogoTipoDescuento
+</name>
+</assembly>
+<members>
+<member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.#ctor">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.GetValeDescuentoEmpleadoCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.InsertValeDescuentoUtilizadoCompleted">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.GetValeDescuentoEmpleado(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.BeginGetValeDescuentoEmpleado(System.Int32,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.EndGetValeDescuentoEmpleado(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.GetValeDescuentoEmpleadoAsync(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.GetValeDescuentoEmpleadoAsync(System.Int32,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.InsertValeDescuentoUtilizado(DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.BeginInsertValeDescuentoUtilizado(DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.EndInsertValeDescuentoUtilizado(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.InsertValeDescuentoUtilizadoAsync(DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.InsertValeDescuentoUtilizadoAsync(DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleado">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.FolioVale">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.FolioInicial">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.FolioFinal">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.TipoVale">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.Caducidad">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.FechaAlta">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.Usuario">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.Enviado">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.Sucursal">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo.Resultado">
+	<comentarios/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.ValesDescuentoEmpleadoInfo">
+	<comentarios/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.GetValeDescuentoEmpleadoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.GetValeDescuentoEmpleadoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.GetValeDescuentoEmpleadoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CatalogoTipoDescuento.ws.ValesDescuentoEmpleado.InsertValeDescuentoUtilizadoCompletedEventHandler">
+	<remarks/>
+</member>
+</members>
+</doc>

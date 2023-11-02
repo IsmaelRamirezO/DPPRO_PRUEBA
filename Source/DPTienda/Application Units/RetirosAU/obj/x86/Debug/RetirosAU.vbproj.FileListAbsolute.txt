@@ -1,0 +1,2 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\RetirosAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Retiros.Component1.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\RetirosAU\obj\x86\Debug\RetirosAU.vbproj.GenerateResource.Cache

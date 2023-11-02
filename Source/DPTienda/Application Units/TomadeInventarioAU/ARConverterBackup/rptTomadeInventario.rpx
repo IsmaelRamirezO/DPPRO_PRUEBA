@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10920" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptTomadeInventario.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="2309" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="1936.8" Width="10890" Height="360" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="90" Top="0" Width="10710" Height="288" Caption="REPORTE DE TOMA DE INVENTARIO" Style="color: Black; text-align: center; " />
+      <Control Type="AR.Label" Name="lblFolio" MOD="4" Left="90" Top="720" Width="1710" Height="288" Caption="Folio" Style="color: Black; " />
+      <Control Type="AR.Label" Name="lblAdministrativo" MOD="4" Left="90" Top="990" Width="1710" Height="288" Caption="Administrativo" Style="color: Black; " />
+      <Control Type="AR.Label" Name="lblResponsable" MOD="4" Left="90" Top="1260" Width="1710" Height="288" Caption="Responsable Suc." Style="color: Black; " />
+      <Control Type="AR.Label" Name="lblAuditoria" MOD="4" Left="90" Top="1530" Width="2250" Height="288" Caption="Auditoría de la Semana :" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebFolio" MOD="4" Left="1890" Top="720" Width="990" Height="288" Caption="" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebAdministrativo" MOD="4" Left="1890" Top="990" Width="5310" Height="288" Caption="" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebResponsable" MOD="4" Left="1890" Top="1260" Width="5310" Height="288" Caption="" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebAuditoria" MOD="4" Left="2430" Top="1530" Width="7290" Height="288" Caption="" Style="color: Black; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="8010" Top="720" Width="720" Height="288" Caption="Fecha :" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebFecha" MOD="4" Left="8820" Top="720" Width="1890" Height="288" Caption="" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebSucursal" MOD="4" Left="90" Top="360" Width="10710" Height="288" Caption="Sucursal :" Style="color: Black; text-align: center; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="90" Top="1980" Width="1710" Height="288" Caption="CODIGO" Style="font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="1800" Top="1980" Width="721.44" Height="288" Caption="TALLA" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="2592" Top="1980" Width="810.72" Height="288" Caption="SISTEMA" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="3510" Top="1980" Width="631.44" Height="288" Caption="FISICO" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="4320" Top="1980" Width="721.44" Height="288" Caption="DIFER." Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="5220" Top="1980" Width="901.44" Height="288" Caption="TIPO" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="6120" Top="1980" Width="1980" Height="288" Caption="MOVIMIENTO" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="8100" Top="1980" Width="810" Height="288" Caption="FOLIO" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="8910" Top="1980" Width="1890" Height="288" Caption="OBSERVACIONES" Style="text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="8110" Y1="1944" X2="8110" Y2="2304" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="1810" Y1="1944" X2="1810" Y2="2304" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="8110" Y1="1944" X2="8110" Y2="2304" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="6130" Y1="1944" X2="6130" Y2="2304" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="5155.2" Y1="1944" X2="5155.2" Y2="2304" />
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="4248" Y1="1944" X2="4248" Y2="2304" />
+      <Control Type="AR.Line" Name="Line7" MOD="4" X1="3384" Y1="1944" X2="3384" Y2="2304" />
+      <Control Type="AR.Line" Name="Line8" MOD="4" X1="2530" Y1="1944" X2="2530" Y2="2304" />
+      <Control Type="AR.Line" Name="Line9" MOD="4" X1="8920" Y1="1944" X2="8920" Y2="2304" />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="ebCodigo" MOD="4" Left="0" Top="0" Width="2070" Height="288" Text="" Style="color: Black; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebTalla" MOD="4" Left="2070" Top="0" Width="540" Height="288" Text="" Style="color: Black; text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebSistema" MOD="4" Left="2610" Top="0" Width="720" Height="288" Text="" Style="color: Black; text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebFisico" MOD="4" Left="3420" Top="0" Width="810" Height="288" Text="" Style="color: Black; text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebDiferencia" MOD="4" Left="4320" Top="0" Width="810" Height="288" Text="" Style="color: Black; text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebTipo" MOD="4" Left="5220" Top="0" Width="990" Height="288" Text="" Style="color: Black; text-align: left; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebMovimiento" MOD="4" Left="6210" Top="0" Width="1890" Height="288" Text="" Style="color: Black; text-align: left; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebFolioDetalle" MOD="4" Left="8100" Top="0" Width="810" Height="288" Text="" Style="color: Black; text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="ebObservaciones" MOD="4" Left="8910" Top="0" Width="1980" Height="288" Text="" Style="color: Black; text-align: left; font-size: 9pt; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="2399" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="ResName" MOD="4" Left="5670" Top="1890" Width="3780" Height="288" Caption="" Style="color: Black; text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="46.80004" Width="10890" Height="360" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="90" Top="90" Width="2700" Height="288" Caption="Total de Códigos Auditados :" Style="color: Black; " />
+      <Control Type="AR.Label" Name="ebTotalCodigos" MOD="4" Left="2880" Top="90" Width="990" Height="288" Caption="Label12" Style="color: Black; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="990" Top="2160" Width="3780" Height="288" Caption="Administrativo de Plaza" Style="color: Black; text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="5670" Top="2160" Width="3780" Height="288" Caption="Responsable Sucursal" Style="color: Black; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="ebLeyenda" MOD="4" Left="90" Top="450" Width="10710" Height="810" Text="" Style="color: Black; text-align: justify; font-size: 8pt; " />
+      <Control Type="AR.Line" Name="Line10" MOD="4" X1="9090" Y1="1890" X2="6120" Y2="1890" />
+      <Control Type="AR.Line" Name="Line11" MOD="4" X1="4330" Y1="1900" X2="1360" Y2="1900" />
+      <Control Type="AR.Label" Name="AdmName" MOD="4" Left="990" Top="1890" Width="3780" Height="288" Caption="" Style="color: Black; text-align: center; font-size: 9pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

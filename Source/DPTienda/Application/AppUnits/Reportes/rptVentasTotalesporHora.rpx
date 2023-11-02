@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="11010" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptVentasTotalesporHora.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="1198" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="10960.63" Height="1247.244" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="3628.346" Top="56.69291" Width="3514.961" Height="288" Caption="REPORTE DE VENTAS EN TOTALES" />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="510.2362" Top="453.5433" Width="623.6221" Height="288" Caption="Caja.:" />
+      <Control Type="AR.Field" Name="txtCaja" MOD="4" Left="1220.315" Top="453.5433" Width="680.315" Height="288" Text="txtCaja" />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="113.3858" Top="56.69291" Width="1440" Height="288" Text="txtFecha" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2087.717" Top="453.5433" Width="420.2362" Height="288" Caption="De.:" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="3788.504" Top="453.5433" Width="397.5592" Height="288" Caption="Al.:" />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="5382.284" Top="453.5433" Width="1984.252" Height="288" Caption="en el Transcurso De.:" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="8443.701" Top="453.5433" Width="692.3622" Height="288" Caption="A las.:" />
+      <Control Type="AR.Field" Name="txtFechaDel" MOD="4" Left="2541.26" Top="453.5433" Width="1077.165" Height="288" Text="15/02/2005" OutputFormat="dd/MM/yyyy" />
+      <Control Type="AR.Field" Name="txtFechaAl" MOD="4" Left="4230" Top="450" Width="1077.166" Height="288" Text="01/03/2005" OutputFormat="dd/MM/yyyy" />
+      <Control Type="AR.Field" Name="txtHoraDel" MOD="4" Left="7366.536" Top="453.5433" Width="1020.473" Height="288" Text="10:43:42" />
+      <Control Type="AR.Field" Name="txtHoralAl" MOD="4" Left="9130.395" Top="453.5433" Width="1020.473" Height="288" Text="10:43:42" />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="3401.575" Top="850.3936" Width="963.7794" Height="288" Caption="Sucursal.:" />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="4422.047" Top="850.3936" Width="3571.654" Height="288" Text="05 TENIENTE AZUETA" />
+      <Control Type="AR.Field" Name="txtPagina" MOD="4" Left="9690.236" Top="90" Width="907.0862" Height="288" Text="1" Style="text-align: right; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="9180" Top="90.00002" Width="510.236" Height="288" Caption="Pág." />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="0" Top="0" Width="680.315" Height="288" Caption="FOLIO" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="1630.513" Top="0" Width="1077.165" Height="288" Caption="ARTICULOS" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="2707.678" Top="0" Width="1190.551" Height="288" Caption="IMPORTE" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="3898.228" Top="0" Width="1233.78" Height="288" Caption="DESCUENTO" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="5132.008" Top="0" Width="893.6218" Height="288" Caption="F. PAGO" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label14" MOD="4" Left="7086.497" Top="0" Width="1085.315" Height="288" Caption="VENDEDOR" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label15" MOD="4" Left="8171.812" Top="0" Width="831.4968" Height="288" Caption="CLIENTE" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="9003.309" Top="0" Width="685.7467" Height="288" Caption="T. VTA." Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="6025.63" Top="0" Width="1060.866" Height="288" Caption="MONTO" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label18" MOD="4" Left="9689.055" Top="0" Width="515.6694" Height="288" Caption="N.C." Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label19" MOD="4" Left="10204.72" Top="0" Width="699.2132" Height="288" Caption="CANC." Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label20" MOD="4" Left="680.315" Top="0" Width="975.1182" Height="288" Caption="FOLIO SAP" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" KeepTogether="1" CanShrink="0">
+      <Control Type="AR.Field" Name="txtFolio" DataField="Folio" MOD="4" Left="0" Top="0" Width="680.315" Height="288" Text="0" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtCantidad" DataField="cantidad" MOD="4" Left="1669.605" Top="0" Width="996.3785" Height="288" Text="0" OutputFormat="#,##0" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtImporte" DataField="total" MOD="4" Left="2665.984" Top="0" Width="1166.457" Height="288" Text="0" OutputFormat="$#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtDescuento" DataField="desctotal" MOD="4" Left="3832.441" Top="0" Width="1266.378" Height="288" Text="0" OutputFormat="$#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtVendedor" DataField="CodVendedor" MOD="4" Left="6840" Top="0" Width="1112.127" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtCliente" DataField="ClienteID" MOD="4" Left="7952.127" Top="0" Width="1168.82" Height="288" Text="" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtTipoVenta" DataField="CodTipoVenta" MOD="4" Left="9120.948" Top="0" Width="507.4022" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtNotaCredito" DataField="NotaCreditoID" MOD="4" Left="9628.35" Top="0" Width="582.9937" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtstatus" DataField="status" MOD="4" Left="10211.34" Top="0" Width="591.7422" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="TxtCodFP" DataField="CodFormasPago" MOD="4" Left="5098.819" Top="0" Width="793.7007" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="TxtMonto" DataField="MontoPago" MOD="4" Left="5892.52" Top="0" Width="947.4802" Height="288" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtfoliosap" DataField="FolioSAP" MOD="4" Left="680.315" Top="0" Width="975.1182" Height="289.1339" Text="0" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Visible="0" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="374" BackColor="16777215" KeepTogether="1" CanShrink="0">
+      <Control Type="AR.Field" Name="TxtSArticulos" MOD="4" BorderTopStyle="1" BorderBottomStyle="6" Left="1167.165" Top="0" Width="703.7007" Height="288" Text="0" OutputFormat="" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtSImporte" MOD="4" BorderTopStyle="1" BorderBottomStyle="6" Left="1874.173" Top="0" Width="1243.937" Height="288" Text="0" OutputFormat="$#,##0.00" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtSDescuento" MOD="4" BorderTopStyle="1" BorderBottomStyle="6" Left="3128.386" Top="0" Width="1280.197" Height="288" Text="0" OutputFormat="$#,##0.00" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtSMonto" DataField="MontoPago" MOD="4" BorderTopStyle="1" BorderBottomStyle="6" Left="5233.464" Top="0" Width="1156.536" Height="288" Text="0" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" SummaryRunning="2" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" TopMargin="567" BottomMargin="567" />
+</ActiveReportsLayout>

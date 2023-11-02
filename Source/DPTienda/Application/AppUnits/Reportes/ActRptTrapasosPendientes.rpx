@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10155" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="ActRptTrapasosPendientes.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="810" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2477.126" Top="0" Width="5215.748" Height="288" Caption="REPORTE DE TRASPASOS SIN GRABAR" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="736.6537" Top="430.1575" Width="963.7794" Height="288" Caption="Sucursal.:" />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="1813.819" Top="430.1575" Width="4251.969" Height="288" Text="TextBox1" />
+      <Control Type="AR.Field" Name="txtFechaReporte" MOD="4" Left="7937.007" Top="430.1575" Width="1440" Height="288" Text="" />
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="10091.34" Height="793.7007" BackColor="16777215" />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="480" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="8565.591" Top="0" Width="1374.803" Height="340.1575" Caption="Guia" />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="6675.591" Top="0" Width="1374.803" Height="340.1575" Caption="Fecha" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="320.315" Top="0" Width="1247.244" Height="340.1575" Caption="Folio" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="3001.89" Top="0" Width="1700.787" Height="340.1575" Caption="Sucursal Almacen" />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="4875.591" Top="0" Width="1587.401" Height="340.1575" Caption="Sucursal Destino" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="1884.331" Top="0" Width="723.5429" Height="340.1575" Caption="Estado" />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="10091.34" Y1="0" X2="10091.34" Y2="340.1575" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="0" Y1="0" X2="0" Y2="340.1575" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="10091.34" Y1="340.1575" X2="0" Y2="340.1575" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="1710.787" Y1="350.1575" X2="1710.787" Y2="10" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="2844.646" Y1="350.1575" X2="2844.646" Y2="10" />
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="6544.921" Y1="350.1575" X2="6544.921" Y2="10" />
+      <Control Type="AR.Line" Name="Line10" MOD="4" X1="4772.205" Y1="350.1575" X2="4772.205" Y2="9.999962" />
+      <Control Type="AR.Line" Name="Line11" MOD="4" X1="8209.921" Y1="350.1575" X2="8209.921" Y2="10" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="340" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TxtBxReferencia" DataField="Referencia" MOD="4" Left="320.315" Top="0" Width="1231.299" Height="340.1575" Text="000000000" />
+      <Control Type="AR.Field" Name="TxtBxStatus" DataField="tatus" MOD="4" Left="1868.031" Top="0" Width="739.8428" Height="340.1575" Text="TRA" />
+      <Control Type="AR.Field" Name="TxtBxOrigen" DataField="S. Almacen" MOD="4" Left="3001.89" Top="0" Width="1700.787" Height="340.1575" Text="Origen" />
+      <Control Type="AR.Field" Name="TxtBxDestino" DataField="S. Destino" MOD="4" Left="4846.536" Top="0" Width="1587.402" Height="340.1575" Text="Destino" />
+      <Control Type="AR.Line" Name="Line7" MOD="4" X1="10091.34" Y1="0" X2="10091.34" Y2="340.1575" />
+      <Control Type="AR.Line" Name="Line8" MOD="4" X1="0" Y1="0" X2="0" Y2="340.1575" />
+      <Control Type="AR.Field" Name="TxtBxFecha" DataField="Fecha" MOD="4" Left="6689.764" Top="0" Width="1360.63" Height="340.1575" Text="Fecha" />
+      <Control Type="AR.Field" Name="TxtBxGuia" DataField="Guia" MOD="4" Left="8399.764" Top="0" Width="1360.63" Height="340.1575" Text="Guia" />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="30" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Line" Name="Line9" MOD="4" X1="10091.34" Y1="0" X2="0" Y2="0" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="850" RightMargin="850" TopMargin="1134" BottomMargin="1134" />
+</ActiveReportsLayout>

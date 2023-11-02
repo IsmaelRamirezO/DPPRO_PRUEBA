@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/wsCierreCaja/Service1" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/wsCierreCaja/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/wsCierreCaja/Service1">
+      <s:element name="CalcularTotalDPValeCreditoDirectoTE">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FechaCierre" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="CajaID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularTotalDPValeCreditoDirectoTEResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalcularTotalDPValeCreditoDirectoTEResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularTotalDPValeCreditoDirectoTM">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FechaCierre" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="CajaID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularTotalDPValeCreditoDirectoTMResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalcularTotalDPValeCreditoDirectoTMResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularTotalCreditoDirecto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FechaCierre" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="CajaID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularTotalCreditoDirectoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalcularTotalCreditoDirectoResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CalcularTotalDPValeCreditoDirectoTESoapIn">
+    <wsdl:part name="parameters" element="tns:CalcularTotalDPValeCreditoDirectoTE" />
+  </wsdl:message>
+  <wsdl:message name="CalcularTotalDPValeCreditoDirectoTESoapOut">
+    <wsdl:part name="parameters" element="tns:CalcularTotalDPValeCreditoDirectoTEResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalcularTotalDPValeCreditoDirectoTMSoapIn">
+    <wsdl:part name="parameters" element="tns:CalcularTotalDPValeCreditoDirectoTM" />
+  </wsdl:message>
+  <wsdl:message name="CalcularTotalDPValeCreditoDirectoTMSoapOut">
+    <wsdl:part name="parameters" element="tns:CalcularTotalDPValeCreditoDirectoTMResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalcularTotalCreditoDirectoSoapIn">
+    <wsdl:part name="parameters" element="tns:CalcularTotalCreditoDirecto" />
+  </wsdl:message>
+  <wsdl:message name="CalcularTotalCreditoDirectoSoapOut">
+    <wsdl:part name="parameters" element="tns:CalcularTotalCreditoDirectoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CierreCajaSoap">
+    <wsdl:operation name="CalcularTotalDPValeCreditoDirectoTE">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa la cantidad de Abonos hechos con Tarjeta Electrónica.(DPortenis Vale,Credito Directo)</documentation>
+      <wsdl:input message="tns:CalcularTotalDPValeCreditoDirectoTESoapIn" />
+      <wsdl:output message="tns:CalcularTotalDPValeCreditoDirectoTESoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalcularTotalDPValeCreditoDirectoTM">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa la cantidad de Abonos hechos con Tarjeta Magnética.(DPortenis Vale,Credito Directo)</documentation>
+      <wsdl:input message="tns:CalcularTotalDPValeCreditoDirectoTMSoapIn" />
+      <wsdl:output message="tns:CalcularTotalDPValeCreditoDirectoTMSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalcularTotalCreditoDirecto">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa la cantidad de Abonos hechos a Credito Directo</documentation>
+      <wsdl:input message="tns:CalcularTotalCreditoDirectoSoapIn" />
+      <wsdl:output message="tns:CalcularTotalCreditoDirectoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CierreCajaSoap" type="tns:CierreCajaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="CalcularTotalDPValeCreditoDirectoTE">
+      <soap:operation soapAction="http://tempuri.org/wsCierreCaja/Service1/CalcularTotalDPValeCreditoDirectoTE" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalcularTotalDPValeCreditoDirectoTM">
+      <soap:operation soapAction="http://tempuri.org/wsCierreCaja/Service1/CalcularTotalDPValeCreditoDirectoTM" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalcularTotalCreditoDirecto">
+      <soap:operation soapAction="http://tempuri.org/wsCierreCaja/Service1/CalcularTotalCreditoDirecto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CierreCaja">
+    <wsdl:port name="CierreCajaSoap" binding="tns:CierreCajaSoap">
+      <soap:address location="http://dpssvr/Credito/CierreCaja.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

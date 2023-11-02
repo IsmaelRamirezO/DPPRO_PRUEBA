@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="8400" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptGuiaDHL.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-color: ; background-image: inherit; background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="6660" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtNombre" MOD="4" Left="180" Top="3510" Width="4230" Height="540" Text="Nombre" />
+      <Control Type="AR.Field" Name="txtDireccion" MOD="4" Left="180" Top="4230" Width="4230" Height="1170" Text="Direccion" />
+      <Control Type="AR.Field" Name="txtCP" MOD="4" Left="180" Top="5670" Width="1350" Height="360" Text="CP" Style="font-size: 9.75pt; vertical-align: bottom; " />
+      <Control Type="AR.Field" Name="txtDescripcion" MOD="4" Left="4770" Top="2340" Width="3690" Height="1170" Text="Calzado(s) / Artículos y Ropa Deportiva" />
+      <Control Type="AR.Field" Name="txtCiudadEstado" MOD="4" Left="2610" Top="5670" Width="2160" Height="360" Text="Estado, Ciudad" Style="vertical-align: bottom; " />
+      <Control Type="AR.Field" Name="txtTelefono" MOD="4" Left="2610" Top="6120" Width="2160" Height="360" Text="Telefono" Style="font-size: 9.75pt; vertical-align: bottom; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="720" />
+</ActiveReportsLayout>

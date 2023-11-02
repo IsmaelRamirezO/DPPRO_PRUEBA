@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CierreDiaAU
+</name>
+</assembly>
+<members>
+<member name="F:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.strURL">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.InsertCompleted">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.Insert(System.Data.DataSet@,System.String,System.DateTime)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.BeginInsert(System.Data.DataSet,System.String,System.DateTime,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.EndInsert(System.IAsyncResult,System.Data.DataSet@)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.InsertAsync(System.Data.DataSet,System.String,System.DateTime)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.InsertAsync(System.Data.DataSet,System.String,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.PedidoSugerido">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.InsertCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.InsertCompletedEventArgs.dsFilePSug">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.wsPSug.InsertCompletedEventArgs">
+	<remarks/>
+</member><member name="F:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.strURL">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.GetAosiadoInfoCompleted">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.GetAosiadoInfo(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.BeginGetAosiadoInfo(System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.EndGetAosiadoInfo(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.GetAosiadoInfoAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.GetAosiadoInfoAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.AsociadoInfo">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.GetAosiadoInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.GetAosiadoInfoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.WSAsociadoNombre.GetAosiadoInfoCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

@@ -1,0 +1,180 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\CatalogoCiudadesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CatalogoCiudadesAU\obj\Debug\CatalogoCiudadesAU.pdb

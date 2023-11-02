@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10770" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptArticulosSinMovimientos.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="1350" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="56.69291" Top="56.69291" Width="10658.27" Height="1247.244" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="3904.725" Top="113.3858" Width="3458.267" Height="288" Caption="REPORTE DE ARTÍCULOS SIN MOVIMIENTO" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFechaReporte" MOD="4" Left="177.1654" Top="125.4331" Width="1440" Height="288" Text="txtFecha" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="4650.236" Top="496.063" Width="861.7323" Height="248.0315" Caption="Sucursal.:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="TxtSucursal" MOD="4" Left="5604.803" Top="531.4961" Width="4181.102" Height="283.4646" Text="TxtSucursal" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="lblLinea" MOD="4" Left="4365.354" Top="963.7796" Width="623.6214" Height="248.0315" Caption="Linea.:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="lblFamilia" MOD="4" Left="7823.623" Top="963.7796" Width="737.0082" Height="248.0315" Caption="Familia.:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="lblMarca" MOD="4" Left="283.4646" Top="963.7796" Width="623.6214" Height="248.0315" Caption="Marca.:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtMarca" MOD="4" Left="1133.858" Top="963.7796" Width="2274.803" Height="283.4646" Text="TextBox1" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtLinea" MOD="4" Left="5102.362" Top="963.7796" Width="2267.717" Height="283.4646" Text="TextBox2" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFamilia" MOD="4" Left="8560.63" Top="963.7796" Width="2100.472" Height="283.4646" Text="TextBox3" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="793.7007" Top="513.7796" Width="1927.559" Height="248.0315" Caption="Días sin Movimientos..:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtDias" MOD="4" Left="2831.102" Top="510.2362" Width="760.3936" Height="283.4646" Text="TextBox1" Style="ddo-char-set: 1; font-size: 8pt; " />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="330" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="5735.197" Top="23.38594" Width="3812.598" Height="288" Caption="TALLAS / EXISTENCIAS" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="4050" Top="0" Width="1440" Height="288" Caption="TOTAL" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="2160" Top="0" Width="1440" Height="288" Caption="COLOR" Style="ddo-char-set: 1; text-align: left; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="0" Top="0" Width="1440" Height="288" Caption="ARTICULOS" Style="ddo-char-set: 1; text-align: left; font-weight: bold; font-size: 8pt; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="585" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtArticulos" MOD="4" Left="146.6929" Top="0" Width="2007.638" Height="288" Text="txtArticulos" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtTotal" MOD="4" Left="4196.693" Top="270" Width="1019.055" Height="209.7638" Text="txtTotal" OutputFormat="#,##0" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtTallas" MOD="4" Left="5869.37" Top="0" Width="4845.59" Height="288" Text="txtTallas" Style="font-size: 8.25pt; font-family: Courier New; " />
+      <Control Type="AR.Field" Name="txtColor" MOD="4" Left="2267.717" Top="0" Width="1440" Height="288" Text="txtColor" Style="ddo-char-set: 1; text-align: left; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtDescripcion" MOD="4" Left="113.3858" Top="283.4646" Width="2040.945" Height="288" Text="TextBox1" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtTotalNumero" MOD="4" Left="5839.37" Top="283.4646" Width="4875.59" Height="288" Text="TextBox4" Style="font-size: 8.25pt; font-family: Courier New; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="4793.386" Top="0" Width="513.7794" Height="288" Caption="Total" Style="ddo-char-set: 1; text-align: left; font-weight: normal; font-size: 8pt; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="9127.56" Top="0" Width="510.236" Height="248.0315" Caption="Pág.:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="TextBox4" MOD="4" Left="9864.565" Top="0" Width="793.7026" Height="283.4646" Text="" Style="ddo-char-set: 1; font-size: 8pt; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="56.69291" Top="0" Width="1440" Height="288" Caption="Total Articulos" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtSumTotal" DataField="Total" MOD="4" Left="4124.409" Top="0" Width="1091.339" Height="288" Text="TextBox1" OutputFormat="#,##0" Style="text-align: right; font-size: 8.25pt; " SummaryType="2" SummaryRunning="2" SummaryGroup="GroupHeader1" />
+    </Section>
+    <Section Type="ReportFooter" Name="ReportFooter" Height="360" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" TopMargin="1134" BottomMargin="1134" />
+</ActiveReportsLayout>

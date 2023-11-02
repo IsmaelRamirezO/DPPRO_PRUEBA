@@ -1,0 +1,259 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\CatalogoUPC.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoUPC\obj\Debug\CatalogoUPC.pdb

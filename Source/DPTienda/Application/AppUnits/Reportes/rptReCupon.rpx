@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3945" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptReCupon.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="8409" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblTitulo" MOD="4" Left="270" Top="90" Width="3330" Height="360" Caption="Dportenis" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="270" Top="450" Width="3330" Height="360" Caption="Cupón de Descuento" Style="text-align: center; font-weight: bold; font-size: 11.5pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="270" Top="1980" Width="1350" Height="360" Caption="Folio:" Style="text-align: left; font-weight: normal; font-size: 11.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblMinMax" MOD="4" Left="270" Top="4410" Width="1440" Height="720" Caption="Compra mínima de:" Style="text-align: left; font-weight: normal; font-size: 11.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="270" Top="2430" Width="1440" Height="360" Caption="Bueno por:" Style="text-align: left; font-weight: bold; font-size: 12pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFolio" MOD="4" Left="1620" Top="1980" Width="1980" Height="360" Text="Folio" Style="text-align: right; font-size: 11.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtMinMax" MOD="4" Left="1710" Top="4410" Width="1890" Height="720" Text="Minimo" Style="text-align: right; font-size: 11.25pt; font-family: Arial; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtDesc" MOD="4" Left="1710" Top="2790" Width="1890" Height="360" Text="Descuento" Style="text-align: right; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="270" Top="1350" Width="1710" Height="360" Caption="Fecha:" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="270" Top="3960" Width="1710" Height="360" Caption="Válido Hasta:" Style="text-align: left; font-weight: bold; font-size: 12pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFechaVigencia" MOD="4" Left="1980" Top="3960" Width="1620" Height="360" Text="Fecha Vigencia" Style="text-align: right; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="270" Top="810" Width="3330" Height="360" Caption="(Re-Cupón)" Style="text-align: center; font-weight: bold; font-size: 11.5pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="280" Y1="6490" X2="3780" Y2="6490" />
+      <Control Type="AR.Field" Name="txtFirma" MOD="4" Left="270" Top="6570" Width="3510" Height="540" Text="FIRMA" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label9" Visible="0" MOD="4" Left="270" Top="7200" Width="3510" Height="540" Caption="*Solo aplica en productos hasta con el % de descuento." Style="text-align: center; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="1710" Top="2430" Width="1890" Height="360" Caption="Antes de IVA" Style="text-align: right; font-weight: normal; font-size: 11.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtDescIVA" MOD="4" Left="1710" Top="3510" Width="1890" Height="360" Text="Descuento" Style="text-align: right; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="1710" Top="3240" Width="1890" Height="360" Caption="IVA Incluido" Style="text-align: right; font-weight: normal; font-size: 11.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="270" Top="1350" Width="1710" Height="360" Caption="Fecha:" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblHora" MOD="4" Left="1980" Top="1350" Width="1620" Height="360" Caption="Hora:" Style="ddo-char-set: 0; text-align: right; font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="270" Top="7830" Width="3510" Height="540" Caption="*Válido solo al presentar este cupón en caja." Style="text-align: center; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="144" RightMargin="0" TopMargin="0" BottomMargin="0" />
+</ActiveReportsLayout>

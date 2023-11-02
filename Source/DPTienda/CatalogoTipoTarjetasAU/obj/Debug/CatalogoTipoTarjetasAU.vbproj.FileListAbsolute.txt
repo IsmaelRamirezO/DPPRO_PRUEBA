@@ -1,0 +1,180 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\CatalogoTipoTarjetasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoTarjetasAU\obj\Debug\CatalogoTipoTarjetasAU.pdb

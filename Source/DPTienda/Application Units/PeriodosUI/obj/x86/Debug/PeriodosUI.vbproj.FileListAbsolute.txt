@@ -1,0 +1,2 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\x86\Debug\PeriodosUI.vbproj.GenerateResource.Cache

@@ -1,0 +1,214 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ExceptionReporting.Reporters.SerializerReporter.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ExceptionReporting.Reporters.TextReporter.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.Configuration.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ExceptionReporting.Reporters.SerializerReporter.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.ExceptionReporting.Reporters.TextReporter.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\DPSoft.Framework.Security.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll.config
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\PeriodosUI.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\PeriodosUI\obj\Debug\PeriodosUI.pdb

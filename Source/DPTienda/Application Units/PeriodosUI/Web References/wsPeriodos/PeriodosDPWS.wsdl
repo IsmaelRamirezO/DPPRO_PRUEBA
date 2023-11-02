@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/Credito/Periodos" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/Periodos" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/Periodos">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="GetPeriodosVigentes">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetPeriodosVigentesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPeriodosVigentesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSaldoPeriodoByAsociadoPeriodo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="NumPeriodo" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSaldoPeriodoByAsociadoPeriodoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetSaldoPeriodoByAsociadoPeriodoResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Load">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="LoadResult" type="s0:PeriodoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="PeriodoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="PorcLimPagoD5" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PorcLimPagoD4" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PorcLimPagoD3" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PorcLimPagoD2" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PorcLimPagoD1" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DiasCorte" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DiaPago2" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="DiaPago1" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaCorte2" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaCorte1" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NumDiasPeriodo" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Anno" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PeriodoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NumPeriodos" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </types>
+  <message name="GetPeriodosVigentesSoapIn">
+    <part name="parameters" element="s0:GetPeriodosVigentes" />
+  </message>
+  <message name="GetPeriodosVigentesSoapOut">
+    <part name="parameters" element="s0:GetPeriodosVigentesResponse" />
+  </message>
+  <message name="GetSaldoPeriodoByAsociadoPeriodoSoapIn">
+    <part name="parameters" element="s0:GetSaldoPeriodoByAsociadoPeriodo" />
+  </message>
+  <message name="GetSaldoPeriodoByAsociadoPeriodoSoapOut">
+    <part name="parameters" element="s0:GetSaldoPeriodoByAsociadoPeriodoResponse" />
+  </message>
+  <message name="LoadSoapIn">
+    <part name="parameters" element="s0:Load" />
+  </message>
+  <message name="LoadSoapOut">
+    <part name="parameters" element="s0:LoadResponse" />
+  </message>
+  <portType name="PeriodosWSSoap">
+    <operation name="GetPeriodosVigentes">
+      <input message="s0:GetPeriodosVigentesSoapIn" />
+      <output message="s0:GetPeriodosVigentesSoapOut" />
+    </operation>
+    <operation name="GetSaldoPeriodoByAsociadoPeriodo">
+      <input message="s0:GetSaldoPeriodoByAsociadoPeriodoSoapIn" />
+      <output message="s0:GetSaldoPeriodoByAsociadoPeriodoSoapOut" />
+    </operation>
+    <operation name="Load">
+      <input message="s0:LoadSoapIn" />
+      <output message="s0:LoadSoapOut" />
+    </operation>
+  </portType>
+  <binding name="PeriodosWSSoap" type="s0:PeriodosWSSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="GetPeriodosVigentes">
+      <soap:operation soapAction="http://tempuri.org/Credito/Periodos/GetPeriodosVigentes" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetSaldoPeriodoByAsociadoPeriodo">
+      <soap:operation soapAction="http://tempuri.org/Credito/Periodos/GetSaldoPeriodoByAsociadoPeriodo" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="Load">
+      <soap:operation soapAction="http://tempuri.org/Credito/Periodos/Load" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="PeriodosWS">
+    <port name="PeriodosWSSoap" binding="s0:PeriodosWSSoap">
+      <soap:address location="http://dpssvr/credito/PeriodosDPWS.asmx" />
+    </port>
+  </service>
+</definitions>

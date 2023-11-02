@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="13455" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptReportedeInventariosPorCodigo.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="990" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="13410" Height="990" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="4590" Top="720" Width="8820" Height="288" Caption="TALLAS / EXISTENCIAS" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="3600" Top="720" Width="990" Height="288" Caption="TOTAL" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="1980" Top="720" Width="1620" Height="288" Caption="COLOR" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="0" Top="720" Width="1980" Height="288" Caption="ARTICULOS" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblTitulo" MOD="4" Left="1710" Top="0" Width="10170" Height="288" Caption="REPORTE DE EXISTENCIAS:" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8.5pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtFechaReporte" MOD="4" Left="177.1654" Top="35.4331" Width="1440" Height="288" Text="txtFecha" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="TxtSucursal" MOD="4" Left="2340" Top="360" Width="6791.102" Height="283.4646" Text="TxtSucursal" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtPag" MOD="4" Left="12480" Top="0" Width="897.1655" Height="288" Text="Pagina" Style="ddo-char-set: 1; text-align: right; font-weight: bold; font-size: 8pt; vertical-align: middle; " SummaryType="4" SummaryRunning="1" />
+      <Control Type="AR.Field" Name="TextBox5" MOD="4" Left="12000" Top="0" Width="450" Height="288" Text="Pag.:" Style="ddo-char-set: 1; font-weight: normal; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Line" Name="Line37" MOD="4" X1="13420" Y1="729.9999" X2="10" Y2="729.9999" />
+      <Control Type="AR.Line" Name="Line38" MOD="4" X1="3610" Y1="729.9999" X2="3610" Y2="999.9999" />
+      <Control Type="AR.Line" Name="Line39" MOD="4" X1="1990" Y1="729.9999" X2="1990" Y2="999.9999" />
+      <Control Type="AR.Line" Name="Line40" MOD="4" X1="4600" Y1="729.9999" X2="4600" Y2="999.9999" />
+      <Control Type="AR.Field" Name="TextBox6" MOD="4" Left="9177.166" Top="395.4332" Width="540" Height="288" Text="MES :" Style="ddo-char-set: 1; font-weight: normal; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtMes" MOD="4" Left="9717.166" Top="395.4332" Width="1350" Height="288" Text="txtMes" Style="ddo-char-set: 1; text-align: left; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="509" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtArticulos" MOD="4" Left="0" Top="0" Width="2007.638" Height="288" Text="txtarticulo" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtTotal" MOD="4" Left="3602.693" Top="0" Width="929.0552" Height="288" Text="txtTotal" OutputFormat="#,##0" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtColor" MOD="4" Left="2033.717" Top="0" Width="1602.283" Height="288" Text="txtColor" Style="ddo-char-set: 1; text-align: left; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtDescripcion" MOD="4" Left="0" Top="270" Width="3660.945" Height="288" Text="txtDescripcion" CanGrow="0" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbTalla01" DataField="Talla01" MOD="4" Left="4639.464" Top="0" Width="432" Height="283.68" Text="Ta01" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal01" DataField="Total01" MOD="4" Left="4639.464" Top="283.4646" Width="432" Height="283.68" Text="To01" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal02" DataField="Total02" MOD="4" Left="5089.464" Top="282.96" Width="432" Height="283.68" Text="To02" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla02" DataField="Talla02" MOD="4" Left="5089.464" Top="0" Width="432" Height="283.68" Text="Ta02" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla03" DataField="Talla03" MOD="4" Left="5502.744" Top="0" Width="432" Height="283.68" Text="Ta03" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal03" DataField="Total03" MOD="4" Left="5503.321" Top="283.4646" Width="432" Height="283.68" Text="To03" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal04" DataField="Total04" MOD="4" Left="5960.665" Top="282.96" Width="432" Height="283.68" Text="To04" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla04" DataField="Talla04" MOD="4" Left="5960.665" Top="0" Width="432" Height="283.68" Text="Ta04" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla05" DataField="Talla05" MOD="4" Left="6407.063" Top="0" Width="432" Height="283.68" Text="Ta05" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal05" DataField="Total05" MOD="4" Left="6407.063" Top="282.96" Width="432" Height="283.68" Text="To05" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal06" DataField="Total06" MOD="4" Left="6844.109" Top="283.4646" Width="432" Height="283.68" Text="To06" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla06" DataField="Talla06" MOD="4" Left="6844.109" Top="0" Width="439.2" Height="283.68" Text="Ta06" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla07" DataField="Talla07" MOD="4" Left="7299.863" Top="0" Width="432" Height="283.68" Text="Ta07" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal07" DataField="Total07" MOD="4" Left="7299.863" Top="282.96" Width="432" Height="283.68" Text="To07" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal08" DataField="Total08" MOD="4" Left="7707.969" Top="283.4646" Width="432" Height="283.68" Text="To08" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla08" DataField="Talla08" MOD="4" Left="7707.383" Top="0" Width="442.0802" Height="283.68" Text="Ta08" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla09" DataField="Talla09" MOD="4" Left="8149.464" Top="0" Width="432" Height="283.68" Text="Ta09" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal09" DataField="Total09" MOD="4" Left="8171.063" Top="282.96" Width="432" Height="283.68" Text="To09" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal10" DataField="Total10" MOD="4" Left="8585.79" Top="282.96" Width="432" Height="283.68" Text="To10" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla10" DataField="Talla10" MOD="4" Left="8585.79" Top="0" Width="432" Height="283.68" Text="Ta10" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal11" DataField="Total11" MOD="4" Left="9020.66" Top="282.96" Width="432" Height="283.68" Text="To11" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla11" DataField="Talla11" MOD="4" Left="9020.66" Top="0" Width="432" Height="283.68" Text="Ta11" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla12" DataField="Talla12" MOD="4" Left="9435.68" Top="0" Width="446.4" Height="283.68" Text="Ta12" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal12" DataField="Total12" MOD="4" Left="9435.68" Top="283.4646" Width="432" Height="283.68" Text="To12" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla13" DataField="Talla13" MOD="4" Left="9891.87" Top="0" Width="432" Height="283.68" Text="Ta13" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal13" DataField="Total13" MOD="4" Left="9891.87" Top="282.96" Width="432" Height="283.68" Text="To13" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal14" DataField="Total14" MOD="4" Left="10309.46" Top="282.96" Width="432" Height="283.68" Text="To14" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla14" DataField="Talla14" MOD="4" Left="10309.46" Top="0" Width="453.6" Height="283.68" Text="Ta14" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla15" DataField="Talla15" MOD="4" Left="10763.06" Top="0" Width="432" Height="283.68" Text="Ta15" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal15" DataField="Total15" MOD="4" Left="10763.06" Top="282.96" Width="432" Height="283.68" Text="To15" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal16" DataField="Total16" MOD="4" Left="11177.79" Top="282.96" Width="432" Height="283.68" Text="To16" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla16" DataField="Talla16" MOD="4" Left="11177.79" Top="0" Width="432" Height="283.68" Text="Ta16" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla17" DataField="Talla17" MOD="4" Left="11627.07" Top="0" Width="432" Height="283.68" Text="Ta17" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal17" DataField="Total17" MOD="4" Left="11627.07" Top="282.96" Width="432" Height="283.68" Text="To17" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal18" DataField="Total18" MOD="4" Left="12080.67" Top="282.96" Width="432" Height="283.68" Text="To18" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla18" DataField="Talla18" MOD="4" Left="12080.67" Top="0" Width="432" Height="283.68" Text="Ta18" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla19" DataField="Talla19" MOD="4" Left="12504.03" Top="0" Width="432" Height="283.68" Text="Ta19" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal19" DataField="Total19" MOD="4" Left="12490.72" Top="283.4646" Width="432" Height="283.68" Text="To19" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotal20" DataField="Total20" MOD="4" Left="12938.4" Top="282.96" Width="432" Height="283.68" Text="To20" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTalla20" DataField="Talla20" MOD="4" Left="12960" Top="0" Width="432" Height="283.68" Text="Ta20" Style="text-align: right; font-size: 8.25pt; font-family: Arial; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="374" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="0" Width="13410" Height="360" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Field" Name="TextBox8" MOD="4" Left="87.166" Top="35.4331" Width="1712.834" Height="288" Text="TOTAL COSTO / P.P." Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtTotGral" DataField="TotalA" MOD="4" Left="4050" Top="36" Width="1440" Height="270" Text="Total" OutputFormat="#,##0" Style="text-align: right; font-weight: bold; " />
+      <Control Type="AR.Field" Name="TextBox9" DataField="Color" MOD="4" Left="1890" Top="36" Width="1890" Height="270" Text="Total" OutputFormat="#,##0" Style="text-align: right; font-weight: bold; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings Orientation="2" />
+</ActiveReportsLayout>

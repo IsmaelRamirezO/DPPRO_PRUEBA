@@ -1,0 +1,192 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll.config
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\CatalogoTipoDescuento.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CatalogoTipoMovimientos\obj\Debug\CatalogoTipoDescuento.pdb

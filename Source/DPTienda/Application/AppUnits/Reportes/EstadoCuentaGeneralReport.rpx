@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10185" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="EstadoCuentaGeneralReport.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="1634" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2970" Top="90" Width="4230" Height="288" Caption="ESTADO DE CUENTA POR CLIENTE" Style="text-align: center; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="180" Top="90" Width="1080" Height="288" Caption="Fecha" />
+      <Control Type="AR.Label" Name="lblCaja" MOD="4" Left="180" Top="360" Width="1080" Height="288" Caption="Caja # :" />
+      <Control Type="AR.Label" Name="lblSucursal" MOD="4" Left="180" Top="630" Width="8370" Height="288" Caption="Sucursal :" />
+      <Control Type="AR.Label" Name="lblPagina" MOD="4" Left="8550" Top="90" Width="540" Height="288" Caption="Pag. :" />
+      <Control Type="AR.Field" Name="txtPag" MOD="4" Left="9180" Top="90" Width="720" Height="288" Text="Pag" OutputFormat="#,##0" Style="text-align: right; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="lblCliente" MOD="4" Left="270" Top="1080" Width="810" Height="270" Caption="CLIENTE" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblNombre" MOD="4" Left="1260" Top="1080" Width="900" Height="270" Caption="NOMBRE" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblFactura" MOD="4" Left="1260" Top="1350" Width="900" Height="270" Caption="FACTURA" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblFechaFactura" MOD="4" Left="2250" Top="1350" Width="1170" Height="270" Caption="FECHA" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblCargos" MOD="4" Left="3600" Top="1350" Width="1260" Height="270" Caption="CARGOS" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="5130" Top="1350" Width="1080" Height="270" Caption="VENCE" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblCredito" MOD="4" Left="5670" Top="1080" Width="1260" Height="270" Caption="CREDITO" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="7110" Top="1080" Width="720" Height="270" Caption="PLAZO" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblSaldo" MOD="4" Left="9180" Top="1080" Width="900" Height="270" Caption="SALDO" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="10170" Y1="990" X2="0" Y2="990" />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="6300" Top="1350" Width="2610" Height="270" Caption="ABONOS CLAVE / ABONOS" Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="10170" Height="1620" BackColor="16777215" />
+    </Section>
+    <Section Type="GroupHeader" Name="ghAsociado" Height="270" DataField="AsociadoID" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtAsociadoID" DataField="AsociadoID" MOD="4" Left="0" Top="0" Width="1080" Height="270" Text="AsociadoID" Style="text-align: right; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtNombre" DataField="Nombre" MOD="4" Left="1170" Top="0" Width="4230" Height="270" Text="Nombre" CanGrow="0" SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtLimiteCrédito" DataField="Credito" MOD="4" Left="5580" Top="0" Width="1350" Height="270" Text="Credito" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtPlazo" DataField="Plazo" MOD="4" Left="7110" Top="0" Width="630" Height="270" Text="Plazo" Style="text-align: center; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtSaldo" DataField="SaldoAsociado" MOD="4" Left="8640" Top="0" Width="1440" Height="270" Text="SaldoAsociado" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryRunning="1" />
+    </Section>
+    <Section Type="GroupHeader" Name="ghFactura" Height="525" DataField="FolioFactura" GroupKeepTogether="2" BackColor="16777215" KeepTogether="1" CanShrink="1">
+      <Control Type="AR.Field" Name="txtFactura" DataField="FolioFactura" MOD="4" Left="1170" Top="0" Width="990" Height="288" Text="Factura" Style="text-align: left; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtFechaFactura" DataField="FechaFactura" MOD="4" Left="2250" Top="0" Width="1170" Height="288" Text="Fecha" OutputFormat="dd/MM/yyyy" Style="text-align: center; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtMontoFactura" DataField="PagoEstablecido" MOD="4" Left="3510" Top="0" Width="1350" Height="288" Text="Importe" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="TextBox14" DataField="FechaLimitePago" MOD="4" Left="5040" Top="0" Width="1170" Height="288" Text="VENCE" OutputFormat="dd/MM/yyyy" Style="text-align: center; " SummaryRunning="1" />
+      <Control Type="AR.Label" Name="lblAbonos" MOD="4" Left="3690" Top="270" Width="2610" Height="288" Caption="ABONOS DEL DOCUMENTO" Style="font-size: 9pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtFechaAbono" DataField="FechaAbono" MOD="4" Left="4950" Top="0" Width="1170" Height="288" Text="FechaAbono" OutputFormat="dd/MM/yyyy" Style="text-align: center; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtMontoAbono" DataField="MontoAbono" MOD="4" Left="6210" Top="0" Width="1260" Height="288" Text="MontoAbono" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="txtFormaPago" DataField="CodFormaPago" MOD="4" Left="7560" Top="0" Width="360" Height="288" Text="(F)" OutputFormat="" Style="text-align: center; " SummaryRunning="1" />
+      <Control Type="AR.Field" Name="TextBox16" DataField="ObsAbono" MOD="4" Left="7920" Top="0" Width="2160" Height="288" Text="obsAbono" OutputFormat="" Style="text-align: justify; " SummaryRunning="1" />
+    </Section>
+    <Section Type="GroupFooter" Name="gfFactura" Height="374" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox17" DataField="MontoAbonoReal" MOD="4" Left="6030" Top="90" Width="1440" Height="288" Text="Importe" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="3" SummaryRunning="1" SummaryGroup="ghFactura" />
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="7480" Y1="9.999999" X2="5860" Y2="9.999999" />
+      <Control Type="AR.Line" Name="Line7" MOD="4" X1="7479.36" Y1="43.2" X2="5859.36" Y2="43.2" />
+      <Control Type="AR.Field" Name="txtSaldoFactura" DataField="SaldoFactura" MOD="4" Left="8010" Top="90" Width="1440" Height="288" Text="SaldoFactura" OutputFormat="$#,##0.00" Style="text-align: right; " />
+    </Section>
+    <Section Type="GroupFooter" Name="gfAsociado" Height="405" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox18" DataField="SaldoFacturaReal" MOD="4" Left="7740" Top="90" Width="1710" Height="288" Text="TotalSaldoAS" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="3" SummaryRunning="1" SummaryGroup="ghAsociado" />
+      <Control Type="AR.Field" Name="txtTotalAbonoReal" DataField="MontoAbonoReal" MOD="4" Left="5760" Top="90" Width="1710" Height="288" Text="TotalAbono" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="3" SummaryRunning="1" SummaryGroup="ghAsociado" />
+      <Control Type="AR.Field" Name="txtTotalImporte" DataField="MontoFactura" MOD="4" Left="3150" Top="90" Width="1710" Height="288" Text="TotalImporte" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="3" SummaryRunning="1" SummaryGroup="ghAsociado" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="90" Top="90" Width="1530" Height="270" Caption="Total Asociado" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="10090" Y1="10" X2="9.999999" Y2="10" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="10090" Y1="369.9999" X2="9.999999" Y2="369.9999" />
+      <Control Type="AR.Field" Name="TextBox15" DataField="AsociadoID" MOD="4" Left="1710" Top="90" Width="1080" Height="270" Text="AsociadoID" Style="text-align: left; " SummaryRunning="1" />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="390" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="90" Top="90" Width="1530" Height="270" Caption="Total General" />
+      <Control Type="AR.Field" Name="TextBox19" DataField="MontoFactura" MOD="4" Left="3150" Top="90" Width="1710" Height="288" Text="GranTotalImporte" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" SummaryRunning="1" SummaryGroup="ghAsociado" />
+      <Control Type="AR.Field" Name="TextBox20" DataField="MontoAbonoReal" MOD="4" Left="5760" Top="90" Width="1710" Height="288" Text="GranTotalAbono" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" SummaryRunning="1" SummaryGroup="ghAsociado" />
+      <Control Type="AR.Field" Name="TextBox21" DataField="SaldoFacturaReal" MOD="4" Left="7740" Top="90" Width="1710" Height="288" Text="GranTotalSaldoAS" OutputFormat="$#,##0.00" Style="text-align: right; " SummaryType="1" SummaryRunning="1" SummaryGroup="ghAsociado" />
+      <Control Type="AR.Line" Name="Line8" MOD="4" X1="10090" Y1="10" X2="9.999999" Y2="10" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

@@ -1,0 +1,6 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\x86\Debug\ContactoTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\x86\Debug\ContactoTypes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\x86\Debug\ContactoTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\x86\Debug\ContactoTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\x86\Debug\ContactoTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\x86\Debug\ContactoTypes.pdb

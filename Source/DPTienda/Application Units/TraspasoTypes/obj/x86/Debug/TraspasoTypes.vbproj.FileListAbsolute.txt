@@ -1,0 +1,6 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb

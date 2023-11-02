@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/Credito/PagosCreditoDirecto" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/PagosCreditoDirecto" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/PagosCreditoDirecto">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreatePagoCreditoDirecto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:PagosCreditoDirectoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="PagosCreditoDirectoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoEnTiendaID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodCaja" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FolioFactura" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaFactura" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="RelacionAbonos" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaLimitePago" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="PagoEstablecido" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Saldo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoAnterior" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="DescuentoProntoPago" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="RecargoMoroso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Player" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreatePagoCreditoDirectoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreatePagoCreditoDirectoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeletePagoCreditoDirectoByFactura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClienteId" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodigoCaja" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodigoAlmacen" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="FolioFactura" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeletePagoCreditoDirectoByFacturaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetPagoCreditoDirectoFactura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodCaja" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="FolioFactura" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPagoCreditoDirectoFacturaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPagoCreditoDirectoFacturaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPagoCreditoDirectoAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPagoCreditoDirectoAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPagoCreditoDirectoAsociadoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPagoCreditoDirectoAsociadosRange">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoInicio" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoFin" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPagoCreditoDirectoAsociadosRangeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPagoCreditoDirectoAsociadosRangeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CreatePagoCreditoDirectoSoapIn">
+    <wsdl:part name="parameters" element="tns:CreatePagoCreditoDirecto" />
+  </wsdl:message>
+  <wsdl:message name="CreatePagoCreditoDirectoSoapOut">
+    <wsdl:part name="parameters" element="tns:CreatePagoCreditoDirectoResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeletePagoCreditoDirectoByFacturaSoapIn">
+    <wsdl:part name="parameters" element="tns:DeletePagoCreditoDirectoByFactura" />
+  </wsdl:message>
+  <wsdl:message name="DeletePagoCreditoDirectoByFacturaSoapOut">
+    <wsdl:part name="parameters" element="tns:DeletePagoCreditoDirectoByFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPagoCreditoDirectoFacturaSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPagoCreditoDirectoFactura" />
+  </wsdl:message>
+  <wsdl:message name="GetPagoCreditoDirectoFacturaSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPagoCreditoDirectoFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPagoCreditoDirectoAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPagoCreditoDirectoAsociado" />
+  </wsdl:message>
+  <wsdl:message name="GetPagoCreditoDirectoAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPagoCreditoDirectoAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPagoCreditoDirectoAsociadosRangeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPagoCreditoDirectoAsociadosRange" />
+  </wsdl:message>
+  <wsdl:message name="GetPagoCreditoDirectoAsociadosRangeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPagoCreditoDirectoAsociadosRangeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="PagosCreditoDirectoSoap">
+    <wsdl:operation name="CreatePagoCreditoDirecto">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Crea un nuevo Pago Crédito Directo.</documentation>
+      <wsdl:input message="tns:CreatePagoCreditoDirectoSoapIn" />
+      <wsdl:output message="tns:CreatePagoCreditoDirectoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePagoCreditoDirectoByFactura">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Marcamos Status de un Pago Crédito Directo por Cancelación de Factura.</documentation>
+      <wsdl:input message="tns:DeletePagoCreditoDirectoByFacturaSoapIn" />
+      <wsdl:output message="tns:DeletePagoCreditoDirectoByFacturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPagoCreditoDirectoFactura">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Selecciona una Factura marcada como Cuenta por Cobrar.</documentation>
+      <wsdl:input message="tns:GetPagoCreditoDirectoFacturaSoapIn" />
+      <wsdl:output message="tns:GetPagoCreditoDirectoFacturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPagoCreditoDirectoAsociado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Selecciona los Abonos realizados por el Asociado.</documentation>
+      <wsdl:input message="tns:GetPagoCreditoDirectoAsociadoSoapIn" />
+      <wsdl:output message="tns:GetPagoCreditoDirectoAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPagoCreditoDirectoAsociadosRange">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Selecciona los Facturas y Abonos de un rango de Asociados Credito Directo.</documentation>
+      <wsdl:input message="tns:GetPagoCreditoDirectoAsociadosRangeSoapIn" />
+      <wsdl:output message="tns:GetPagoCreditoDirectoAsociadosRangeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PagosCreditoDirectoSoap" type="tns:PagosCreditoDirectoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="CreatePagoCreditoDirecto">
+      <soap:operation soapAction="http://tempuri.org/Credito/PagosCreditoDirecto/CreatePagoCreditoDirecto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePagoCreditoDirectoByFactura">
+      <soap:operation soapAction="http://tempuri.org/Credito/PagosCreditoDirecto/DeletePagoCreditoDirectoByFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPagoCreditoDirectoFactura">
+      <soap:operation soapAction="http://tempuri.org/Credito/PagosCreditoDirecto/GetPagoCreditoDirectoFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPagoCreditoDirectoAsociado">
+      <soap:operation soapAction="http://tempuri.org/Credito/PagosCreditoDirecto/GetPagoCreditoDirectoAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPagoCreditoDirectoAsociadosRange">
+      <soap:operation soapAction="http://tempuri.org/Credito/PagosCreditoDirecto/GetPagoCreditoDirectoAsociadosRange" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PagosCreditoDirecto">
+    <wsdl:port name="PagosCreditoDirectoSoap" binding="tns:PagosCreditoDirectoSoap">
+      <soap:address location="http://dpssvr/credito/PagosCreditoDirecto.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

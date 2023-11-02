@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10170" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptMovimientosPorArticulo.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="1260" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2015.669" Top="0" Width="5480.315" Height="377.9528" Caption="Histórico de Movimientos por Articulo" Style="text-align: center; font-size: 15.75pt; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="7559.055" Top="0" Width="2551.181" Height="288" Text="" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="566.9291" Top="472.441" Width="1322.835" Height="288" Caption="Cod. Articulo" Style="text-align: center; font-weight: bold; font-size: 9.75pt; " />
+      <Control Type="AR.Field" Name="txtCodArticulo" MOD="4" Left="1984.252" Top="472.441" Width="2362.205" Height="288" Text="" />
+      <Control Type="AR.Field" Name="txtDescripcionArticulo" MOD="4" Left="4440.945" Top="472.441" Width="4913.386" Height="288" Text="" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="0" Top="944.882" Width="944.882" Height="288" Caption="Clave" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="944.882" Top="944.882" Width="1606.299" Height="288" Caption="Folio" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="2551.181" Top="944.882" Width="1795.276" Height="288" Caption="Fecha" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="4346.457" Top="944.882" Width="557.4799" Height="288" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="4913.386" Top="944.882" Width="1039.37" Height="288" Caption="Cantidad" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="5952.756" Top="944.882" Width="4062.992" Height="288" Caption="Descripcion" Style="text-align: center; " />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="10110.24" Y1="1230" X2="0" Y2="1230" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtBWART" DataField="BWART" MOD="4" Left="0" Top="0" Width="944.882" Height="288" Text="" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtMBLNR" DataField="Folioprincipal" MOD="4" Left="944.882" Top="0" Width="1589.882" Height="288" Text="" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtBUDAT" DataField="BUDAT" MOD="4" Left="2557.087" Top="0" Width="1795.276" Height="288" Text="" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtJ_3ASIZ" DataField="J_3ASIZ" MOD="4" Left="4346.457" Top="0" Width="566.9292" Height="288" Text="" />
+      <Control Type="AR.Field" Name="txtMENGE" DataField="MENGE" MOD="4" Left="4942.205" Top="0" Width="921.9682" Height="288" Text="" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="txtDescripcionMovimiento" DataField="Descripcion" MOD="4" Left="5957.362" Top="0" Width="4058.385" Height="288" Text="" />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="973" BackColor="16777215" KeepTogether="1" CanShrink="0">
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="94.4882" Top="90" Width="1322.835" Height="288" Caption="Entradas" Style="font-weight: bold; font-size: 9.75pt; vertical-align: top; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="94.4882" Top="373.4646" Width="1322.835" Height="288" Caption="Salidas" Style="font-weight: bold; font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="94.4882" Top="656.929" Width="1322.835" Height="288" Caption="Stock Final" Style="font-weight: bold; font-size: 9.75pt; " />
+      <Control Type="AR.Field" Name="txtTEntradas" MOD="4" Left="1511.811" Top="90" Width="1440" Height="288" Text="TextBox1" Style="text-align: right; font-size: 9.75pt; " />
+      <Control Type="AR.Field" Name="txtTSalidas" MOD="4" Left="1511.811" Top="373.4646" Width="1440" Height="288" Text="TextBox2" Style="text-align: right; font-size: 9.75pt; " />
+      <Control Type="AR.Field" Name="txtTStock" MOD="4" Left="1511.811" Top="656.929" Width="1440" Height="288" Text="TextBox3" Style="text-align: right; font-size: 9.75pt; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="10110.24" Y1="0" X2="0" Y2="1.68958E-05" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

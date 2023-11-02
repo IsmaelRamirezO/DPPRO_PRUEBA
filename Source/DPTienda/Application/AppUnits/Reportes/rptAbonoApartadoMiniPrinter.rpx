@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3960" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptAbonoApartadoMiniPrinter.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="4920" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="tbNumApartado" MOD="4" Left="2721.26" Top="1936.367" Width="1133.858" Height="226.7715" Caption="0000000000" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbDesCliente" MOD="4" Left="368.5039" Top="1625.771" Width="3514.961" Height="226.7716" Caption="CRISTINA AROS MARTINEZ" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbSaldoActual" MOD="4" Left="2154.331" Top="2897.717" Width="1133.858" Height="288" Caption="" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbSaldoNuevo" MOD="4" Left="2154.331" Top="3398.031" Width="1133.858" Height="288" Caption="" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbFecha" MOD="4" Left="1133.858" Top="2246.963" Width="2721.26" Height="226.7715" Caption="05/06/2006 03:18:56 p.m." Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbImporteCLetra" MOD="4" Left="368.5039" Top="4168.346" Width="3401.575" Height="680.315" Caption="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbFolioAbono" MOD="4" Left="1133.858" Top="386.9291" Width="1553.386" Height="223.2284" Caption="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbAbono" MOD="4" Left="2154.331" Top="3147.874" Width="1133.858" Height="288" Caption="" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="1133.858" Top="2897.717" Width="907.0866" Height="288" Caption="Saldo $" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="1133.858" Top="3147.874" Width="907.0867" Height="288" Caption="Anticipo $" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="680.315" Top="3398.031" Width="1360.63" Height="288" Caption="Saldo Nuevo $" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="368.5039" Top="383.3857" Width="651.9686" Height="226.7717" Caption="FOLIO:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="368.5039" Top="1315.174" Width="1020.472" Height="226.7716" Caption="RECIBÍ DE: " Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="368.5039" Top="1936.367" Width="2239.37" Height="226.7715" Caption="CONTRATO DE APARTADO:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="368.5039" Top="2246.963" Width="651.9685" Height="226.7717" Caption="FECHA" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="368.5039" Top="2557.559" Width="1474.016" Height="226.7715" Caption="LA CANTIDAD DE:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="368.5039" Top="3851.575" Width="1785.827" Height="226.7717" Caption="IMPORTE CON LETRA:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="793.7007" Top="0" Width="2721.26" Height="340.1575" Caption="ANTICIPO A APARTADO" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbSucursal" MOD="4" Left="340.1575" Top="693.982" Width="3401.574" Height="226.7716" Caption="SUCURSAL: " Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="tbformapago" MOD="4" Left="340.1575" Top="1004.578" Width="3401.574" Height="226.7716" Caption="FORMA DE PAGO: " Style="font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="15" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="973" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="3071.417" Y1="690.3149" X2="917.0865" Y2="690.3149" />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="1247.244" Top="1.072884E-05" Width="1474.016" Height="226.7717" Caption="FIRMA" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="1247.244" Top="680.315" Width="1474.016" Height="226.7717" Caption="CAJERO(A)" Style="text-align: center; font-size: 8.25pt; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" />
+</ActiveReportsLayout>

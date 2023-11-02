@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://ws.dportenis.com.mx/Credito/Creditos" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dportenis.com.mx/Credito/Creditos" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dportenis.com.mx/Credito/Creditos">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreateCreditosEnTienda">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="s0:CreditoEnTiendaInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CreditoEnTiendaInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoEnTiendaID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Banco" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoBancario" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Plazo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalNombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalSexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalDomicilio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalCiudad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalColonia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalTelefono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AvalCodigoPostal" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaExpiracion" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCredito" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Saldo" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="CuentaContable" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FirmaDigital" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="RecordCreatedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordCreatedOn" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordStatus" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateCreditosEnTiendaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateCreditosEnTiendaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditosEnTienda">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="s0:CreditoEnTiendaInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditosEnTiendaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeleteCreditosEnTienda">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteCreditosEnTiendaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetCreditosEnTienda">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCreditosEnTiendaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetCreditosEnTiendaResult" type="s0:CreditoEnTiendaInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCreditosEnTiendaByClienteID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCreditosEnTiendaByClienteIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetCreditosEnTiendaByClienteIDResult" type="s0:CreditoEnTiendaInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosEnTienda">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetListCreditosEnTiendaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetListCreditosEnTiendaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="CreateCreditosEnTiendaSoapIn">
+    <part name="parameters" element="s0:CreateCreditosEnTienda" />
+  </message>
+  <message name="CreateCreditosEnTiendaSoapOut">
+    <part name="parameters" element="s0:CreateCreditosEnTiendaResponse" />
+  </message>
+  <message name="UpdateCreditosEnTiendaSoapIn">
+    <part name="parameters" element="s0:UpdateCreditosEnTienda" />
+  </message>
+  <message name="UpdateCreditosEnTiendaSoapOut">
+    <part name="parameters" element="s0:UpdateCreditosEnTiendaResponse" />
+  </message>
+  <message name="DeleteCreditosEnTiendaSoapIn">
+    <part name="parameters" element="s0:DeleteCreditosEnTienda" />
+  </message>
+  <message name="DeleteCreditosEnTiendaSoapOut">
+    <part name="parameters" element="s0:DeleteCreditosEnTiendaResponse" />
+  </message>
+  <message name="GetCreditosEnTiendaSoapIn">
+    <part name="parameters" element="s0:GetCreditosEnTienda" />
+  </message>
+  <message name="GetCreditosEnTiendaSoapOut">
+    <part name="parameters" element="s0:GetCreditosEnTiendaResponse" />
+  </message>
+  <message name="GetCreditosEnTiendaByClienteIDSoapIn">
+    <part name="parameters" element="s0:GetCreditosEnTiendaByClienteID" />
+  </message>
+  <message name="GetCreditosEnTiendaByClienteIDSoapOut">
+    <part name="parameters" element="s0:GetCreditosEnTiendaByClienteIDResponse" />
+  </message>
+  <message name="GetListCreditosEnTiendaSoapIn">
+    <part name="parameters" element="s0:GetListCreditosEnTienda" />
+  </message>
+  <message name="GetListCreditosEnTiendaSoapOut">
+    <part name="parameters" element="s0:GetListCreditosEnTiendaResponse" />
+  </message>
+  <portType name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosEnTiendaSoap">
+    <operation name="CreateCreditosEnTienda">
+      <documentation>Crea un nuevo credito EnTienda.</documentation>
+      <input message="s0:CreateCreditosEnTiendaSoapIn" />
+      <output message="s0:CreateCreditosEnTiendaSoapOut" />
+    </operation>
+    <operation name="UpdateCreditosEnTienda">
+      <documentation>Actualiza un credito EnTienda.</documentation>
+      <input message="s0:UpdateCreditosEnTiendaSoapIn" />
+      <output message="s0:UpdateCreditosEnTiendaSoapOut" />
+    </operation>
+    <operation name="DeleteCreditosEnTienda">
+      <documentation>Elimina un credito EnTienda.</documentation>
+      <input message="s0:DeleteCreditosEnTiendaSoapIn" />
+      <output message="s0:DeleteCreditosEnTiendaSoapOut" />
+    </operation>
+    <operation name="GetCreditosEnTienda">
+      <documentation>Obtiene un credito EnTienda.</documentation>
+      <input message="s0:GetCreditosEnTiendaSoapIn" />
+      <output message="s0:GetCreditosEnTiendaSoapOut" />
+    </operation>
+    <operation name="GetCreditosEnTiendaByClienteID">
+      <documentation>Obtiene un credito EnTienda por Código de Cliente.</documentation>
+      <input message="s0:GetCreditosEnTiendaByClienteIDSoapIn" />
+      <output message="s0:GetCreditosEnTiendaByClienteIDSoapOut" />
+    </operation>
+    <operation name="GetListCreditosEnTienda">
+      <documentation>Obtiene una lista de creditos EnTienda.</documentation>
+      <input message="s0:GetListCreditosEnTiendaSoapIn" />
+      <output message="s0:GetListCreditosEnTiendaSoapOut" />
+    </operation>
+  </portType>
+  <binding name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosEnTiendaSoap" type="s0:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosEnTiendaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="CreateCreditosEnTienda">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Creditos/CreateCreditosEnTienda" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateCreditosEnTienda">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Creditos/UpdateCreditosEnTienda" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteCreditosEnTienda">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Creditos/DeleteCreditosEnTienda" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetCreditosEnTienda">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Creditos/GetCreditosEnTienda" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetCreditosEnTiendaByClienteID">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Creditos/GetCreditosEnTiendaByClienteID" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetListCreditosEnTienda">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Creditos/GetListCreditosEnTienda" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosEnTienda">
+    <documentation>Proporciona métodos para manejar Créditos en Tienda.</documentation>
+    <port name="Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosEnTiendaSoap" binding="s0:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosEnTiendaSoap">
+      <soap:address location="http://dpssvr/credito/CreditosEnTienda.asmx" />
+    </port>
+  </service>
+</definitions>

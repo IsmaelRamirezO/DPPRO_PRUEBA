@@ -1,0 +1,107 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PeriodosUI
+</name>
+</assembly>
+<members>
+<member name="F:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.strURL">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetPeriodosVigentesCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetSaldoPeriodoByAsociadoPeriodoCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.LoadCompleted">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetPeriodosVigentes">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.BeginGetPeriodosVigentes(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.EndGetPeriodosVigentes(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetPeriodosVigentesAsync">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetPeriodosVigentesAsync(System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetSaldoPeriodoByAsociadoPeriodo(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.BeginGetSaldoPeriodoByAsociadoPeriodo(System.Int32,System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.EndGetSaldoPeriodoByAsociadoPeriodo(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetSaldoPeriodoByAsociadoPeriodoAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.GetSaldoPeriodoByAsociadoPeriodoAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.Load(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.BeginLoad(System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.EndLoad(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.LoadAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.LoadAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodosWS">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.StatusRegistro">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.Fecha">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.Usuario">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.PorcLimPagoD5">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.PorcLimPagoD4">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.PorcLimPagoD3">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.PorcLimPagoD2">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.PorcLimPagoD1">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.DiasCorte">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.DiaPago2">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.DiaPago1">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.FechaCorte2">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.FechaCorte1">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.NumDiasPeriodo">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.Anno">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.PeriodoID">
+	<comentarios/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo.NumPeriodos">
+	<comentarios/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.PeriodoInfo">
+	<comentarios/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.GetPeriodosVigentesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.GetPeriodosVigentesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.GetPeriodosVigentesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.GetSaldoPeriodoByAsociadoPeriodoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.GetSaldoPeriodoByAsociadoPeriodoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.GetSaldoPeriodoByAsociadoPeriodoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.LoadCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.LoadCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.PeriodosUI.wsPeriodos.LoadCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

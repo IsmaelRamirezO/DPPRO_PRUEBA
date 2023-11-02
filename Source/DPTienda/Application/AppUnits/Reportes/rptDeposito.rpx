@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="7965" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptDeposito.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="4905" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="90" Top="0" Width="7650" Height="4680" BackColor="16777215" />
+      <Control Type="AR.Label" Name="lblTitulo" MOD="4" Left="1440" Top="90" Width="4500" Height="540" Caption="FICHAS DE DEPÓSITO" Style="font-weight: bold; font-size: 18pt; " />
+      <Control Type="AR.Label" Name="lblFicha1" MOD="4" Left="450" Top="720" Width="3510" Height="360" Caption="■Ficha 1 Ventas de tienda" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtNombreTienda" MOD="4" Left="3960" Top="720" Width="3690" Height="360" Text="" Style="font-size: 12.75pt; " />
+      <Control Type="AR.Label" Name="lblVentaConvenioCIEC" MOD="4" Left="1080" Top="1170" Width="2250" Height="360" Caption="-Convenio CIEC:" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtVentaConvenioCIEC" MOD="4" Left="3330" Top="1170" Width="3240" Height="360" Text="366632" Style="font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="lblVentaReferencia" MOD="4" Left="1080" Top="1530" Width="1800" Height="360" Caption="-Referencia:" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtVentaReferencia" MOD="4" Left="2880" Top="1530" Width="3690" Height="360" Text="" Style="font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="lblVentaCantidad" MOD="4" Left="1080" Top="1890" Width="3060" Height="360" Caption="-Cantidad a depositar:" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtVentaCantidad" MOD="4" Left="4140" Top="1890" Width="2430" Height="360" Text="" Style="text-align: right; font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="lblFicha2" MOD="4" Left="450" Top="2700" Width="3960" Height="360" Caption="■Ficha 2 Pagos Ecommerce" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="lblEcommerceConvenio" MOD="4" Left="1080" Top="3150" Width="1440" Height="360" Caption="-Convenio:" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtEcommerceConvenio" MOD="4" Left="2520" Top="3150" Width="4050" Height="360" Text="826332" Style="font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="lblEcommerceReferencia" MOD="4" Left="1080" Top="3510" Width="1800" Height="360" Caption="-Referencia:" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtEcommerceReferencia" MOD="4" Left="2880" Top="3510" Width="3690" Height="360" Text="" Style="font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="lblEcommerceCantidad" MOD="4" Left="1080" Top="3870" Width="3060" Height="360" Caption="-Cantidad a depositar:" Style="font-weight: normal; font-size: 14.25pt; " />
+      <Control Type="AR.Field" Name="txtCantidadEcommerce" MOD="4" Left="4140" Top="3870" Width="2430" Height="360" Text="" Style="text-align: right; font-size: 14.25pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Picture1.ImageData" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
+        cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
+        b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
+        AQEBCQIAAAAAAAAAAAAAAIglAACIJQAAAQEBAQoPAgAAAIglAAACAIMlAAD/2P/gABBKRklGAAEBAQBg
+        AGAAAP/bAEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwM
+        DAwHCQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+        DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIADcA6QMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAA
+        AAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgj
+        QrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2
+        d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj
+        5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIE
+        BAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYn
+        KCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqi
+        o6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEA
+        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
+</value>
+  </data>
+  <metadata name="$this.TrayLargeIcon" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.StyleSheet" xml:space="preserve">
+    <value>font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0</value>
+  </data>
+</root>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

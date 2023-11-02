@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3975" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="ReporteApartadoMiniPrinter1.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="4110" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbFolio" MOD="4" Left="368.5039" Top="563.3857" Width="1785.827" Height="253.7009" Text="FOLIO: 000000000" Style="font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbNombre" MOD="4" Left="340.1575" Top="1927.559" Width="3514.961" Height="288" Text="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDomicilio" MOD="4" Left="368.5039" Top="2577.402" Width="3486.614" Height="280.6295" Text="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbCiudad" MOD="4" Left="368.5039" Top="3194.646" Width="3486.614" Height="288" Text="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbRFC" MOD="4" Left="1587.401" Top="3790.63" Width="2267.717" Height="226.7715" Text="WWWW-123141-WWW" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTelefono" MOD="4" Left="1587.401" Top="3520.63" Width="2267.717" Height="226.7719" Text="01(669)9408239" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="ebCodCaja" MOD="4" Left="368.5039" Top="1130.315" Width="1559.055" Height="288" Text="CAJA: " Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="1587.401" Top="1400.315" Width="2239.37" Height="288" Text="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TxtBxDocFi" Visible="0" MOD="4" Left="2267.717" Top="563.3857" Width="1587.402" Height="253.7009" Text="NOSE USA" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="368.5039" Top="1720.63" Width="765.3543" Height="226.7716" Caption="NOMBRE:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="368.5039" Top="2350.63" Width="1133.858" Height="226.7716" Caption="DOMICILIO:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="368.5039" Top="2980.63" Width="1133.858" Height="226.7716" Caption="CIUDAD:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="368.5039" Top="3520.63" Width="1133.858" Height="226.7716" Caption="TELEFONO:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="368.5039" Top="3790.63" Width="1133.858" Height="226.7716" Caption="RFC:" Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="793.7007" Top="226.7717" Width="2834.646" Height="226.7717" Caption="CONTRATO DE APARTADO" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox14" MOD="4" Left="368.5039" Top="1400.315" Width="1105.512" Height="288" Text="FECHA: " Style="font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbSucursal" MOD="4" Left="340.1575" Top="817.0866" Width="3514.961" Height="288" Text="SUCURSAL: " Style="font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="495" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox7" DataField="Cantidad" MOD="4" Left="368.5039" Top="0" Width="368.5039" Height="226.7717" Text="" Style="font-style: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox8" DataField="CodArticulo" MOD="4" Left="793.7007" Top="0" Width="1587.401" Height="226.7717" Text="" Style="font-style: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox10" DataField="Numero" MOD="4" Left="2471.102" Top="0" Width="453.5432" Height="226.7717" Text="" Style="text-align: right; font-style: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox11" DataField="Precio" MOD="4" Left="1587.401" Top="226.7717" Width="907.0866" Height="249.4488" Text="" OutputFormat="#,##0.00" Style="text-align: right; font-style: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox12" DataField="Importe" MOD="4" Left="2948.031" Top="226.7717" Width="901.4173" Height="226.7717" Text="" OutputFormat="#,##0.00" Style="text-align: right; font-weight: normal; font-style: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox13" DataField="Descuento" Visible="0" MOD="4" Left="368.5039" Top="249.4488" Width="793.7007" Height="226.7717" Text="" Style="ddo-char-set: 0; font-style: normal; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="9419" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbImporteTotal" MOD="4" Left="2721.26" Top="34.0153" Width="1133.858" Height="226.7717" Text="" Style="text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="1720.63" Top="34.0153" Width="907.0865" Height="226.7717" Caption="TOTAL:" Style="text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="368.5039" Top="8603.857" Width="1474.016" Height="226.7717" Caption="CLIENTE" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="368.5039" Top="9172.205" Width="1474.016" Height="226.7717" Caption="FIRMA" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="2267.717" Top="8603.857" Width="1474.016" Height="226.7717" Caption="AUTORIZO" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="2154.331" Top="9174.331" Width="1700.788" Height="226.7717" Caption="NOMBRE Y FIRMA" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="368.5039" Top="564.0917" Width="3486.614" Height="226.7717" Caption="CONTRATO DE APARTADO" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="368.5039" Top="790.8633" Width="3486.614" Height="1000.631" Caption="A la hora y fecha señaladas en la parte frontal de este contrato. Se cita Comercial D'portenis que en adelante será denominada como &lt;&lt;La empresa&gt;&gt; y &lt;&lt;El cliente&gt;&gt;, cuyo nombre aparece en la parte frontal de este contrato." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label18" MOD="4" Left="368.5039" Top="1791.494" Width="3486.614" Height="226.7717" Caption="CLAUSULAS:" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label19" MOD="4" Left="368.5039" Top="2018.266" Width="3486.614" Height="793.7007" Caption="PRIMERA: &lt;&lt;La empresa&gt;&gt; manifiesta que &lt;&lt;El cliente&gt;&gt; desea adquirir los artículos anteriormente descritos por medio de un apartado." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label20" MOD="4" Left="368.5039" Top="2811.967" Width="3486.614" Height="793.7007" Caption="SEGUNDA: &lt;&lt;El cliente&gt;&gt; se obliga a pagar los artículos de la siguiente manera: *Al realizar el pedido depositará el 20% del valor total por concepto de apartado." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label21" MOD="4" Left="368.5039" Top="3605.667" Width="3486.614" Height="1417.323" Caption="TERCERA: &lt;&lt;El cliente&gt;&gt;  deberá pagar el monto total establecido en este contrato para liquidación del mismo. Los descuentos en algunos o todos los artículos apartados, que sean posteriores a la firma de este contrato, quedaran sin efecto para fines de su liquidación." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label22" MOD="4" Left="368.5039" Top="5022.99" Width="3486.614" Height="793.7011" Caption="CUARTA: &lt;&lt;El cliente&gt;&gt; acepta y se compromete a pagar la totalidad de este contrato en 45 días después de la firma del mismo." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label23" MOD="4" Left="368.5039" Top="5816.691" Width="3486.614" Height="1046.694" Caption="QUINTA: En el caso de que el &lt;&lt;El cliente&gt;&gt; no cumpliera con lo establecido en la cláusula CUARTA de este contrato, se fijara una pena del 50% de la cantidad que haya depositado según la cláusula SEGUNDA." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label24" MOD="4" Left="368.5039" Top="6863.386" Width="3486.614" Height="793.7011" Caption="SEXTA: El producto o productos  liquidados estarán sujetos a las mismas políticas que sobre garantías mantiene la empresa D’portenis." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label25" MOD="4" Left="368.5039" Top="7657.087" Width="3486.614" Height="797.2442" Caption="SEPTIMA: Serán competentes para cualquier controversia surgida de este contrato, los tribunales radicados en la ciudad de Mazatlán, Sinaloa." Style="text-align: justify; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="3855.118" Y1="9007.796" X2="2154.331" Y2="9007.796" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="1814.173" Y1="9007.796" X2="340.1575" Y2="9007.796" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" />
+</ActiveReportsLayout>

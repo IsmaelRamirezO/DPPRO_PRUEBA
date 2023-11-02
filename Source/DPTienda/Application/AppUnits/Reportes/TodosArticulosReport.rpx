@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10230" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="TodosArticulosReport.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="1845" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="1291.89" Width="10062.99" Height="479.7638" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="10062.99" Height="1311.024" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="329.5275" Top="106.2992" Width="810" Height="260.7876" Caption="Fecha:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="LblFecha" MOD="4" Left="1049.528" Top="106.2992" Width="1530" Height="260.7876" Caption="LblFecha" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldArticulo" MOD="4" Left="3359.055" Top="1430.787" Width="990" Height="260.7876" Caption="Descripción" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldFolio" MOD="4" Left="1401.732" Top="1430.787" Width="697.323" Height="260.64" Caption="Código" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="3749.527" Top="466.2993" Width="810" Height="260.7876" Caption="Sucursal:" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblReportTitle" MOD="4" Left="3510" Top="-90" Width="3884.882" Height="496.063" Caption="Reporte de Artículos Con Movimientos" ClassName="Heading1" Style="ddo-char-set: 1; font-size: 10pt; white-space: nowrap; vertical-align: middle; " Multiline="0" />
+      <Control Type="AR.Label" Name="LblSucursal" MOD="4" Left="4739.528" Top="466.2993" Width="3255.59" Height="260.7876" Caption="LblSucursal" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldDescuento" MOD="4" Left="6976.771" Top="1430.787" Width="990" Height="260.7876" Caption="Existencias" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lbFechaInicio" MOD="4" Left="3749.528" Top="826.2993" Width="1530" Height="260.7876" Caption="lbFechaInicio" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="3299.527" Top="826.2993" Width="450" Height="260.7876" Caption="Del :" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lbFechaFin" MOD="4" Left="5909.528" Top="826.2993" Width="1530" Height="260.7876" Caption="lbFechaFin" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="5459.527" Top="826.2993" Width="360" Height="260.7876" Caption="Al :" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbDescripcion" MOD="4" Left="3325.039" Top="0" Width="3342.047" Height="283.4646" Text="tbDescripcion" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbExistencia" MOD="4" Left="7052.599" Top="0" Width="552.047" Height="283.4646" Text="tbExistencia" OutputFormat="" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbCodigo" MOD="4" Left="1401.732" Top="0" Width="1518.661" Height="283.4646" Text="tbCodigo" Style="font-size: 8.25pt; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="525" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape3" MOD="4" Left="15" Top="0" Width="10062.99" Height="479.7638" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="1491.732" Top="90" Width="1315.984" Height="260.64" Caption="Total Artículos :" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="tbTotalArticulos" MOD="4" Left="3050.787" Top="90" Width="552.047" Height="283.4646" Text="" OutputFormat="" Style="text-align: right; font-size: 8.25pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" TopMargin="850" />
+</ActiveReportsLayout>

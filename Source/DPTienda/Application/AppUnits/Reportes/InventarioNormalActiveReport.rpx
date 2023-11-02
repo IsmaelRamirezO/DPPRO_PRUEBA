@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10365" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="InventarioNormalActiveReport.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-style: normal; font-variant: inherit; font-weight: normal; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; font-family: Verdana; font-size: 8pt; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-size-adjust: inherit; font-stretch: inherit; font-size: 14pt; font-weight: bold; " />
+    <Style Name="Heading2" Value="font-variant: inherit; font-size-adjust: inherit; font-stretch: inherit; font-size: 12pt; font-style: inherit; font-weight: bold; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size-adjust: inherit; font-stretch: inherit; font-size: 10pt; " />
+    <Style Name="FieldHeader" Value="font-weight: bold; color: #FFFFFF; background-color: #404040; vertical-align: middle; " />
+    <Style Name="FieldData" Value="vertical-align: middle; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1724" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2338.583" Top="1133.858" Width="6944.882" Height="566.9292" Caption="Tallas" ClassName="FieldHeader" />
+      <Control Type="AR.Label" Name="lblReportTitle" MOD="4" Left="51.73225" Top="70.86614" Width="3685.04" Height="425.1969" Caption="Reporte de Inventario" ClassName="Heading1" Style="vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="70.86615" Top="1133.858" Width="2267.716" Height="288" Caption="Código" ClassName="FieldHeader" />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="70.86615" Top="1417.323" Width="2267.716" Height="288" Caption="Descripción" ClassName="FieldHeader" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="570" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox1" DataField="Codigo" MOD="4" Left="70.86614" Top="0" Width="2055.118" Height="288" Text="TextBox1" ClassName="FieldData" />
+      <Control Type="AR.Field" Name="TextBox2" DataField="Descripcion" MOD="4" Left="70.86628" Top="283.4646" Width="2055.118" Height="288" Text="TextBox2" ClassName="FieldData" />
+      <Control Type="AR.Field" Name="TextBox3" DataField="Talla01" MOD="4" Left="2267.717" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox4" DataField="Talla02" MOD="4" Left="2834.646" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox6" DataField="Talla04" MOD="4" Left="3968.504" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox7" DataField="Talla05" MOD="4" Left="4535.433" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox8" DataField="Talla06" MOD="4" Left="5102.362" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox9" DataField="Talla07" MOD="4" Left="5669.292" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox10" DataField="Talla08" MOD="4" Left="6236.22" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox11" DataField="Talla09" MOD="4" Left="6803.15" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox12" DataField="Talla10" MOD="4" Left="7370.079" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox13" DataField="Talla11" MOD="4" Left="7937.009" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox5" DataField="Talla03" MOD="4" Left="3401.575" Top="0" Width="566.9292" Height="288" Text="00.00" ClassName="FieldData" Style="ddo-char-set: 1; text-align: center; font-weight: bold; background-color: Gainsboro; " />
+      <Control Type="AR.Field" Name="TextBox14" DataField="Total01" MOD="4" Left="2267.717" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox15" DataField="Total02" MOD="4" Left="2834.646" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox16" DataField="Total03" MOD="4" Left="3401.575" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox17" DataField="Total04" MOD="4" Left="3968.504" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox18" DataField="Total05" MOD="4" Left="4535.433" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox19" DataField="Total06" MOD="4" Left="5102.362" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox20" DataField="Total07" MOD="4" Left="5669.292" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox21" DataField="Total08" MOD="4" Left="6236.22" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox22" DataField="Total09" MOD="4" Left="6803.15" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox23" DataField="Total10" MOD="4" Left="7370.079" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Field" Name="TextBox24" DataField="Total11" MOD="4" Left="7937.009" Top="283.4645" Width="566.9291" Height="288" Text="0,000" ClassName="FieldData" Style="text-align: right; " />
+      <Control Type="AR.Line" Name="Line10" MOD="4" X1="2267.717" Y1="0" X2="2267.717" Y2="566.9288" />
+      <Control Type="AR.Line" Name="Line11" MOD="4" X1="2834.646" Y1="0" X2="2834.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line12" MOD="4" X1="3404.646" Y1="0" X2="3404.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line13" MOD="4" X1="3974.646" Y1="0" X2="3974.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line14" MOD="4" X1="4529.646" Y1="0" X2="4529.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line15" MOD="4" X1="5099.646" Y1="0" X2="5099.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line16" MOD="4" X1="5669.646" Y1="0" X2="5669.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line17" MOD="4" X1="6239.646" Y1="0" X2="6239.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line18" MOD="4" X1="6809.646" Y1="0" X2="6809.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line19" MOD="4" X1="7364.646" Y1="0" X2="7364.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line20" MOD="4" X1="7934.646" Y1="0" X2="7934.646" Y2="566.9287" />
+      <Control Type="AR.Line" Name="Line21" MOD="4" X1="8504.646" Y1="0" X2="8504.646" Y2="566.9287" />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="360" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="283" RightMargin="283" TopMargin="283" BottomMargin="283" Orientation="2" />
+</ActiveReportsLayout>

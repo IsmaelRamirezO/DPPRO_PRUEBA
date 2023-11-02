@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btNuevo.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAARpJREFUOE9joCv4
+        P5XhP5RJPABpgmlEplEMi82c/B8bBiv8L/X//zGIBjAbRIP4UDZY8/dff3FiiMZYIO4B4m1QGsgHaYbZ
+        DleMBlAMAdt6Bu4asGYQoKoLQNgpcxUcQzSTEAYgTTdf/YdjkBhYAxCX7QDqAdFbvsLF9BLWYDcgfOn/
+        /zErIDh55df/mev//8/fAjGgetf//6kLn/7PW/uBsAEgjTDNIBeANDfu//8/Z+lz/AbAbM5dD8EgjTDN
+        nYf+/S9bQ8AAmLNBmpFtBmmeehpiQOlGPAaANIMCC10zzICq9c/A8vbJi1ENsE9fCTYgYuFXMAa5BNkr
+        YEOBOG7W3f8JC19AXAACIJNg2CpxCQqNDcPkGBgYGABpJHdf56ynrAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btGuardar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAANNJREFUOE/Fk7EN
+        gzAQRT0eERmAFERkAFLQkQUYhFTuGMAFBQ0LIAZgB7qLvqNDh3NAlCZITzbm38MY2+A6xzFJmqbZROaW
+        4luW0TVN/SDaeZ4XxnGkZ11T13U0DAPd89znH2X5lnBRKEABwFtPUURVVfl7CJCB5GsBxkMB51VB3/cr
+        gTaDTcElSZZixlpLzrljAb4LgaIoVGSxKtDgP6SxOwPZyr4UfgiwYHIPaGAtfhZM07QvwEMObnE4A61I
+        8n9B27ZrAZ9IgJMX7sIQZDhvjDEvZfqgjjZxqbYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="GridEXLayout1.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true"&gt;&lt;Column0 ID="Column1"&gt;&lt;Caption&gt;Codigo&lt;/Caption&gt;&lt;Key&gt;Column1&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;Width&gt;104&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Column2"&gt;&lt;Caption&gt;Descripcion&lt;/Caption&gt;&lt;Key&gt;Column2&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;Width&gt;159&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="Column4"&gt;&lt;Caption&gt;Costo Uni&lt;/Caption&gt;&lt;Key&gt;Column4&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Width&gt;57&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="Column5"&gt;&lt;Caption&gt;Cantidad&lt;/Caption&gt;&lt;Key&gt;Column5&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;Width&gt;49&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="Column6"&gt;&lt;Caption&gt;Costo Tot&lt;/Caption&gt;&lt;Key&gt;Column6&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;Width&gt;60&lt;/Width&gt;&lt;/Column4&gt;&lt;Column5 ID="Column3"&gt;&lt;Caption&gt;Corrida&lt;/Caption&gt;&lt;Key&gt;Column3&lt;/Key&gt;&lt;Position&gt;5&lt;/Position&gt;&lt;Width&gt;45&lt;/Width&gt;&lt;/Column5&gt;&lt;Column6 ID="Column7"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column7&lt;/Key&gt;&lt;Position&gt;6&lt;/Position&gt;&lt;Width&gt;27&lt;/Width&gt;&lt;/Column6&gt;&lt;Column7 ID="Column8"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column8&lt;/Key&gt;&lt;Position&gt;7&lt;/Position&gt;&lt;Width&gt;33&lt;/Width&gt;&lt;/Column7&gt;&lt;Column8 ID="Column9"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column9&lt;/Key&gt;&lt;Position&gt;8&lt;/Position&gt;&lt;Width&gt;32&lt;/Width&gt;&lt;/Column8&gt;&lt;Column9 ID="Column10"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column10&lt;/Key&gt;&lt;Position&gt;9&lt;/Position&gt;&lt;Width&gt;30&lt;/Width&gt;&lt;/Column9&gt;&lt;Column10 ID="Column11"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column11&lt;/Key&gt;&lt;Position&gt;10&lt;/Position&gt;&lt;Width&gt;29&lt;/Width&gt;&lt;/Column10&gt;&lt;Column11 ID="Column12"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column12&lt;/Key&gt;&lt;Position&gt;11&lt;/Position&gt;&lt;Width&gt;31&lt;/Width&gt;&lt;/Column11&gt;&lt;Column12 ID="Column13"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column13&lt;/Key&gt;&lt;Position&gt;12&lt;/Position&gt;&lt;Width&gt;30&lt;/Width&gt;&lt;/Column12&gt;&lt;Column13 ID="Column14"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column14&lt;/Key&gt;&lt;Position&gt;13&lt;/Position&gt;&lt;Width&gt;28&lt;/Width&gt;&lt;/Column13&gt;&lt;Column14 ID="Column15"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column15&lt;/Key&gt;&lt;Position&gt;14&lt;/Position&gt;&lt;Width&gt;30&lt;/Width&gt;&lt;/Column14&gt;&lt;Column15 ID="Column16"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column16&lt;/Key&gt;&lt;Position&gt;15&lt;/Position&gt;&lt;Width&gt;33&lt;/Width&gt;&lt;/Column15&gt;&lt;Column16 ID="Column17"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column17&lt;/Key&gt;&lt;Position&gt;16&lt;/Position&gt;&lt;Width&gt;35&lt;/Width&gt;&lt;/Column16&gt;&lt;Column17 ID="Column18"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column18&lt;/Key&gt;&lt;Position&gt;17&lt;/Position&gt;&lt;Width&gt;28&lt;/Width&gt;&lt;/Column17&gt;&lt;Column18 ID="Column19"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column19&lt;/Key&gt;&lt;Position&gt;18&lt;/Position&gt;&lt;Width&gt;33&lt;/Width&gt;&lt;/Column18&gt;&lt;Column19 ID="Column20"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column20&lt;/Key&gt;&lt;Position&gt;19&lt;/Position&gt;&lt;Width&gt;32&lt;/Width&gt;&lt;/Column19&gt;&lt;Column20 ID="Column21"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column21&lt;/Key&gt;&lt;Position&gt;20&lt;/Position&gt;&lt;Width&gt;31&lt;/Width&gt;&lt;/Column20&gt;&lt;Column21 ID="Column22"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column22&lt;/Key&gt;&lt;Position&gt;21&lt;/Position&gt;&lt;Width&gt;32&lt;/Width&gt;&lt;/Column21&gt;&lt;Column22 ID="Column23"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column23&lt;/Key&gt;&lt;Position&gt;22&lt;/Position&gt;&lt;Width&gt;30&lt;/Width&gt;&lt;/Column22&gt;&lt;Column23 ID="Column24"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column24&lt;/Key&gt;&lt;Position&gt;23&lt;/Position&gt;&lt;Width&gt;29&lt;/Width&gt;&lt;/Column23&gt;&lt;Column24 ID="Column25"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column25&lt;/Key&gt;&lt;Position&gt;24&lt;/Position&gt;&lt;Width&gt;33&lt;/Width&gt;&lt;/Column24&gt;&lt;Column25 ID="Column26"&gt;&lt;Caption&gt;0.0&lt;/Caption&gt;&lt;Key&gt;Column26&lt;/Key&gt;&lt;Position&gt;25&lt;/Position&gt;&lt;Width&gt;31&lt;/Width&gt;&lt;/Column25&gt;&lt;/Columns&gt;&lt;GroupCondition ID="" /&gt;&lt;SortKeys Collection="true"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;SortOrder&gt;Descending&lt;/SortOrder&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="btGenerarCorrida.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAASZJREFUOE9jGJpg
+        1u7e/2uOL/oP5RIP6maU/vfqM/0fty3sv3Q93//wNnfiDYFpjtwT8p+hkQGMhVOANAi4Vpv+N8xX+J/W
+        G4PVxMqJpf9tG/VRNDNUMYD1MFgUaP/vON74P/N4yn+9duX/HsUOKIbANMfvj0TRLBDJBlGnkSn9P/Vo
+        wn/XTQ7/bddY/leqlYIbAtJsWauHYTNcMwjYZZv/t5hhDNZsstTgv/Z8jf/iJYL/VWNk/5tV6mBo5g5A
+        0gwDIMWavar/dRZo/leeqfBfaorkf94yrv8Oa2wJa4YBmUDp/9JNkmDNgr0C/znaOVA0c3jj0QwDIEN4
+        K3j/c3Zwomhm8yJCMwxI+0v/ZyxgJE8zDBjEGfxncGf4L+4rTrpmOgMGBgAgLa4zerVT1wAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+</root>

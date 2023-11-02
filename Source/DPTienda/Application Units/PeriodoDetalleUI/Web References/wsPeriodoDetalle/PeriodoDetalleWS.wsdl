@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/Credito/PeriodoDetalleWS" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/PeriodoDetalleWS" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/PeriodoDetalleWS">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="SelectByNumPeriodo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="NumPeriodo" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectByNumPeriodoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SelectByNumPeriodoResult" type="tns:PeriodoDetalleInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="PeriodoDetalleInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaPago" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaFinal" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaInicial" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="NumPeriodo" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Anno" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PeriodoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PeriodoDetalleID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Liquidado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="PagoMinimo" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Liquidar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="Liquidado" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="PagoMin" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LiquidarResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="PeriodosNoLiquidados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PeriodosNoLiquidadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="PeriodosNoLiquidadosResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReporteCobranza">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="NumPeriodo" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodPlaza" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="NumAsociadoDel" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="NumAsociadoAl" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReporteCobranzaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReporteCobranzaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectPeriodoActual">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectPeriodoActualResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SelectPeriodoActualResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SelectByNumPeriodoSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectByNumPeriodo" />
+  </wsdl:message>
+  <wsdl:message name="SelectByNumPeriodoSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectByNumPeriodoResponse" />
+  </wsdl:message>
+  <wsdl:message name="LiquidarSoapIn">
+    <wsdl:part name="parameters" element="tns:Liquidar" />
+  </wsdl:message>
+  <wsdl:message name="LiquidarSoapOut">
+    <wsdl:part name="parameters" element="tns:LiquidarResponse" />
+  </wsdl:message>
+  <wsdl:message name="PeriodosNoLiquidadosSoapIn">
+    <wsdl:part name="parameters" element="tns:PeriodosNoLiquidados" />
+  </wsdl:message>
+  <wsdl:message name="PeriodosNoLiquidadosSoapOut">
+    <wsdl:part name="parameters" element="tns:PeriodosNoLiquidadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReporteCobranzaSoapIn">
+    <wsdl:part name="parameters" element="tns:ReporteCobranza" />
+  </wsdl:message>
+  <wsdl:message name="ReporteCobranzaSoapOut">
+    <wsdl:part name="parameters" element="tns:ReporteCobranzaResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectPeriodoActualSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectPeriodoActual" />
+  </wsdl:message>
+  <wsdl:message name="SelectPeriodoActualSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectPeriodoActualResponse" />
+  </wsdl:message>
+  <wsdl:portType name="PeriodoDetalleWSSoap">
+    <wsdl:operation name="SelectByNumPeriodo">
+      <wsdl:input message="tns:SelectByNumPeriodoSoapIn" />
+      <wsdl:output message="tns:SelectByNumPeriodoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Liquidar">
+      <wsdl:input message="tns:LiquidarSoapIn" />
+      <wsdl:output message="tns:LiquidarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PeriodosNoLiquidados">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa el Numero del Primer Periodo no Liquidado del Asociado</documentation>
+      <wsdl:input message="tns:PeriodosNoLiquidadosSoapIn" />
+      <wsdl:output message="tns:PeriodosNoLiquidadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReporteCobranza">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa Todos los periodos no liquidados</documentation>
+      <wsdl:input message="tns:ReporteCobranzaSoapIn" />
+      <wsdl:output message="tns:ReporteCobranzaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectPeriodoActual">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Regresa el numero de periodo de una Fecha Específica</documentation>
+      <wsdl:input message="tns:SelectPeriodoActualSoapIn" />
+      <wsdl:output message="tns:SelectPeriodoActualSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PeriodoDetalleWSSoap" type="tns:PeriodoDetalleWSSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="SelectByNumPeriodo">
+      <soap:operation soapAction="http://tempuri.org/Credito/PeriodoDetalleWS/SelectByNumPeriodo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Liquidar">
+      <soap:operation soapAction="http://tempuri.org/Credito/PeriodoDetalleWS/Liquidar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PeriodosNoLiquidados">
+      <soap:operation soapAction="http://tempuri.org/Credito/PeriodoDetalleWS/PeriodosNoLiquidados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReporteCobranza">
+      <soap:operation soapAction="http://tempuri.org/Credito/PeriodoDetalleWS/ReporteCobranza" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectPeriodoActual">
+      <soap:operation soapAction="http://tempuri.org/Credito/PeriodoDetalleWS/SelectPeriodoActual" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PeriodoDetalleWS">
+    <wsdl:port name="PeriodoDetalleWSSoap" binding="tns:PeriodoDetalleWSSoap">
+      <soap:address location="http://dpssvr/Credito/PeriodoDetalleWS.ASMX" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

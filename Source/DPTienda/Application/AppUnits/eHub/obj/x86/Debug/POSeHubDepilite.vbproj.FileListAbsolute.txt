@@ -1,0 +1,6 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application\AppUnits\eHub\bin\x86\Debug\POSeHubDepilite.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application\AppUnits\eHub\bin\x86\Debug\POSeHubDepilite.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application\AppUnits\eHub\bin\x86\Debug\POSeHubDepilite.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application\AppUnits\eHub\obj\x86\Debug\POSeHubDepilite.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application\AppUnits\eHub\obj\x86\Debug\POSeHubDepilite.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application\AppUnits\eHub\obj\x86\Debug\POSeHubDepilite.pdb

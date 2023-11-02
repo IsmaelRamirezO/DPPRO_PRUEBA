@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/CatArticulos/Producto" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/CatArticulos/Producto" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/CatArticulos/Producto">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="GetDetalle">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Codigo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDetalleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDetalleResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetDetalleSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDetalle" />
+  </wsdl:message>
+  <wsdl:message name="GetDetalleSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDetalleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ProductoSoap">
+    <wsdl:operation name="GetDetalle">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene Información de un Producto .::. Articulo.</documentation>
+      <wsdl:input message="tns:GetDetalleSoapIn" />
+      <wsdl:output message="tns:GetDetalleSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ProductoSoap" type="tns:ProductoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="GetDetalle">
+      <soap:operation soapAction="http://tempuri.org/CatArticulos/Producto/GetDetalle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Producto">
+    <wsdl:port name="ProductoSoap" binding="tns:ProductoSoap">
+      <soap:address location="http://dpssvr/Credito/Producto.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

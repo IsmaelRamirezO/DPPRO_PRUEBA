@@ -1,0 +1,10 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\bin\x86\Debug\AsociadosTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\bin\x86\Debug\AsociadosTypes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\bin\x86\Debug\AsociadosTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\bin\x86\Debug\ContactoTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\bin\x86\Debug\ContactoTypes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\bin\x86\Debug\ContactoTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\obj\x86\Debug\AsociadoTypes.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\obj\x86\Debug\AsociadosTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\obj\x86\Debug\AsociadosTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AsociadosTypes\obj\x86\Debug\AsociadosTypes.pdb

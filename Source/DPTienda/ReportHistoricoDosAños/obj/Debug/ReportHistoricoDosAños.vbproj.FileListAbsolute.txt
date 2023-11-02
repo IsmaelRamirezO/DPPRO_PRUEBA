@@ -1,0 +1,180 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\ReportHistoricoDosAños.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\ReportHistoricoDosAños\obj\Debug\ReportHistoricoDosAños.pdb

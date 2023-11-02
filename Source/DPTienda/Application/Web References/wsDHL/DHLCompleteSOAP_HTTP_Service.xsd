@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:dhl="http://www.dhl.com/datatypes" xmlns="http://www.dhl.com" elementFormDefault="unqualified" targetNamespace="http://www.dhl.com" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:import schemaLocation="http://10.200.3.18:7800/DHLCompleteSOAP_HTTP_Service?xsd=xsd3" namespace="http://www.dhl.com/datatypes" />
+  <xsd:element name="ShipmentValidateResponse" type="_ShipmentValidateResponse">
+    <xsd:annotation>
+      <xsd:documentation>Shipment Validation response root element</xsd:documentation>
+    </xsd:annotation>
+  </xsd:element>
+  <xsd:complexType name="_ShipmentValidateResponse">
+    <xsd:sequence>
+      <xsd:element name="Response" type="dhl:Response" />
+      <xsd:element name="Note" type="dhl:Note" />
+      <xsd:element name="AirwayBillNumber" type="dhl:AWBNumber" />
+      <xsd:element name="BillingCode" type="dhl:BillCode" />
+      <xsd:element minOccurs="0" name="ChargeCardConfirmationNumber" type="dhl:ChargeCardConfNo" />
+      <xsd:element name="CurrencyCode" type="dhl:CurrencyCode" />
+      <xsd:element minOccurs="0" name="CourierMessage" type="dhl:CourierMsg" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="DHLRoutingCode" type="dhl:DHLRoutingCode" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="DHLRoutingDataId" type="dhl:DHLRoutingCode" />
+      <xsd:element name="DestinationServiceArea" type="dhl:DestinationServiceArea" />
+      <xsd:element name="OriginServiceArea" type="dhl:OriginServiceArea" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="ProductContentCode" type="xsd:string" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="ProductShortName" type="xsd:string" />
+      <xsd:element minOccurs="0" maxOccurs="unbounded" name="InternalServiceCode" type="dhl:InternalServiceCode" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="DeliveryDateCode" type="xsd:string" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="DeliveryTimeCode" type="xsd:string" />
+      <xsd:element minOccurs="0" maxOccurs="1" name="Pieces" type="dhl:ShipValResponsePieces" />
+      <xsd:element minOccurs="0" name="PackageCharge" type="dhl:Money" />
+      <xsd:element name="Rated" type="dhl:YesNo" />
+      <xsd:element minOccurs="0" name="ShippingCharge" type="dhl:Money" />
+      <xsd:element minOccurs="0" name="ShippingChargeInUSD" type="dhl:Money" />
+      <xsd:element minOccurs="0" name="InsuredAmount" type="dhl:Money" />
+      <xsd:element name="WeightUnit" type="dhl:WeightUnit" />
+      <xsd:element name="ChargeableWeight" type="dhl:Weight" />
+      <xsd:element name="DimensionalWeight" type="dhl:Weight" />
+      <xsd:element minOccurs="0" name="ReadyByTime" type="dhl:TimeHM" />
+      <xsd:element minOccurs="0" name="PickupCharge" type="dhl:Money" />
+      <xsd:element minOccurs="0" name="CallInTime" type="dhl:TimeHM" />
+      <xsd:element minOccurs="0" name="DaysAdvanceNotice" type="dhl:AdvanceDaysNotice" />
+      <xsd:element minOccurs="0" name="ConversionRate" type="dhl:Money" />
+      <xsd:element name="CountryCode" type="dhl:CountryCode" />
+      <xsd:element name="Barcodes">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="AWBBarCode" type="dhl:BarCode" />
+            <xsd:element name="OriginDestnBarcode" type="dhl:BarCode" />
+            <xsd:element minOccurs="0" name="ClientIDBarCode" type="dhl:BarCode" />
+            <xsd:element minOccurs="0" maxOccurs="1" name="BarCode2D" type="dhl:BarCode" />
+            <xsd:element minOccurs="0" maxOccurs="1" name="DHLRoutingBarCode" type="dhl:BarCode" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="Piece" type="xsd:positiveInteger">
+        <xsd:annotation>
+          <xsd:documentation>no of pieces contained in shipment</xsd:documentation>
+        </xsd:annotation>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="Contents" type="xsd:string" />
+      <xsd:element minOccurs="0" maxOccurs="unbounded" name="Reference" type="dhl:Reference" />
+      <xsd:element name="Consignee" type="dhl:Consignee" />
+      <xsd:element name="Shipper" type="dhl:Shipper" />
+      <xsd:element minOccurs="0" name="AccountNumber" type="dhl:AccountNumber" />
+      <xsd:element name="CustomerID" type="xsd:string" />
+      <xsd:element name="ShipmentDate" type="dhl:Date" />
+      <xsd:element name="GlobalProductCode" type="dhl:ProductCode" />
+      <xsd:element minOccurs="0" maxOccurs="5" name="SpecialService" type="dhl:SpecialService" />
+      <xsd:element minOccurs="0" name="Billing" type="dhl:Billing" />
+      <xsd:element minOccurs="0" name="Dutiable" type="dhl:Dutiable" />
+      <xsd:element minOccurs="0" name="ExportDeclaration" type="dhl:ExportDeclaration" />
+      <xsd:element minOccurs="0" name="NewShipper" type="dhl:YesNo" />
+      <xsd:element minOccurs="0" name="SDeliveryDt">
+        <xsd:annotation>
+          <xsd:documentation>Estimated/Scheduled Delivery date: format  mm/dd/yyyy eg 03/25/2003</xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="10" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="EDeliveryDt">
+        <xsd:annotation>
+          <xsd:documentation>Encoded Delivery Date Format: ddDA where DD is the day of month and DA is day of the week. Eg 25TU = Thursday the 25th</xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="4" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="LHPOrigCd">
+        <xsd:annotation>
+          <xsd:documentation>LHP Origin Hub Code. eg: LOC. returned only for ground shipments</xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="4" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="LHPDestCd">
+        <xsd:annotation>
+          <xsd:documentation>LHP Destination terminal code. eg: LOC. returned only for Ground Shipments</xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="4" />
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>

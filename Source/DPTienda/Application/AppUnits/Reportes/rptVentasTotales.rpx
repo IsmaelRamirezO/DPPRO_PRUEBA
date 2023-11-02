@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10170" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptVentasTotales.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="735" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblReportTitle" MOD="4" Left="90" Top="-180" Width="3060" Height="566.9291" Caption="Reporte de Ventas Total" ClassName="Heading1" Style="font-size: 12pt; white-space: nowrap; vertical-align: middle; " Multiline="0" />
+      <Control Type="AR.Label" Name="lblFieldFolio" MOD="4" Left="0" Top="450" Width="450" Height="260.64" Caption="Folio" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldArticulo" MOD="4" Left="810" Top="450" Width="810" Height="260.7876" Caption="Total Art." Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldImporte" MOD="4" Left="1980" Top="450" Width="720" Height="260.7876" Caption="Importe" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldDescuento" MOD="4" Left="2880" Top="450" Width="990" Height="260.7876" Caption="Descuento" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldFormaPago" MOD="4" Left="3960" Top="450" Width="1080" Height="260.7876" Caption="Forma Pago" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldPago" MOD="4" Left="5490" Top="450" Width="540" Height="260.7876" Caption="Pago" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldVendedor" MOD="4" Left="6300" Top="450" Width="900" Height="260.7876" Caption="Vendedor" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldCliente" MOD="4" Left="7290" Top="450" Width="630" Height="260.7876" Caption="Cliente" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldTipoVenta" MOD="4" Left="8100" Top="450" Width="900" Height="260.7876" Caption="Tipo Venta" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblFieldNCred" MOD="4" Left="9450" Top="450" Width="563.76" Height="260.64" Caption="Status" Style="color: Black; ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblReportDate" MOD="4" Left="7650" Top="0" Width="2321.575" Height="283.4646" Caption="Label2" Style="text-align: right; font-size: 8.25pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="315" DataField="FolioFactura" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbFolio" DataField="FolioFactura" MOD="4" Left="0" Top="0" Width="900" Height="288" Text="" Style="ddo-char-set: 1; text-align: left; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbArticulo" DataField="TotalArticulos" MOD="4" Left="900" Top="0" Width="450" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbImporte" DataField="Total" MOD="4" Left="1629.36" Top="0" Width="1080" Height="288" Text="0" OutputFormat="#,##0.00;(#,##0.00)" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbdescuento" DataField="DescTotal" MOD="4" Left="2710.08" Top="0" Width="1080" Height="288" Text="" OutputFormat="#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbVendedor" DataField="CodVendedor" MOD="4" Left="6300" Top="0" Width="810" Height="288" Text="" Style="ddo-char-set: 1; text-align: left; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbCliente" DataField="ClienteID" MOD="4" Left="7299.36" Top="0" Width="630" Height="288" Text="" Style="ddo-char-set: 1; text-align: left; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbTipoVenta" DataField="CodTipoVenta" MOD="4" Left="8289.36" Top="0" Width="360" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="360" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbFormaPago" DataField="CodFormasPago" MOD="4" Left="4230" Top="0" Width="360" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbPago" DataField="MontoPago" MOD="4" Left="4780.08" Top="0" Width="1170" Height="288" Text="" OutputFormat="#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbNcred" DataField="Status" MOD="4" Left="9370.08" Top="0" Width="630" Height="288" Text="" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="675" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="90" Top="373.4646" Width="3401.575" Height="283.4646" Caption="Comercial Dportenis, S.A. de C.V." Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="7380" Top="360" Width="731.3379" Height="288" Caption="Página" Style="ddo-char-set: 1; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="tbPageNumber" MOD="4" Left="8178.662" Top="360" Width="708.6614" Height="288" Text="####" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="8887.32" Top="360" Width="425.197" Height="288" Caption="de" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtTotal" MOD="4" Left="1530" Top="0" Width="1440" Height="288" Text="0" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="900" Top="13.4646" Width="590.315" Height="283.4646" Caption="Total:" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="tbPageCount" MOD="4" Left="9402.52" Top="360" Width="708.6614" Height="288" Text="####" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " SummaryType="4" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

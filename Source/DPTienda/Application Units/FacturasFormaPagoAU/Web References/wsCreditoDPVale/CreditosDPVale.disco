@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://pcerick/credito/CreditosDPVale.asmx?wsdl" docRef="http://pcerick/credito/CreditosDPVale.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://pcerick/credito/CreditosDPVale.asmx" xmlns:q1="http://ws.dportenis.com.mx/Credito/CreditosDPVale" binding="q1:Credito_x0020_._x003A__x003A__x003A_·_x0020_CreditosDPValeSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

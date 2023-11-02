@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ApplicationConfiguration">
+  <WSUrl>http://192.168.1.33</WSUrl>
+  <NoCaja>01</NoCaja>
+  <DataStorageConfiguration>
+    <Server>(local)</Server>
+    <Database>PTVentaNoUsar</Database>
+    <User>sa</User>
+    <Password>sa</Password>
+    <ConnectionTimeout>120</ConnectionTimeout>
+  </DataStorageConfiguration>
+  <Almacen>012</Almacen>
+  <IVA>0.16</IVA>
+  <Descuento>1.00</Descuento>
+  <DescApartado>0.50</DescApartado>
+  <MinPrimerAbono>20.00</MinPrimerAbono>
+  <DiasVencimientoApartados>45</DiasVencimientoApartados>
+  <ComisionTarjetaCredito>0</ComisionTarjetaCredito>
+  <ComisionTarjetaDebito>0</ComisionTarjetaDebito>
+  <BancoParaTarjetas>T1</BancoParaTarjetas>
+  <ImpresionEstandar>0</ImpresionEstandar>
+  <Penalizacion>0.10</Penalizacion>
+  <DiasVigenciaDPVale>30</DiasVigenciaDPVale>
+  <TotalCajas>0</TotalCajas>
+  <ReferenciaEfectivo>T1</ReferenciaEfectivo>
+  <MargenMaximoDPVale>0</MargenMaximoDPVale>
+  <DsctoCompra3oMenosDIP>0.20</DsctoCompra3oMenosDIP>
+  <DsctoCompra3oMenosNoDIP>0.15</DsctoCompra3oMenosNoDIP>
+  <DsctoCompra3MasDIP>0.25</DsctoCompra3MasDIP>
+  <DsctoCompra3MasNoDIP>0.20</DsctoCompra3MasNoDIP>
+  <RutaTraspasoEntrada>C:\DPT\REC</RutaTraspasoEntrada>
+  <RutaTraspasoSalida>C:\DPT\TRANS</RutaTraspasoSalida>
+  <CajaChica>200.00</CajaChica>
+  <CodigosXFactura>11</CodigosXFactura>
+  <CodigosXAuditoria>30</CodigosXAuditoria>
+  <MiniPrintName>EPSON TM-U220 Receipt</MiniPrintName>
+</ApplicationConfiguration>

@@ -1,0 +1,196 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Interop.SAPFunctionsOCX.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\Interop.SAPFunctionsOCX.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\bin\Interop.SAPFunctionsOCX.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\Interop.SAPFunctionsOCX.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\bin\Interop.SAPFunctionsOCX.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\Interop.SAPFunctionsOCX.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\bin\Interop.SAPFunctionsOCX.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\Interop.SAPFunctionsOCX.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\bin\Interop.SAPFunctionsOCX.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\Interop.SAPFunctionsOCX.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.ButtonBar.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.Schedule.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\bin\Interop.SAPFunctionsOCX.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\Interop.SAPFunctionsOCX.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbproj.ResolveComReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\CinfiguracionSAPAU\obj\Debug\ConfiguracionSAPAU.vbprojResolveAssemblyReference.cache

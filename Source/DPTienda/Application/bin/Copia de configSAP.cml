@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAPApplicationConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="SAPApplicationConfig">
+  <DPValeSAP>true</DPValeSAP>
+  <TdaNueva>true</TdaNueva>
+  <ApplicationServer>192.168.1.18</ApplicationServer>
+  <GroupName>TST</GroupName>
+  <System>01</System>
+  <Client>300</Client>
+  <User>rgermain</User>
+  <Password>dpt301985</Password>
+  <Language>ES</Language>
+  <eHub>true</eHub>
+  <Prestamos>true</Prestamos>
+  <Plaza>MZT</Plaza>
+  <Ticket>1622</Ticket>
+</SAPApplicationConfig>

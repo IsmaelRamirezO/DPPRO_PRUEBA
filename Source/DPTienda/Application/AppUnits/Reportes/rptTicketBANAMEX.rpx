@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3330" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptTicketBANAMEX.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="Detail" Name="Detail" Height="12044" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtBancoEmisor" MOD="4" Left="0" Top="450" Width="3288.189" Height="226.7717" Text="BANAMEX" Style="text-align: center; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTienda" MOD="4" Left="0" Top="676.7717" Width="3288.189" Height="1247.244" Text="21 Plaza Obregon" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="0" Top="2944.488" Width="1814.173" Height="340.1575" Caption="Fecha: 25/08/2007" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblHora" MOD="4" Left="1814.173" Top="2944.488" Width="1474.015" Height="340.1575" Caption="Hora: 16:43" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTerminacionTarjeta" MOD="4" Left="0" Top="4737.402" Width="2267.717" Height="340.1575" Caption="************6608" Style="font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtVencimiento" MOD="4" Left="0" Top="5077.559" Width="2267.717" Height="340.1575" Text="VENC 01/10" Style="font-weight: bold; font-size: 8pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TXTEMISOR" MOD="4" Left="1430.787" Top="4215.118" Width="1587.401" Height="226.7717" Text="Bancomer" Style="text-align: left; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtMotivo" MOD="4" Left="0" Top="1924.016" Width="3288.189" Height="340.1575" Text="NOTA DE VENTA PAGARE " Style="text-align: center; font-weight: bold; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="0" Top="6342.52" Width="907.0866" Height="226.7715" Caption="IMPORTE" Style="font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtImporte" MOD="4" Left="907.0866" Top="6342.52" Width="1927.559" Height="226.7717" Text="$ 105.00" Style="text-align: right; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtAprobacion" MOD="4" Left="0" Top="5523.188" Width="3330" Height="226.7719" Text="APROBACION: 697300" Style="font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTipoVoucher" MOD="4" Left="453.5433" Top="11304.57" Width="2040.945" Height="340.1575" Text="ORIGINAL BANCO" Style="text-align: center; font-size: 8pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblFirma" MOD="4" Left="0" Top="9990" Width="3330" Height="1170" Caption="FIRMA DEL TITULAR" Style="ddo-char-set: 0; text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNombreCliente" Visible="0" MOD="4" Left="0" Top="8968.108" Width="3174.803" Height="226.7719" Text="ARAGON ZEPEDA/ ERICK" Style="text-align: left; font-weight: bold; font-size: 6.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblLeyendaPagare" MOD="4" Left="0" Top="6802.207" Width="2790" Height="1567.793" Caption="CUBRIRE INCONDICIONALMENTE  EL TOTAL DE ESTE PAGARE A LA ORDEN DEL EMISOR SEGUN CONTRATO DE DONDE DERIVA ESTA TARJETA Y DICHO PAGARE." Style="text-align: justify; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="Line1" Visible="0" MOD="4" X1="3298.189" Y1="12466.14" X2="10" Y2="12466.14" />
+      <Control Type="AR.Field" Name="txtPromocion" MOD="4" Left="0" Top="2284.016" Width="3288.189" Height="226.7717" Text="3 Meses sin intereses" Style="text-align: center; font-weight: bold; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblAfiliacion" MOD="4" Left="0" Top="2604.331" Width="2834.646" Height="288" Caption="AFILIACION: " Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTienda" MOD="4" Left="0" Top="3398.031" Width="3288.189" Height="288" Caption="NUMERO DE TIENDA:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTerminal" MOD="4" Left="0" Top="3714.803" Width="3240" Height="288" Caption="TERMINAL:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblNumeroOperador" MOD="4" Left="0" Top="3938.031" Width="3288.189" Height="288" Caption="NUMERO DE OPERADOR:" Style="font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox1" MOD="4" Left="0" Top="90" Width="3288.189" Height="226.7717" Text="Comercial DPortenis S.A. de C.V." Style="text-align: center; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblCriptograma" MOD="4" Left="113.3858" Top="11627.01" Width="2948.032" Height="342.9932" Caption="ARQC: 90A2206DE3885E7C" Style="text-align: center; font-weight: bold; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTicket" MOD="4" Left="2430" Top="5892.52" Width="907.0866" Height="226.7715" Caption="000958" Style="text-align: center; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblLote" MOD="4" Left="0" Top="5892.52" Width="907.0866" Height="226.7715" Caption="000151" Style="text-align: center; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTrace" MOD="4" Left="1260" Top="5892.52" Width="907.0866" Height="226.7715" Caption="000009" Style="text-align: center; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="0" Top="8370" Width="2790" Height="450" Caption="Negociable unicamente con Instituciones Bancarias" Style="text-align: justify; font-size: 9pt; font-family: Tahoma; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" TopMargin="0" BottomMargin="567" />
+</ActiveReportsLayout>

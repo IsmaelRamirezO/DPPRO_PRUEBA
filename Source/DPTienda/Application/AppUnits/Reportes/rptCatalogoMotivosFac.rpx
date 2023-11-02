@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10965" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptCatalogoMotivosFac.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="1515" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="0" Top="680.315" Width="1240.157" Height="288" Caption="Tipo Movto:" Style="ddo-char-set: 1; font-weight: bold; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="1171.417" Top="0" Width="8439.448" Height="287.9528" Caption="Reporte de Motivos de Captura Manual" Style="text-align: center; font-weight: bold; font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="0" Top="396.8504" Width="1039.37" Height="288" Caption="Sucursal:" Style="ddo-char-set: 1; font-weight: bold; " />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="1062.756" Top="396.8504" Width="5656.063" Height="288" Text="TextBox1" />
+      <Control Type="AR.Field" Name="txtFechaReporte" MOD="4" Left="7722.993" Top="491.3386" Width="1918.347" Height="288" Text="" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="6815.906" Top="491.3386" Width="907.087" Height="288" Caption="Fecha:" Style="ddo-char-set: 1; font-weight: bold; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="0" Top="997.087" Width="1117.559" Height="514.7716" Caption="Fecha" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="2764.488" Top="997.087" Width="523.7011" Height="514.7716" Caption="Talla" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="3288.188" Top="997.087" Width="577.56" Height="514.7716" Caption="ID Motivo" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="3865.748" Top="997.087" Width="3896.929" Height="514.7716" Caption="Descripción del Motivo" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="7762.676" Top="997.087" Width="591.024" Height="514.7716" Caption="Folio ID" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="1117.559" Top="997.087" Width="1646.929" Height="514.7716" Caption="Articulo" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="txtTipoMovto" MOD="4" Left="1169.292" Top="680.315" Width="5518.347" Height="288" Text="" />
+      <Control Type="AR.Label" Name="Label17" MOD="4" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="8367.165" Top="997.087" Width="681.024" Height="514.7716" Caption="Tipo Movto" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label18" MOD="4" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="9055.276" Top="997.087" Width="1880.787" Height="514.7716" Caption="Codigo UPC" Style="ddo-char-set: 1; text-align: center; font-weight: bold; vertical-align: middle; " />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="238" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtCodArticulo" DataField="Fecha" MOD="4" BorderLeftStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="0" Top="0" Width="1117.559" Height="238.1102" Text="" OutputFormat="dd-MMM-yyyy" Style="font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox1" DataField="Articulo" MOD="4" BorderLeftStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="1117.559" Top="0" Width="1646.929" Height="238.1102" Text="" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox2" DataField="Talla" MOD="4" BorderLeftStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="2764.488" Top="0" Width="523.7011" Height="238.1102" Text="" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox3" DataField="IdMotivo" MOD="4" BorderLeftStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="3288.188" Top="0" Width="577.56" Height="238.1102" Text="" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox4" DataField="Descripcion" MOD="4" BorderLeftStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="3865.748" Top="0" Width="3896.929" Height="238.1102" Text="" Style="font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox5" DataField="facturaid" MOD="4" BorderLeftStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="7762.676" Top="0" Width="591.024" Height="238.1102" Text="" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox6" DataField="tipomovto" MOD="4" BorderRightStyle="1" BorderBottomStyle="1" Left="8367.165" Top="0" Width="681.024" Height="238.1102" Text="" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox7" DataField="codupc" MOD="4" BorderRightStyle="1" BorderBottomStyle="1" Left="9055.276" Top="0" Width="1880.787" Height="238.1102" Text="" Style="text-align: center; font-weight: normal; font-size: 8.25pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="390" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label14" MOD="4" Left="7380" Top="90" Width="731.3379" Height="288" Caption="Página" Style="ddo-char-set: 1; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="tbPageNumber" MOD="4" Left="8178.662" Top="90" Width="708.6614" Height="288" Text="####" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="Label15" MOD="4" Left="8887.32" Top="90" Width="425.197" Height="288" Caption="de" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="tbPageCount" MOD="4" Left="9402.52" Top="90" Width="708.6614" Height="288" Text="####" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; vertical-align: middle; " SummaryType="4" />
+    </Section>
+    <Section Type="ReportFooter" Name="ReportFooter" Height="104" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="590" TopMargin="567" BottomMargin="567" />
+</ActiveReportsLayout>

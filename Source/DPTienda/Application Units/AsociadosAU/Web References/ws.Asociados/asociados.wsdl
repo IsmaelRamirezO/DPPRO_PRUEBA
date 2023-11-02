@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://ws.dportenis.com.mx/Credito/Asociados" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dportenis.com.mx/Credito/Asociados" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dportenis.com.mx/Credito/Asociados">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreateAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="s0:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="AsociadoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoActualCreditoDPVale" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoActualCreditoEnTienda" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoActualCreditoMayoreo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencidoCreditoDPVale" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencidoCreditoEnTienda" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencidoCreditoMayoreo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TieneCreditoMayoreo" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoMayoreo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TieneCreditoEnTienda" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoEnTienda" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TieneCreditoDPVale" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoDPVale" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="Foto" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="RecordCreatedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordCreatedOn" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordStatus" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelefonoTrabajo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelefonoOtro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoSAP" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateAsociadoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="s0:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateAsociadoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeleteAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAsociadoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetAsociadoResult" type="s0:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadoByClienteID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadoByClienteIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetAsociadoByClienteIDResult" type="s0:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAsociadosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateEsCreditoDirecto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CodAsociado" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="EsCreditoDirectoTienda" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateEsCreditoDirectoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateEsCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CodAsociado" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="EsCreditoDPVale" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateEsCreditoDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateCreditoDPSaldoVencido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPSaldoVencidoResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="CreateAsociadoSoapIn">
+    <part name="parameters" element="s0:CreateAsociado" />
+  </message>
+  <message name="CreateAsociadoSoapOut">
+    <part name="parameters" element="s0:CreateAsociadoResponse" />
+  </message>
+  <message name="UpdateAsociadoSoapIn">
+    <part name="parameters" element="s0:UpdateAsociado" />
+  </message>
+  <message name="UpdateAsociadoSoapOut">
+    <part name="parameters" element="s0:UpdateAsociadoResponse" />
+  </message>
+  <message name="DeleteAsociadoSoapIn">
+    <part name="parameters" element="s0:DeleteAsociado" />
+  </message>
+  <message name="DeleteAsociadoSoapOut">
+    <part name="parameters" element="s0:DeleteAsociadoResponse" />
+  </message>
+  <message name="GetAsociadoSoapIn">
+    <part name="parameters" element="s0:GetAsociado" />
+  </message>
+  <message name="GetAsociadoSoapOut">
+    <part name="parameters" element="s0:GetAsociadoResponse" />
+  </message>
+  <message name="GetAsociadoByClienteIDSoapIn">
+    <part name="parameters" element="s0:GetAsociadoByClienteID" />
+  </message>
+  <message name="GetAsociadoByClienteIDSoapOut">
+    <part name="parameters" element="s0:GetAsociadoByClienteIDResponse" />
+  </message>
+  <message name="GetAsociadosSoapIn">
+    <part name="parameters" element="s0:GetAsociados" />
+  </message>
+  <message name="GetAsociadosSoapOut">
+    <part name="parameters" element="s0:GetAsociadosResponse" />
+  </message>
+  <message name="UpdateEsCreditoDirectoSoapIn">
+    <part name="parameters" element="s0:UpdateEsCreditoDirecto" />
+  </message>
+  <message name="UpdateEsCreditoDirectoSoapOut">
+    <part name="parameters" element="s0:UpdateEsCreditoDirectoResponse" />
+  </message>
+  <message name="UpdateEsCreditoDPValeSoapIn">
+    <part name="parameters" element="s0:UpdateEsCreditoDPVale" />
+  </message>
+  <message name="UpdateEsCreditoDPValeSoapOut">
+    <part name="parameters" element="s0:UpdateEsCreditoDPValeResponse" />
+  </message>
+  <message name="UpdateCreditoDPSaldoVencidoSoapIn">
+    <part name="parameters" element="s0:UpdateCreditoDPSaldoVencido" />
+  </message>
+  <message name="UpdateCreditoDPSaldoVencidoSoapOut">
+    <part name="parameters" element="s0:UpdateCreditoDPSaldoVencidoResponse" />
+  </message>
+  <portType name="Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap">
+    <operation name="CreateAsociado">
+      <documentation>Crea un nuevo asociado.</documentation>
+      <input message="s0:CreateAsociadoSoapIn" />
+      <output message="s0:CreateAsociadoSoapOut" />
+    </operation>
+    <operation name="UpdateAsociado">
+      <documentation>Actualiza un asociado.</documentation>
+      <input message="s0:UpdateAsociadoSoapIn" />
+      <output message="s0:UpdateAsociadoSoapOut" />
+    </operation>
+    <operation name="DeleteAsociado">
+      <documentation>Elimina un asociado.</documentation>
+      <input message="s0:DeleteAsociadoSoapIn" />
+      <output message="s0:DeleteAsociadoSoapOut" />
+    </operation>
+    <operation name="GetAsociado">
+      <documentation>Obtiene un asociado.</documentation>
+      <input message="s0:GetAsociadoSoapIn" />
+      <output message="s0:GetAsociadoSoapOut" />
+    </operation>
+    <operation name="GetAsociadoByClienteID">
+      <documentation>Obtiene un asociado.</documentation>
+      <input message="s0:GetAsociadoByClienteIDSoapIn" />
+      <output message="s0:GetAsociadoByClienteIDSoapOut" />
+    </operation>
+    <operation name="GetAsociados">
+      <documentation>Obtiene una lista de asociados.</documentation>
+      <input message="s0:GetAsociadosSoapIn" />
+      <output message="s0:GetAsociadosSoapOut" />
+    </operation>
+    <operation name="UpdateEsCreditoDirecto">
+      <input message="s0:UpdateEsCreditoDirectoSoapIn" />
+      <output message="s0:UpdateEsCreditoDirectoSoapOut" />
+    </operation>
+    <operation name="UpdateEsCreditoDPVale">
+      <input message="s0:UpdateEsCreditoDPValeSoapIn" />
+      <output message="s0:UpdateEsCreditoDPValeSoapOut" />
+    </operation>
+    <operation name="UpdateCreditoDPSaldoVencido">
+      <documentation>Actualiza Saldos Vencidos.</documentation>
+      <input message="s0:UpdateCreditoDPSaldoVencidoSoapIn" />
+      <output message="s0:UpdateCreditoDPSaldoVencidoSoapOut" />
+    </operation>
+  </portType>
+  <binding name="Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap" type="s0:Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="CreateAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/CreateAsociado" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateAsociado" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/DeleteAsociado" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/GetAsociado" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetAsociadoByClienteID">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/GetAsociadoByClienteID" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetAsociados">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/GetAsociados" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateEsCreditoDirecto">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateEsCreditoDirecto" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateEsCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateEsCreditoDPVale" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="UpdateCreditoDPSaldoVencido">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateCreditoDPSaldoVencido" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="Credito_x0020_._x003A__x003A__x003A_·_x0020_Asociados">
+    <documentation>Proporciona métodos para manejar Asociados. &lt;br&gt; &lt;br&gt; Site: Credito &lt;br&gt; Web Service: Asociados.asmx &lt;br&gt; Version: 1.2</documentation>
+    <port name="Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap" binding="s0:Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap">
+      <soap:address location="http://localhost/Credito/asociados.asmx" />
+    </port>
+  </service>
+</definitions>

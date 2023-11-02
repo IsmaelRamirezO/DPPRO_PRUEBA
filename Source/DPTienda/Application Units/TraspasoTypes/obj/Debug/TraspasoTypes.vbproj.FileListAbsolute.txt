@@ -1,0 +1,72 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasoTypes\bin\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\TraspasoTypes\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Traspasos.pdb

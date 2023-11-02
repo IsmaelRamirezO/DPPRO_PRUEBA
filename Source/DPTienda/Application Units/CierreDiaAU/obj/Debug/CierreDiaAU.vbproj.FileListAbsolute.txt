@@ -1,0 +1,1488 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.SAPTableFactoryCtrl.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.Asociados.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.Clientes.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.CatalogoPlazas.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.CatalogoTipoDescuento.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.Asociados.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.Clientes.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.CatalogoPlazas.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.CatalogoTipoDescuento.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.Asociados.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.Clientes.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.CatalogoPlazas.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.COM.CatalogoTipoDescuento.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.Security.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Newtonsoft.Json.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosDPVale.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll.config
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CierreDiaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\MontarUnidadRed.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ProcesosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Interop.IRFC32Lib.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoTipoVentaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ContratosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DistribucionNC.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FingerPrintAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\NotasCreditoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ValeCajaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonosApartadosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DportenisPro.DPTienda.ApplicationUnits.Asociados.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelacionAbonoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CancelaFacturaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoBancosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasCorridaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\FacturasFormaPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ApplicationUnits.Clientes.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\ERPConnectLIC.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmGuardarFacturasPendientes.resources
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.frmMensaje.resources
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll.licenses
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\obj\Debug\CierreDiaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoFormasPagoAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\CierreDiaAU\bin\AjusteGeneralAuNuevo.xml

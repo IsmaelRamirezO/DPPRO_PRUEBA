@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveConfigArchivos xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="SaveConfigArchivos">
+  <MinimoEC>9228000001</MinimoEC>
+  <MaximoEC>9228999999</MaximoEC>
+  <MontoMaxTarjetas>5000.00</MontoMaxTarjetas>
+  <ServerSeparaciones>192.168.3.34</ServerSeparaciones>
+  <BDSeparaciones>Separaciones</BDSeparaciones>
+  <UserSeparaciones>sa</UserSeparaciones>
+  <PassSeparaciones>01012006</PassSeparaciones>
+  <CuentasCorreoUPC>
+    <string>raymundo.germain@dportenis.com.mx</string>
+    <string xsi:nil="true" />
+  </CuentasCorreoUPC>
+  <CuentasCorreoAuditoria>
+    <string>raymundo.germain@dportenis.com.mx</string>
+    <string xsi:nil="true" />
+  </CuentasCorreoAuditoria>
+  <PassEhub>sa</PassEhub>
+  <UserEhub>sa</UserEhub>
+  <BaseDatosEhub>eHubServerDB</BaseDatosEhub>
+  <ServerEhub>(local)</ServerEhub>
+  <UsarDescargaClientes>false</UsarDescargaClientes>
+  <ValidacionFS>false</ValidacionFS>
+  <PrinterHP>true</PrinterHP>
+  <MiniPrinter>true</MiniPrinter>
+  <CargaInicial>false</CargaInicial>
+  <Usuario>dportenis\raymundo.germain</Usuario>
+  <Password>dptray</Password>
+  <Ruta>\\192.168.1.14\VTAS</Ruta>
+  <Unidad>Z:</Unidad>
+  <FechaAutoF>2007-01-03T00:00:00.0000000-07:00</FechaAutoF>
+  <ImprimirCedula>false</ImprimirCedula>
+  <ServerFirma>192.168.3.34</ServerFirma>
+  <BaseDatosFirmas>ControlFirmas</BaseDatosFirmas>
+  <UserFirma>sa</UserFirma>
+  <PassFirma>01012006</PassFirma>
+  <CuentaCorreo>raymundo.germain@dportenis.com.mx</CuentaCorreo>
+  <ServidorSMTP>192.168.1.252</ServidorSMTP>
+  <ServerHuellas>192.168.3.34</ServerHuellas>
+  <BaseDatosHuellas>FingerPrint</BaseDatosHuellas>
+  <UserHuellas>sa</UserHuellas>
+  <PassHuellas>01012006</PassHuellas>
+  <UsarHuellas>true</UsarHuellas>
+  <UsarSccanerIFE>false</UsarSccanerIFE>
+  <UsarTPV>false</UsarTPV>
+</SaveConfigArchivos>

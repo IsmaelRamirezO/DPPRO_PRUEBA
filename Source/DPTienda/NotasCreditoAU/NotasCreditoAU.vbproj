@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D372CFAA-DEDF-4183-BBEE-7E3FEDD35177}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>NotasCreditoAU</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU</RootNamespace>
+    <StartupObject>DportenisPro.DPTienda.ApplicationUnits.NotasCreditoAU.%28None%29</StartupObject>
+    <WebReference_EnableProperties>true</WebReference_EnableProperties>
+    <WebReference_EnableSQLTypes>false</WebReference_EnableSQLTypes>
+    <WebReference_EnableLegacyEventingModel>true</WebReference_EnableLegacyEventingModel>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>NotasCreditoAU.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>NotasCreditoAU.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>NotasCreditoAU.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>NotasCreditoAU.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AbonoCreditoDirectoTienda\AbonoCreditoDirectoTienda.vbproj">
+      <Name>AbonoCreditoDirectoTienda</Name>
+      <Project>{981A1CAF-A3B9-4129-9551-18B9602EB55E}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\AsociadosAU\AsociadosAU.vbproj">
+      <Name>AsociadosAU</Name>
+      <Project>{B034FAD6-B747-490B-B2F0-FBB169B841FA}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\ClientesAsociadoAU\ClientesAU.vbproj">
+      <Name>ClientesAU</Name>
+      <Project>{4AAD1CBF-AD15-485B-927F-B1B33D7085BD}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\FacturasCorridaAU\FacturasCorridaAU.vbproj">
+      <Project>{BF786883-11A6-4D7C-96D0-07C6159D9D10}</Project>
+      <Name>FacturasCorridaAU</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\FacturasFormaPagoAU\FacturasFormaPagoAU.vbproj">
+      <Name>FacturasFormaPagoAU</Name>
+      <Project>{3D9BA303-9C38-4EF7-A968-03E2B6DABC43}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Application Units\TiposVenta\TiposVenta.vbproj">
+      <Name>TiposVenta</Name>
+      <Project>{06601391-8EF6-4B87-925C-25609F218654}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalogoArticulosAU\CatalogoArticulosAU.vbproj">
+      <Name>CatalogoArticulosAU</Name>
+      <Project>{9B60DFE7-16A5-437D-87C9-3757C50096B5}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalogoFormasPagoAU\CatalogoFormasPagoAU.vbproj">
+      <Project>{75AE5B28-8B23-4766-B746-DF5133C7D34F}</Project>
+      <Name>CatalogoFormasPagoAU</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CinfiguracionSAPAU\ConfiguracionSAPAU.vbproj">
+      <Name>ConfiguracionSAPAU</Name>
+      <Project>{689BA3C9-A2FA-4A1A-83C2-76380EE36FD3}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ConfigSaveArchivos\ConfigSaveArchivos.vbproj">
+      <Name>ConfigSaveArchivos</Name>
+      <Project>{46FAF0FB-46AF-40BB-8CD8-8E042556EE17}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\FacturasAU\FacturasAU.vbproj">
+      <Name>FacturasAU</Name>
+      <Project>{403FE59E-B9FD-4049-9B74-4315092795B7}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ProcesoSAPAU\ProcesoSAPAU.vbproj">
+      <Name>ProcesoSAPAU</Name>
+      <Project>{0D920691-B90A-42CE-ADF5-2C460ACCF378}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ValeCajaAU\ValeCajaAU.vbproj">
+      <Project>{470C8226-4A5B-4BE9-8BE1-EACC887D8335}</Project>
+      <Name>ValeCajaAU</Name>
+    </ProjectReference>
+    <Reference Include="DportenisPro.DPTienda.Core">
+      <Name>DportenisPro.DPTienda.Core</Name>
+      <HintPath>C:\Archivos de programa\EMPRESARIA\ComponentAUSetup\DportenisPro.DPTienda.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DPSoft.Framework.ApplicationContext">
+      <Name>DPSoft.Framework.ApplicationContext</Name>
+      <HintPath>..\..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.ApplicationContext.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Data.SQLServer">
+      <Name>DPSoft.Framework.Data.SQLServer</Name>
+      <HintPath>..\..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Data.SQLServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Security">
+      <Name>DPSoft.Framework.Security</Name>
+      <HintPath>..\..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Security.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ERPConnect, Version=1.5.0.8, Culture=neutral, PublicKeyToken=ab88d1e080a9556c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Resources\ComponentAUSetup\ERPConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="ERPConnectLIC, Version=1.0.2342.20567, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Resources\ComponentAUSetup\ERPConnectLIC.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Resources\ComponentAUSetup\C1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ProcesosAU">
+      <Name>ProcesosAU</Name>
+      <HintPath>..\..\..\..\..\Archivos de programa\EMPRESARIA\ComponentAUSetup\ProcesosAU.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="NotaCredito.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NotasCreditoDataGateway.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NotasCreditoManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NotasCreditoMasivoDataGateway.vb" />
+    <Compile Include="NotasCreditoMasivoManager.vb" />
+    <Compile Include="ProcesosRetail.vb" />
+    <Compile Include="ServiciosREST.vb" />
+    <None Include="app.config" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties XMLCommentsOutputFile="" XMLCommentsActionBuild="-1" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

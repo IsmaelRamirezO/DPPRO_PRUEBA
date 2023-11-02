@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3528" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptFacturacionNoFacturadoSH.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-color: ; background-image: inherit; background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="Detail" Name="Detail" Height="557" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbCantidad" Visible="0" MOD="4" Left="98.50389" Top="-90" Width="226.7717" Height="288" Text="99" OutputFormat="###0" Style="ddo-char-set: 0; text-align: left; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbCodigo" MOD="4" Left="8.640018" Top="0" Width="1521.36" Height="288" Text="KS-001289-1671" CanShrink="1" Style="ddo-char-set: 0; text-align: left; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbConcepto" MOD="4" Left="8.640018" Top="250.56" Width="1521.36" Height="288" Text="Concepto" Multiline="0" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbNumero" MOD="4" Left="1511.575" Top="0" Width="368.5039" Height="288" Text="25.5" Style="ddo-char-set: 0; text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="label34" MOD="4" Left="1898.64" Top="250.56" Width="810.72" Height="288" Text="AHORRO" CanShrink="1" Style="ddo-char-set: 1; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbPUnitario" MOD="4" Left="1874.409" Top="0" Width="793.7007" Height="288" Text="$5,200.31" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTotal" MOD="4" Left="2678.031" Top="0" Width="878.7402" Height="288" Text="$99,999.00" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDesc" MOD="4" Left="2700" Top="270" Width="891.496" Height="288" Text="$0.00 -" Multiline="0" CanShrink="1" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

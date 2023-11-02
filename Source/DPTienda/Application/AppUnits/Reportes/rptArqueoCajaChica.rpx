@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9360" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptArqueoCajaChica.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1965" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="2948.031" Top="56.69291" Width="3911.811" Height="288" Caption="Arqueo de Fondo de Caja Chica" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="566.9291" Top="566.9291" Width="623.622" Height="288" Caption="Folio:" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2408.031" Top="566.9291" Width="963.7798" Height="288" Caption="Sucursal:" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="6576.378" Top="566.9291" Width="793.7004" Height="288" Caption="Fecha:" />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="566.9292" Top="1020.472" Width="1440" Height="288" Caption="Administrativo" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="566.9291" Top="1417.323" Width="1440" Height="288" Caption="Responsable:" />
+      <Control Type="AR.Field" Name="txtFolio" MOD="4" Left="1247.244" Top="566.9291" Width="1020.472" Height="288" Text="TextBox1" />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="3541.89" Top="566.9291" Width="2921.102" Height="288" Text="TextBox2" />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="7370.079" Top="566.9291" Width="1440" Height="288" Text="TextBox3" />
+      <Control Type="AR.Field" Name="txtAdministrativo" MOD="4" Left="2097.638" Top="1020.472" Width="4308.662" Height="288" Text="TextBox4" />
+      <Control Type="AR.Field" Name="txtResponsable" MOD="4" Left="2064.331" Top="1417.323" Width="4341.969" Height="288" Text="TextBox5" />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="285" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="1260" Top="0" Width="1641.26" Height="288" Caption="DOCUMENTOS" />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="6660" Top="0" Width="1440" Height="288" Caption="EFECTIVO" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="480" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Subreport" Name="sbDocumentos" MOD="4" Left="23.38583" Top="0" Width="4738.819" Height="420.2362" />
+      <Control Type="AR.Subreport" Name="sbEfectivo" MOD="4" Left="4860" Top="0" Width="4320" Height="453.5433" />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="3030" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="90" Top="90" Width="1837.559" Height="288" Caption="OBSERVACIONES" />
+      <Control Type="AR.RTF" Name="txtObservaciones" MOD="4" Left="2160" Top="400.3937" Width="6570.708" Height="1129.606" BackStyle="0">
+        <Data><![CDATA[00000000000000007B5C727466317B5C666F6E7474626C7B5C66305C666E696C5C66636861727365743020417269616C3B7D7D7B5C7374796C6573686565747B5C716C5C6C69305C7269305C6E6F77696463746C7061725C736C3234305C736C6D756C745C66616175746F5C667332305C6630204E6F726D616C3B7D7D5C706172645C706C61696E5C73305C6C69305C7269305C716C5C6E6F77696463746C7061725C736C3234305C736C6D756C745C66616175746F5C66305C667332307B5C6630205269636854657874426F78315C7061727D7D]]></Data>
+      </Control>
+      <Control Type="AR.Label" Name="lblNota" MOD="4" Left="170.0788" Top="1700.787" Width="8957.48" Height="1190.551" Caption="Label10" Style="text-align: justify; font-size: 9pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="720" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="1190.551" Top="56.69289" Width="2785.04" Height="288" Caption="ADMINISTRATIVO DE PLAZA" />
+      <Control Type="AR.Field" Name="txtFAdministrativo" MOD="4" Left="1197.637" Top="364.2517" Width="2777.953" Height="288" Text="TextBox1" />
+      <Control Type="AR.Field" Name="txtFResponsable" MOD="4" Left="5619.685" Top="364.2517" Width="2834.646" Height="288" Text="TextBox2" />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="5600.551" Top="56.69289" Width="2853.779" Height="288" Caption="RESPONSABLE SUCURSAL" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

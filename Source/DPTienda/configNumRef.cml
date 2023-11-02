@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigNumeroReferencia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ConfigNumeroReferencia">
+  <Division>0003</Division>
+  <Fecha>13042006</Fecha>
+  <DigVerificador>8</DigVerificador>
+</ConfigNumeroReferencia>

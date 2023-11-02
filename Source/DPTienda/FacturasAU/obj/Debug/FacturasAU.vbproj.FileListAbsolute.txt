@@ -1,0 +1,730 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Interop.SAPTableFactoryCtrl.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Interop.IRFC32Lib.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Security.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Interop.IRFC32Lib.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Security.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\FacturasAU\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\FacturasAU.dll.config
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\obj\Debug\DportenisPro.DPTienda.ApplicationUnits.Facturas.Component1.resources
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.vbproj.GenerateResource.Cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\obj\Debug\FacturasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\FacturasAU\bin\AjusteGeneralTalla.xml

@@ -1,0 +1,1 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\TraspasosSalidaAU\obj\x86\Debug\TraspasosSalidaAU.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/Credito/EstadodeCuentaAsociado" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/EstadodeCuentaAsociado" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/EstadodeCuentaAsociado">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="InsertMovimiento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Modulo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="oMovimientoInfo" type="tns:MovimientosInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="MovimientosInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="FechaMovimiento" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoAlmacen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoCaja" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FolioMovimiento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="TipoDocumento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Cargo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Abono" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Mes" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Año" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Referencia" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plaza" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertMovimientoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertMovimientoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMovimiento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Modulo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMovimientoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetMovimientoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertMovimientoSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertMovimiento" />
+  </wsdl:message>
+  <wsdl:message name="InsertMovimientoSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertMovimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetMovimientoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetMovimiento" />
+  </wsdl:message>
+  <wsdl:message name="GetMovimientoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetMovimientoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="EstadodeCuentaAsociadoSoap">
+    <wsdl:operation name="InsertMovimiento">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Inserta un Movimiento de Crédito o DPVale</documentation>
+      <wsdl:input message="tns:InsertMovimientoSoapIn" />
+      <wsdl:output message="tns:InsertMovimientoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMovimiento">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Carga los Movimientos de un Asociado</documentation>
+      <wsdl:input message="tns:GetMovimientoSoapIn" />
+      <wsdl:output message="tns:GetMovimientoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="EstadodeCuentaAsociadoSoap" type="tns:EstadodeCuentaAsociadoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="InsertMovimiento">
+      <soap:operation soapAction="http://tempuri.org/Credito/EstadodeCuentaAsociado/InsertMovimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMovimiento">
+      <soap:operation soapAction="http://tempuri.org/Credito/EstadodeCuentaAsociado/GetMovimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="EstadodeCuentaAsociado">
+    <wsdl:port name="EstadodeCuentaAsociadoSoap" binding="tns:EstadodeCuentaAsociadoSoap">
+      <soap:address location="http://dpssvr/Credito/EstadodeCuentaAsociado.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

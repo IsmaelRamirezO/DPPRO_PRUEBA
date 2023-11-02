@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3796C05B-4256-45B7-B2F6-81C984BB7FEB}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>CierreDiaAU</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU</RootNamespace>
+    <StartupObject>DportenisPro.DPTienda.ApplicationUnits.CierreDiaAU.%28Ninguno%29</StartupObject>
+    <WebReference_EnableProperties>true</WebReference_EnableProperties>
+    <WebReference_EnableSQLTypes>false</WebReference_EnableSQLTypes>
+    <WebReference_EnableLegacyEventingModel>true</WebReference_EnableLegacyEventingModel>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CierreDiaAU.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CierreDiaAU.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>CierreDiaAU.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>true</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>CierreDiaAU.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AjusteGeneralTalla\AjusteGeneralTalla.vbproj">
+      <Name>AjusteGeneralTalla</Name>
+      <Project>{72370037-CF03-4735-A465-B4737092904E}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CatalogoArticulosAU\CatalogoArticulosAU.vbproj">
+      <Name>CatalogoArticulosAU</Name>
+      <Project>{9B60DFE7-16A5-437D-87C9-3757C50096B5}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CatalogoTipoVenta\CatalogoTipoVentaAU.vbproj">
+      <Name>CatalogoTipoVentaAU</Name>
+      <Project>{475E354A-0E40-4B20-B3EA-7B4FD9B2386B}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CinfiguracionSAPAU\ConfiguracionSAPAU.vbproj">
+      <Name>ConfiguracionSAPAU</Name>
+      <Project>{689BA3C9-A2FA-4A1A-83C2-76380EE36FD3}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ConfigSaveArchivos\ConfigSaveArchivos.vbproj">
+      <Name>ConfigSaveArchivos</Name>
+      <Project>{46FAF0FB-46AF-40BB-8CD8-8E042556EE17}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Contratos\ContratosAU.vbproj">
+      <Name>ContratosAU</Name>
+      <Project>{CFC19560-658A-4A52-A80F-E5C476F15EF1}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DistribucionNC\DistribucionNC.vbproj">
+      <Name>DistribucionNC</Name>
+      <Project>{D0A7CC48-29E6-43AF-97BB-6E5A4B723173}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\FacturasAU\FacturasAU.vbproj">
+      <Name>FacturasAU</Name>
+      <Project>{403FE59E-B9FD-4049-9B74-4315092795B7}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\FingerPrintAU\FingerPrintAU.vbproj">
+      <Name>FingerPrintAU</Name>
+      <Project>{01554B83-2377-42F3-99B1-559CC123CEB3}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NotasCreditoAU\NotasCreditoAU.vbproj">
+      <Name>NotasCreditoAU</Name>
+      <Project>{D372CFAA-DEDF-4183-BBEE-7E3FEDD35177}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ProcesoSAPAU\ProcesoSAPAU.vbproj">
+      <Name>ProcesoSAPAU</Name>
+      <Project>{0D920691-B90A-42CE-ADF5-2C460ACCF378}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ValeCajaAU\ValeCajaAU.vbproj">
+      <Project>{470C8226-4A5B-4BE9-8BE1-EACC887D8335}</Project>
+      <Name>ValeCajaAU</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AbonosApartadosAU\AbonosApartadosAU.vbproj">
+      <Name>AbonosApartadosAU</Name>
+      <Project>{201BA725-FA07-454F-B22A-A0D05A333BC8}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\AsociadosAU\AsociadosAU.vbproj">
+      <Name>AsociadosAU</Name>
+      <Project>{B034FAD6-B747-490B-B2F0-FBB169B841FA}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CancelacionAbonoAU\CancelacionAbonoAU.vbproj">
+      <Name>CancelacionAbonoAU</Name>
+      <Project>{D114A4B1-E2FE-4C3E-B737-66FE088AE93D}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CancelaFacturaAU\CancelaFacturaAU.vbproj">
+      <Name>CancelaFacturaAU</Name>
+      <Project>{A58D4865-B02B-41D6-84CA-56D386035CBB}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalogoBancosAU\CatalogoBancosAU.vbproj">
+      <Project>{8A076D1E-F7F4-47A4-A31C-293B4B54665E}</Project>
+      <Name>CatalogoBancosAU</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FacturasCorridaAU\FacturasCorridaAU.vbproj">
+      <Name>FacturasCorridaAU</Name>
+      <Project>{BF786883-11A6-4D7C-96D0-07C6159D9D10}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\FacturasFormaPagoAU\FacturasFormaPagoAU.vbproj">
+      <Name>FacturasFormaPagoAU</Name>
+      <Project>{3D9BA303-9C38-4EF7-A968-03E2B6DABC43}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <Reference Include="DportenisPro.DPTienda.Core">
+      <Name>DportenisPro.DPTienda.Core</Name>
+      <HintPath>C:\Archivos de programa\EMPRESARIA\ComponentAUSetup\DportenisPro.DPTienda.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DPSoft.Framework.ApplicationContext">
+      <Name>DPSoft.Framework.ApplicationContext</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.ApplicationContext.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Configuration">
+      <Name>DPSoft.Framework.Configuration</Name>
+      <HintPath>..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Configuration.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Data.SQLServer">
+      <Name>DPSoft.Framework.Data.SQLServer</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Data.SQLServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DPSoft.Framework.Security">
+      <Name>DPSoft.Framework.Security</Name>
+      <HintPath>..\..\..\..\..\..\..\..\Archivos de programa\DPSoft\DPSoft Framework\Bin\DPSoft.Framework.Security.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\dpsoft.framework.security</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Interop.SAPFunctionsOCX, Version=5.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>obj\Interop.SAPFunctionsOCX.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Windows.CalendarCombo.v4, Version=4.0.36.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.Common.v4, Version=4.0.36.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.ExplorerBar.v4, Version=4.0.36.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.GridEX.v4, Version=4.0.36.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.UI.v4, Version=4.0.36.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="MontarUnidadRed">
+      <Name>MontarUnidadRed</Name>
+      <HintPath>..\..\..\..\Resources\MontarUnidadRed.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Visual Studio 2010\Projects\StressTest\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NumeroReferencia">
+      <Name>NumeroReferencia</Name>
+      <HintPath>..\..\..\..\Resources\NumeroReferencia.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CierreDia.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CierreDiaDataGateWay.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CierreDiaManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmGuardarFacturasPendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMensaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ProcesosRetail.vb" />
+    <Compile Include="S2Credit\ProcesosS2Credit.vb" />
+    <Compile Include="ServiciosREST.vb" />
+    <Compile Include="Web References\WSAsociadoNombre\Reference.vb">
+      <DependentUpon>Reference.map</DependentUpon>
+      <SubType>code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Web References\wsPSug\Reference.vb">
+      <DependentUpon>Reference.map</DependentUpon>
+      <SubType>code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <EmbeddedResource Include="frmGuardarFacturasPendientes.resx">
+      <DependentUpon>frmGuardarFacturasPendientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMensaje.resx">
+      <DependentUpon>frmMensaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <None Include="app.config" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\WSAsociadoNombre\AsociadoInfo.disco" />
+    <None Include="Web References\WSAsociadoNombre\AsociadoInfo.wsdl" />
+    <None Include="Web References\WSAsociadoNombre\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\wsPSug\PedidoSugerido.disco" />
+    <None Include="Web References\wsPSug\PedidoSugerido.wsdl" />
+    <None Include="Web References\wsPSug\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <WebReferences Include="Web References\" />
+    <WebReferenceUrl Include="http://dpws/Credito/PedidoSugerido.asmx">
+      <RelPath>Web References\wsPSug\</RelPath>
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <UpdateFromURL>http://dpws/Credito/PedidoSugerido.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>CierreDiaAU_wsPSug_PedidoSugerido</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://operaciones/WSAsociadoInfo/AsociadoInfo.asmx">
+      <RelPath>Web References\WSAsociadoNombre\</RelPath>
+      <UrlBehavior>Static</UrlBehavior>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties XMLCommentsActionBuild="-1" XMLCommentsOutputFile="" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

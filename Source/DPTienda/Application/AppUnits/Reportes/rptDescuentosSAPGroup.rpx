@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10515" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptDescuentosSAPGroup.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1185" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="LblTitulo" MOD="4" Left="88.67103" Top="113.3858" Width="9557.658" Height="360" Caption="Reporte de Descuentos en Sucursal: " Style="text-align: center; font-size: 15.75pt; " />
+      <Control Type="AR.Label" Name="LblFecha" MOD="4" Left="80.13771" Top="540" Width="9557.658" Height="270" Caption="Fecha" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="80.13771" Top="900" Width="1270.63" Height="270" Caption="Codigo" Style="font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="1927.559" Top="901.4173" Width="3174.803" Height="270" Caption="Descripción" Style="font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="5159.055" Top="907.0866" Width="1247.244" Height="270" Caption="Precio Normal" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="6462.993" Top="907.0866" Width="966.6135" Height="270" Caption="Descuento" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="7483.464" Top="907.0866" Width="1133.858" Height="270" Caption="Precio Oferta" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="10441.5" Y1="10" X2="10441.5" Y2="1143.858" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="10431.5" Y1="1133.858" X2="10.00001" Y2="1140.945" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="10431.5" Y1="0" X2="8.447902E-06" Y2="0" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="10" Y1="10.00001" X2="10" Y2="1143.858" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="10431.5" Y1="793.7007" X2="0" Y2="793.7007" />
+      <Control Type="AR.Line" Name="Line7" MOD="4" X1="5225.748" Y1="803.7007" X2="5225.748" Y2="1143.858" />
+      <Control Type="AR.Line" Name="Line8" MOD="4" X1="6472.992" Y1="803.7007" X2="6472.992" Y2="1143.858" />
+      <Control Type="AR.Line" Name="Line9" MOD="4" X1="7466.457" Y1="805.0393" X2="7466.457" Y2="1145.197" />
+      <Control Type="AR.Line" Name="Line10" MOD="4" X1="1882.205" Y1="805.0393" X2="1882.205" Y2="1145.197" />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="9411.024" Top="907.0866" Width="793.7004" Height="270" Caption="Imagen" Style="text-align: left; font-size: 9pt; " />
+      <Control Type="AR.Line" Name="Line13" MOD="4" X1="9421.024" Y1="803.7007" X2="9421.024" Y2="1143.858" />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="8617.323" Top="907.0866" Width="793.7004" Height="272.126" Caption="Exist." Style="text-align: center; font-size: 9pt; " />
+      <Control Type="AR.Line" Name="Line12" MOD="4" X1="8674.016" Y1="805.0393" X2="8674.016" Y2="1145.197" />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdPorcGroup" Height="360" DataField="CodLinea" BackColor="16777215" KeepTogether="1" CanShrink="0">
+      <Control Type="AR.Label" Name="Label7" DataField="NombreLinea" MOD="4" Left="450" Top="0" Width="5220" Height="283.4646" Caption="Linea: " Style="font-size: 12pt; " />
+      <Control Type="AR.Line" Name="Line11" MOD="4" X1="5669.292" Y1="340.1575" X2="463.5433" Y2="350.1575" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="1125" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TxtBxMaterial" DataField="CodArticulo" MOD="4" Left="80.13771" Top="0" Width="1734.036" Height="270" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxDescr" DataField="Descripcion" MOD="4" Left="1927.559" Top="0" Width="3174.803" Height="793.7007" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxPrecioNormal" DataField="PrecioNormal" MOD="4" Left="5159.055" Top="0" Width="1247.244" Height="270" Text="$0,000.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxDescuento" DataField="Descuento" MOD="4" Left="6462.993" Top="0" Width="966.6135" Height="270" Text="00.00" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxPrecioOferta" DataField="PrecioOferta" MOD="4" Left="7483.464" Top="0" Width="1133.858" Height="270" Text="$0,000.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 9pt; " />
+      <Control Type="AR.Image" Name="pbImagen" DataField="Imagen" MOD="4" Left="9411.024" Top="0" Width="1020.473" Height="1020.472" LineColor="16777215" LineWeight="0" HyperLink="" SizeMode="1" />
+      <Control Type="AR.Field" Name="TextBox1" DataField="TotalA" MOD="4" Left="8617.323" Top="0" Width="680.314" Height="270" Text="0" OutputFormat="" Style="text-align: right; font-size: 9pt; " />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="240" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="9647.797" Y1="10" X2="10" Y2="10" />
+      <Control Type="AR.Field" Name="txtNumPag" MOD="4" Left="9114.095" Top="0" Width="501.0239" Height="226.7717" Text="0000" Style="text-align: right; font-size: 8.25pt; " SummaryType="4" SummaryRunning="1" />
+      <Control Type="AR.Label" Name="lblPag" MOD="4" Left="8773.938" Top="0" Width="340.1573" Height="226.7717" Caption="Pag." Style="font-size: 8.25pt; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" PaperSize="1" PaperWidth="12240" PaperHeight="15840" PaperName="" Orientation="1" />
+</ActiveReportsLayout>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10095" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptRetirosDelDia.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="1288" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="9990" Height="1260" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="3870" Top="90" Width="2700" Height="288" Caption="Reporte de Retiros." Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="90" Top="90" Width="720" Height="288" Caption="Fecha:" Style="font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="810" Top="90" Width="1440" Height="288" Text="txtFecha" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2880" Top="540" Width="900" Height="288" Caption="Sucursal:" Style="font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtAlmacen" MOD="4" Left="3870" Top="540" Width="3330" Height="288" Text="TextBox1" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="360" Top="990" Width="1260" Height="288" Caption="Cod. Banco" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="1980" Top="990" Width="1440" Height="288" Caption="Referencia" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="3600" Top="990" Width="1440" Height="288" Caption="Cantidad Retiro" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="10000" Y1="909.9999" X2="10" Y2="909.9999" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="1320" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtCodBanco" MOD="4" Left="772.559" Top="0" Width="811.2993" Height="180" Text="EFEC" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtCantidadEfec" MOD="4" Left="3495" Top="0" Width="1440" Height="180" Text="0.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="9990" Y1="0" X2="9989.292" Y2="1360.63" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="0" Y1="0" X2="0" Y2="1360.63" />
+      <Control Type="AR.Field" Name="TextBox1" MOD="4" Left="1133.858" Top="360" Width="450" Height="180" Text="T1" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TxtBxTotalT1" DataField="CantidadRetiro" MOD="4" Left="3495" Top="360" Width="1440" Height="180" Text="0.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox4" MOD="4" Left="1133.858" Top="720" Width="450" Height="180" Text="T2" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TxtBxTotalT2" DataField="CantidadRetiro" MOD="4" Left="3495" Top="720" Width="1440" Height="180" Text="0.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox7" MOD="4" Left="1133.858" Top="1080" Width="450" Height="180" Text="T3" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TxtBxTotalT3" DataField="CantidadRetiro" MOD="4" Left="3495" Top="1080" Width="1440" Height="180" Text="0.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtReferencia" DataField="Referencia" MOD="4" Left="1875" Top="0" Width="1440" Height="180" Text="000000" Style="text-align: right; font-size: 8.25pt; " />
+    </Section>
+    <Section Type="ReportFooter" Name="ReportFooter" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="0" Top="0" Width="9990" Height="270" BackColor="16777215" />
+      <Control Type="AR.Field" Name="txtSumCantidadRetiro" MOD="4" Left="3510" Top="0" Width="1440" Height="180" Text="0.00" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

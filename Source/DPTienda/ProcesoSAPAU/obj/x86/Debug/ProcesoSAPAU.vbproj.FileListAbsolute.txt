@@ -1,0 +1,7 @@
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\ProcesoSAPAU.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.AcrRptDifSAPyDP.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.ExportForm.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.InitialForm.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.ReportViewerForm.resources
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\ProcesoSAPAU.vbproj.GenerateResource.Cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\ProcesoSAPAU\obj\x86\Debug\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll.licenses

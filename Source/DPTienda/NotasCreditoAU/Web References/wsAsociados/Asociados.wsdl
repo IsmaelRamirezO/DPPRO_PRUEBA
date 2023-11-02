@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://ws.dportenis.com.mx/Credito/Asociados" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://ws.dportenis.com.mx/Credito/Asociados" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ws.dportenis.com.mx/Credito/Asociados">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="CreateAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="AsociadoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoActualCreditoDPVale" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoActualCreditoEnTienda" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoActualCreditoMayoreo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencidoCreditoDPVale" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencidoCreditoEnTienda" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencidoCreditoMayoreo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TieneCreditoMayoreo" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoMayoreo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TieneCreditoEnTienda" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoEnTienda" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TieneCreditoDPVale" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCreditoDPVale" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="Foto" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="RecordCreatedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordCreatedOn" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="RecordStatus" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelefonoTrabajo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelefonoOtro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateAsociadoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Data" type="tns:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateAsociadoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeleteAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAsociadoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetAsociadoResult" type="tns:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadoByClienteID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadoByClienteIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetAsociadoByClienteIDResult" type="tns:AsociadoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnabledRecordsOnly" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAsociadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAsociadosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateEsCreditoDirecto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CodAsociado" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="EsCreditoDirectoTienda" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateEsCreditoDirectoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateEsCreditoDPVale">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CodAsociado" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="EsCreditoDPVale" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateEsCreditoDPValeResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdateCreditoDPSaldoVencido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCreditoDPSaldoVencidoResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CreateAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateAsociado" />
+  </wsdl:message>
+  <wsdl:message name="CreateAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateAsociado" />
+  </wsdl:message>
+  <wsdl:message name="UpdateAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteAsociado" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAsociado" />
+  </wsdl:message>
+  <wsdl:message name="GetAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAsociadoByClienteIDSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAsociadoByClienteID" />
+  </wsdl:message>
+  <wsdl:message name="GetAsociadoByClienteIDSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAsociadoByClienteIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAsociadosSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAsociados" />
+  </wsdl:message>
+  <wsdl:message name="GetAsociadosSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAsociadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateEsCreditoDirectoSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateEsCreditoDirecto" />
+  </wsdl:message>
+  <wsdl:message name="UpdateEsCreditoDirectoSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateEsCreditoDirectoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateEsCreditoDPValeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateEsCreditoDPVale" />
+  </wsdl:message>
+  <wsdl:message name="UpdateEsCreditoDPValeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateEsCreditoDPValeResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPSaldoVencidoSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPSaldoVencido" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCreditoDPSaldoVencidoSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCreditoDPSaldoVencidoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap">
+    <wsdl:operation name="CreateAsociado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Crea un nuevo asociado.</documentation>
+      <wsdl:input message="tns:CreateAsociadoSoapIn" />
+      <wsdl:output message="tns:CreateAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAsociado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza un asociado.</documentation>
+      <wsdl:input message="tns:UpdateAsociadoSoapIn" />
+      <wsdl:output message="tns:UpdateAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAsociado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Elimina un asociado.</documentation>
+      <wsdl:input message="tns:DeleteAsociadoSoapIn" />
+      <wsdl:output message="tns:DeleteAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAsociado">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene un asociado.</documentation>
+      <wsdl:input message="tns:GetAsociadoSoapIn" />
+      <wsdl:output message="tns:GetAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAsociadoByClienteID">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene un asociado.</documentation>
+      <wsdl:input message="tns:GetAsociadoByClienteIDSoapIn" />
+      <wsdl:output message="tns:GetAsociadoByClienteIDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAsociados">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene una lista de asociados.</documentation>
+      <wsdl:input message="tns:GetAsociadosSoapIn" />
+      <wsdl:output message="tns:GetAsociadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEsCreditoDirecto">
+      <wsdl:input message="tns:UpdateEsCreditoDirectoSoapIn" />
+      <wsdl:output message="tns:UpdateEsCreditoDirectoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEsCreditoDPVale">
+      <wsdl:input message="tns:UpdateEsCreditoDPValeSoapIn" />
+      <wsdl:output message="tns:UpdateEsCreditoDPValeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPSaldoVencido">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Actualiza Saldos Vencidos.</documentation>
+      <wsdl:input message="tns:UpdateCreditoDPSaldoVencidoSoapIn" />
+      <wsdl:output message="tns:UpdateCreditoDPSaldoVencidoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap" type="tns:Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="CreateAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/CreateAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/DeleteAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAsociado">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/GetAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAsociadoByClienteID">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/GetAsociadoByClienteID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAsociados">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/GetAsociados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEsCreditoDirecto">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateEsCreditoDirecto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEsCreditoDPVale">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateEsCreditoDPVale" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCreditoDPSaldoVencido">
+      <soap:operation soapAction="http://ws.dportenis.com.mx/Credito/Asociados/UpdateCreditoDPSaldoVencido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Credito_x0020_._x003A__x003A__x003A_·_x0020_Asociados">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Proporciona métodos para manejar Asociados. &lt;br&gt; &lt;br&gt; Site: Credito &lt;br&gt; Web Service: Asociados.asmx &lt;br&gt; Version: 1.2</documentation>
+    <wsdl:port name="Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap" binding="tns:Credito_x0020_._x003A__x003A__x003A_·_x0020_AsociadosSoap">
+      <soap:address location="http://dpssvr/Credito/Asociados.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

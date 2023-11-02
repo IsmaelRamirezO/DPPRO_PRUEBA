@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ConsultaExistenciasAU
+</name>
+</assembly>
+<members>
+<member name="M:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasAbstract.Execute(System.String,System.String,System.Boolean,System.Boolean)">
+	<summary>
+     Ejecuta una consulta de existencias para el artículo especificado.
+ </summary>
+	<param name="ArticuloID" type="String">
+		<para>
+         Codigo del Artículo a consultar.
+     </para>
+	</param>
+	<returns>
+     Retorna un valor de tipo ResultadoConsultaExistencias.
+ </returns>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasAbstract.FillGeneralData(System.String@,System.String,DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ResultadoConsultaExistencias,System.Boolean)">
+	<summary>
+     Agrega la información general del artículo al ResultadoConsultaExistencias especificado.
+ </summary>
+	<param name="ArticleID" type="String">
+		<para>
+         Codigo del Artículo a consultar.
+     </para>
+	</param>
+	<param name="Result" type="ResultadoConsultaExistencias">
+		<para>
+         Objeto al que se agregará la información.
+     </para>
+	</param>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasAbstract">
+	<summary>
+     Proporciona la funcionalidad base a heredar en otros objetos para obtener la existencia actual 
+     en inventario de cierto producto.
+ </summary>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasLocal.FillDetailData(System.String,System.String,DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ResultadoConsultaExistencias,System.Boolean)">
+	<summary>
+     Agrega la información de la existencia al ResultadoConsultaExistencias especificado.
+ </summary>
+	<param name="ArticleID" type="String">
+		<para>
+         Codigo del Artículo a consultar.
+     </para>
+	</param>
+	<param name="Result" type="ResultadoConsultaExistencias">
+		<para>
+         Objeto al que se agregará la información.
+     </para>
+	</param>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasLocal">
+	<summary>
+     Proporciona métodos para realizar consultas de existencia de artículos en el inventario 
+     local de la tienda.
+ </summary>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasPlaza.FillDetailData(System.String,System.String,DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ResultadoConsultaExistencias,System.Boolean)">
+	<summary>
+     Agrega la información de la existencia al ResultadoConsultaExistencias especificado.
+ </summary>
+	<param name="ArticleID" type="String">
+		<para>
+         Codigo del Artículo a consultar.
+     </para>
+	</param>
+	<param name="Result" type="ResultadoConsultaExistencias">
+		<para>
+         Objeto al que se agregará la información.
+     </para>
+	</param>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.ConsultaExistencias.ConsultaExistenciasPlaza">
+	<summary>
+     Proporciona métodos para realizar consultas de existencia de artículos en el inventario 
+     local de la tienda.
+ </summary>
+</member>
+</members>
+</doc>

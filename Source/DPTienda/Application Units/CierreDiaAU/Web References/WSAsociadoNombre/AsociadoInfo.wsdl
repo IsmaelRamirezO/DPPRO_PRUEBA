@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/WSAsociadoInfo/AsociadoInfo" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/WSAsociadoInfo/AsociadoInfo" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/WSAsociadoInfo/AsociadoInfo">
+      <s:element name="GetAosiadoInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ClienteId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAosiadoInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAosiadoInfoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetAosiadoInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAosiadoInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetAosiadoInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAosiadoInfoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AsociadoInfoSoap">
+    <wsdl:operation name="GetAosiadoInfo">
+      <wsdl:input message="tns:GetAosiadoInfoSoapIn" />
+      <wsdl:output message="tns:GetAosiadoInfoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AsociadoInfoSoap" type="tns:AsociadoInfoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="GetAosiadoInfo">
+      <soap:operation soapAction="http://tempuri.org/WSAsociadoInfo/AsociadoInfo/GetAosiadoInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AsociadoInfo">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/" />
+    <wsdl:port name="AsociadoInfoSoap" binding="tns:AsociadoInfoSoap">
+      <soap:address location="http://operaciones/WSAsociadoInfo/AsociadoInfo.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

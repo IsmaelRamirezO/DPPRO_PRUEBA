@@ -1,0 +1,72 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\ContactoTypes\bin\ContactoTypes.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\Application Units\ContactoTypes\obj\Debug\ContactoTypes.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3810" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptSaldoDPCardPuntos.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="5220" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="648.425" Top="180" Width="2286.851" Height="288" Caption="Saldo DP Card" Style="text-align: center; font-weight: bold; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="65.90591" Top="604.4897" Width="1814.173" Height="340.1575" Caption="Fecha: 25/08/2007" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblHora" MOD="4" Left="1970.079" Top="604.4897" Width="1539.921" Height="340.1575" Caption="Hora: 16:43" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="0" Top="1170" Width="1440" Height="270" Caption="Tarjeta:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTarjeta" MOD="4" Left="1440" Top="1170" Width="2160" Height="270" Text="Tarjeta" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="0" Top="1530" Width="1440" Height="450" Caption="Nombre Tarjetahabiente:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNombre" MOD="4" Left="1440" Top="1710" Width="2160" Height="270" Text="Nombre" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="0" Top="2070" Width="1800" Height="270" Caption="Saldo Actual Puntos:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSaldoActual" MOD="4" Left="1890" Top="2070" Width="1710" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="0" Top="2430" Width="1800" Height="270" Caption="Saldo Actual Pesos:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSaldoActualPesos" MOD="4" Left="1890" Top="2430" Width="1710" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="0" Top="2790" Width="1440" Height="270" Caption="Activación:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFechaActivacion" MOD="4" Left="1440" Top="2790" Width="2160" Height="270" Text="15/04/2015" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="0" Top="3150" Width="1440" Height="270" Caption="Expira:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFechaExpiracion" MOD="4" Left="1440" Top="3150" Width="2160" Height="270" Text="31/12/2015" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPersonalMessage" MOD="4" Left="0" Top="4500" Width="3600" Height="630" Text="Mensaje personalizado para el Socio" Style="text-align: center; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="0" Top="3600" Width="1710" Height="270" Caption="Puntos a expirar:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TextBox2" MOD="4" Left="1800" Top="3600" Width="1800" Height="270" Text="1524" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtExpirationMessage" MOD="4" Left="0" Top="3960" Width="3600" Height="450" Text="Mensaje descriptivo del vencimiento de la Dpcard para ser impreso en el ticket de compra" Style="text-align: center; font-size: 8.25pt; font-family: Arial; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="432" TopMargin="0" BottomMargin="0" PaperSize="0" PaperWidth="4248" PaperHeight="56650" PaperName="" />
+</ActiveReportsLayout>

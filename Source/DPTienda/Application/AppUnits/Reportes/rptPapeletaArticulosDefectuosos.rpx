@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="7950" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptPapeletaArticulosDefectuosos.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="4889" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="713.6221" Top="90" Width="2891.339" Height="288" Caption="ARTICULOS DEFECTUOSOS" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="3927.401" Top="90" Width="1440" Height="288" Caption="FOLIO No." />
+      <Control Type="AR.Field" Name="txtFolioDefectuoso" MOD="4" Left="5490" Top="90" Width="1440" Height="288" Text="TextBox1" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="180" Top="720" Width="1440" Height="288" Caption="TIENDA:" />
+      <Control Type="AR.Field" Name="txtTienda" MOD="4" Left="1890" Top="720" Width="3325.748" Height="288" Text="TextBox2" />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="170.0788" Top="1133.858" Width="1440" Height="288" Caption="FECHA:" />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="1870.866" Top="1133.858" Width="1440" Height="288" Text="TextBox3" />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="170.0788" Top="1587.401" Width="1440" Height="288" Caption="TALLA:" />
+      <Control Type="AR.Field" Name="txtTalla" MOD="4" Left="1814.173" Top="1587.401" Width="1440" Height="288" Text="TextBox4" />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="3741.732" Top="1133.858" Width="1440" Height="288" Caption="MODELO:" />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="3741.732" Top="1587.401" Width="1440" Height="288" Caption="No. FACTURA:" />
+      <Control Type="AR.Field" Name="txtNFactura" MOD="4" Left="5442.52" Top="1587.401" Width="1440" Height="288" Text="TextBox5" />
+      <Control Type="AR.Field" Name="txtModelo" MOD="4" Left="5385.827" Top="1133.858" Width="2494.487" Height="288" Text="TextBox6" />
+      <Control Type="AR.RTF" Name="RichTextBox1" MOD="4" Left="226.7716" Top="2211.024" Width="7143.307" Height="907.0864" MaxLength="200" BackStyle="0">
+        <Data><![CDATA[00000000000000007B5C727466317B5C666F6E7474626C7B5C66305C666E696C5C66636861727365743020417269616C3B7D7D7B5C7374796C6573686565747B5C716C5C6C69305C7269305C6E6F77696463746C7061725C736C3234305C736C6D756C745C66616175746F5C667332305C6630204E6F726D616C3B7D7D5C706172645C706C61696E5C73305C6C69305C7269305C716C5C6E6F77696463746C7061725C736C3234305C736C6D756C745C66616175746F5C66305C667332307B5C6630205269636854657874426F78315C7061727D7D]]></Data>
+      </Control>
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="170.0788" Top="3231.496" Width="4818.898" Height="510.2363" Caption="Nota: Todos los articulos deberan ser enviados en su caja original." />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="1303.937" Top="4195.276" Width="1440" Height="288" Caption="Elaboró" />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="4705.512" Top="4195.276" Width="1440" Height="288" Caption="Autorizó" />
+      <Control Type="AR.Field" Name="txtElaboro" MOD="4" Left="566.9291" Top="4535.433" Width="2891.339" Height="288" Text="TextBox7" />
+      <Control Type="AR.Field" Name="txtAutorizo" MOD="4" Left="4025.197" Top="4535.433" Width="2834.646" Height="288" Text="TextBox8" />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="3978.504" Y1="4158.583" X2="6803.15" Y2="4148.583" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="576.9292" Y1="4158.583" X2="3401.575" Y2="4148.583" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

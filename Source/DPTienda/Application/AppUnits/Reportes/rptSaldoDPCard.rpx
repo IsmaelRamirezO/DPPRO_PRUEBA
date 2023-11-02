@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="4050.72" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptSaldoDPCard.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="5819" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label36" MOD="4" Left="918.425" Top="90" Width="2286.851" Height="288" Caption="Saldo DP Card" Style="text-align: center; font-weight: bold; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="335.9059" Top="514.4897" Width="1814.173" Height="340.1575" Caption="Fecha: 25/08/2007" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblHora" MOD="4" Left="2240.079" Top="514.4897" Width="1539.921" Height="340.1575" Caption="Hora: 16:43" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label37" MOD="4" Left="270" Top="2880" Width="1440" Height="270" Caption="Tarjeta:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTarjeta" MOD="4" Left="1710" Top="2880" Width="2160" Height="270" Text="Tarjeta" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label38" MOD="4" Left="270" Top="3240" Width="1440" Height="450" Caption="Nombre Tarjetahabiente:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNombre" MOD="4" Left="1710" Top="3420" Width="2160" Height="270" Text="Nombre" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label39" MOD="4" Left="270" Top="3780" Width="1440" Height="270" Caption="Saldo Actual:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSaldoActual" MOD="4" Left="1710" Top="3780" Width="2160" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label40" MOD="4" Left="270" Top="4140" Width="1440" Height="270" Caption="Pago Minimo:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtPagoMinimo" MOD="4" Left="1710" Top="4140" Width="2160" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label41" MOD="4" Left="270" Top="4500" Width="1440" Height="270" Caption="Pago Vencido:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtPagoVencido" MOD="4" Left="1710" Top="4500" Width="2160" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label42" MOD="4" Left="270" Top="4860" Width="1440" Height="270" Caption="Pago Total:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtPagoTotal" MOD="4" Left="1710" Top="4860" Width="2160" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label43" MOD="4" Left="270" Top="5220" Width="1440" Height="450" Caption="Fecha Límite de Pago:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtFechaLimite" MOD="4" Left="1710" Top="5400" Width="2160" Height="270" Text="01 de Enero del 2015" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label44" MOD="4" Left="2340" Top="2430" Width="450" Height="270" Caption="CM:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtConsecutivoPOS" MOD="4" Left="2790" Top="2430" Width="1080" Height="270" Text="0001" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="270" Top="990" Width="1440" Height="270" Caption="No. Tienda:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNumTienda" MOD="4" Left="1710" Top="990" Width="2160" Height="270" Text="01" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTienda" MOD="4" Left="270" Top="1260" Width="3600" Height="1067.04" Text="000" Style="text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="270" Top="2430" Width="1440" Height="270" Caption="No. Caja:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNumCaja" MOD="4" Left="1710" Top="2430" Width="540" Height="270" Text="01" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="432" TopMargin="0" BottomMargin="0" PaperSize="0" PaperWidth="4248" PaperHeight="56650" PaperName="" />
+</ActiveReportsLayout>

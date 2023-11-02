@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="3780" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptVoucherDPCard.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="10875" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtFirma" MOD="4" Left="360" Top="5500" Width="3060" Height="270" Text="Nombre" Style="text-align: center; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblHora" MOD="4" Left="2060.079" Top="424.488" Width="1474.015" Height="340.1575" Caption="Hora: 16:43" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="245.9059" Top="424.488" Width="1814.173" Height="340.1575" Caption="Fecha: 25/08/2007" Style="font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblTitulo" MOD="4" Left="90" Top="0" Width="3600" Height="288" Caption="Recibo de Compra" Style="text-align: center; font-weight: bold; font-size: 9pt; " />
+      <Control Type="AR.Label" Name="lblNombre" MOD="4" Left="90" Top="3330" Width="1440" Height="270" Caption="Tarjetahabiente:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="90" Top="3690" Width="1440" Height="270" Caption="Monto:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtMonto" MOD="4" Left="1530" Top="3690" Width="2160" Height="270" Text="$0.00" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtlinea" MOD="4" Left="90" Top="4410" Width="3600" Height="270" Text="EN LINEA" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTienda" MOD="4" Left="90" Top="1080" Width="3600" Height="1067.04" Text="000" Style="text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtNumCaja" MOD="4" Left="1530" Top="2250" Width="540" Height="270" Text="01" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="90" Top="2250" Width="1440" Height="270" Caption="No. Caja:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="90" Top="2610" Width="1440" Height="270" Caption="Vendedor:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtVendedor" MOD="4" Left="1530" Top="2610" Width="2160" Height="270" Text="-" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTarjeta" MOD="4" Left="1530" Top="2970" Width="2160" Height="270" Text="-" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="90" Top="2970" Width="1440" Height="270" Caption="Tarjeta:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblPagare0" MOD="4" Left="90" Top="6030" Width="3600" Height="270" Caption="PAGARE" Style="text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblPagare1" MOD="4" Left="90" Top="6300" Width="3600" Height="450" Caption="Por este pagare me obligo a pagar incondicionalmente a la orden de:" Style="text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtOrdenDe" MOD="4" Left="90" Top="6750" Width="3600" Height="270" Text="-" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblPagare2" MOD="4" Left="90" Top="7020" Width="3600" Height="900" Caption="o sus cesionarios autorizados en sus oficinas o en cualquier otro lugar que se me requiera la cantidad que aparece en el total de este título de disposición, denominado en la forma de pago " Style="text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTarjetaCred" MOD="4" Left="90" Top="7920" Width="3600" Height="270" Text="TARJETA DE CREDITO -" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblPagare3" MOD="4" Left="90" Top="8190" Width="3600" Height="2610" Caption="el cual suscribo a favor de la compañía emisora de la tarjeta y al amparo del contrato de apertura de crédito que tengo con la compañía emisora para el uso de la tarjeta de crédito y/o servicio y certifico que tiene el pleno valor probatorio y fuerza legal, ya que cuenta con mi firma autógrafa o electrónica según corresponda, la cual es de mi exclusiva responsabilidad por lo que manifiesto plena conformidad respecto al cargo efectuado a la cuenta  de la que se derivó, la tarjeta utilizada. El presente PAGARE es negociable según convenga al otorgante del crédito." Style="text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNombre" MOD="4" Left="1530" Top="3330" Width="2160" Height="270" Text="Nombre" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="3420" Y1="5410" X2="360" Y2="5410" />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="2160" Top="2250" Width="450" Height="270" Caption="CM:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtConsecutivoPOS" MOD="4" Left="2610" Top="2250" Width="1080" Height="270" Text="0001" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="90" Top="810" Width="1440" Height="270" Caption="No. Tienda:" Style="text-align: left; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtNumTienda" MOD="4" Left="1530" Top="810" Width="2160" Height="270" Text="01" Style="text-align: left; font-size: 8.25pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPromocion" Visible="0" MOD="4" Left="90" Top="4050" Width="3600" Height="270" Text="3 Meses sin intereses" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="432" RightMargin="0" TopMargin="144" BottomMargin="0" />
+</ActiveReportsLayout>

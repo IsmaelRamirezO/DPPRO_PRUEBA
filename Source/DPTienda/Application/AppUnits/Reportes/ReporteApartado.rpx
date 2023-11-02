@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9360" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="2055" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbFolio" MOD="4" Left="7290.72" Top="180" Width="1530" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbNombre" MOD="4" Left="720" Top="360" Width="4500" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbDomicilio" MOD="4" Left="720" Top="540" Width="1440" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbCiudad" MOD="4" Left="737.28" Top="851.0399" Width="1440" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbRFC" MOD="4" Left="720" Top="1080" Width="2430" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="tbTelefono" MOD="4" Left="4410.72" Top="1080" Width="1890" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="ebCodCaja" MOD="4" Left="720" Top="90.72" Width="1440" Height="288" Text="Caja.: " />
+      <Control Type="AR.Field" Name="txtFecha" MOD="4" Left="4230.72" Top="90.72" Width="2346.378" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TxtBxDocFi" Visible="0" MOD="4" Left="6570" Top="1080" Width="2250" Height="288" Text="" Style="font-size: 8.25pt; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TextBox7" DataField="Cantidad" MOD="4" Left="90" Top="0" Width="630" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox8" DataField="CodArticulo" MOD="4" Left="720" Top="0" Width="1890" Height="288" Text="" Style="font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox10" DataField="Numero" MOD="4" Left="3060" Top="0" Width="540" Height="288" Text="" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox11" DataField="Precio" MOD="4" Left="3600" Top="0" Width="1080" Height="288" Text="" OutputFormat="#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox12" DataField="Importe" MOD="4" Left="4680" Top="0" Width="900" Height="288" Text="" OutputFormat="#,##0.00" Style="text-align: right; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="TextBox13" DataField="Descuento" Visible="0" MOD="4" Left="5850" Top="0" Width="900" Height="288" Text="" Style="ddo-char-set: 1; font-size: 8.25pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="tbImporteTotal" MOD="4" Left="4500" Top="0" Width="1440" Height="288" Text="" Style="text-align: right; font-size: 8.25pt; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="288" PaperSize="0" PaperWidth="8640" PaperHeight="7200" PaperName="" Orientation="1" />
+</ActiveReportsLayout>

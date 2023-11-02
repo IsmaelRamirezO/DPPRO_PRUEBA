@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9360" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptMetasPlayers.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="855" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="90" Y1="0" X2="9360" Y2="0" LineWeight="3" />
+      <Control Type="AR.Label" Name="lblMarcadorxPlayer" MOD="4" Left="1980" Top="90" Width="5310" Height="288" Caption="Marcador por Players" Style="text-align: center; font-weight: bold; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtFechaFin" MOD="4" Left="3780" Top="540" Width="1170" Height="288" Text="" OutputFormat="dd/MM/yyyy" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="lblA" MOD="4" Left="3510" Top="540" Width="270" Height="288" Caption="A:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFechaInicio" MOD="4" Left="2340" Top="540" Width="1170" Height="288" Text="" OutputFormat="dd/MM/yyyy" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="lblDe" MOD="4" Left="1980" Top="540" Width="360" Height="288" Caption="De:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFechaReporte" MOD="4" Left="720" Top="90" Width="1170" Height="288" Text="" OutputFormat="dd/MM/yyyy" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="lblFecha" MOD="4" Left="90" Top="90" Width="630" Height="288" Caption="Fecha:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="464" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="lblCodPlayer" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="0" Top="0" Width="900" Height="450" Text="ID" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="lblNombre" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="900" Top="0" Width="2332.8" Height="450" Text="Nombre" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="lblMeta" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="3240" Top="0" Width="1170" Height="450" Text="Meta" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="lblAPV" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="4410" Top="0" Width="990" Height="450" Text="APV" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="lblVenta" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="5400" Top="0" Width="1170" Height="450" Text="Venta" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="lblCuantoxVender" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="6570" Top="0" Width="1350" Height="450" Text="Cuanto Por Vender" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Field" Name="lblClientexAtender" MOD="4" BorderLeftStyle="1" BorderTopStyle="1" BorderRightStyle="1" BorderBottomStyle="1" Left="7920" Top="0" Width="1350" Height="450" Text="Clientes por Atender" OutputFormat="" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 8.25pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="299" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtCodPlayer" DataField="CodPlayer" MOD="4" Left="0" Top="0" Width="900" Height="288" Text="" OutputFormat="" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; " />
+      <Control Type="AR.Field" Name="txtNombre" DataField="NombrePlayer" MOD="4" Left="907.2" Top="0" Width="2332.8" Height="288" Text="" OutputFormat="" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtMeta" DataField="MetaDia" MOD="4" Left="3240" Top="0" Width="1170.72" Height="288" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtAPV" DataField="APV" MOD="4" Left="4410" Top="0" Width="990.72" Height="288" Text="" OutputFormat="#,##0.00" Style="ddo-char-set: 0; text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtVenta" DataField="Venta" MOD="4" Left="5400" Top="0" Width="1170.72" Height="288" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtCuantoxVender" DataField="PorVender" MOD="4" Left="6570" Top="0" Width="1350.72" Height="288" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+      <Control Type="AR.Field" Name="txtClientexAtender" DataField="PorAtender" MOD="4" Left="7920" Top="0" Width="1350.72" Height="288" Text="" OutputFormat="#,##0.00" Style="ddo-char-set: 0; text-align: center; font-weight: normal; font-size: 8.25pt; vertical-align: top; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="15" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="360" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

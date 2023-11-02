@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9630" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="AcrRptDifSAPyDP.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1005" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="350.1575" Top="0" Width="8844.095" Height="1020.472" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="373.5433" Top="113.3858" Width="8844.095" Height="453.5433" Caption="Diferencias Apartados y Defectuosos con SAP" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 14.25pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="620.1575" Top="748.3466" Width="1474.016" Height="226.7716" Caption="Codigo Articulo" Style="font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="2617.874" Top="748.3466" Width="566.929" Height="226.7716" Caption="Talla" Style="font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="7370.079" Top="748.3466" Width="1474.016" Height="226.7716" Caption="Diferencias" Style="font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="3638.346" Top="748.3466" Width="386.9292" Height="226.7716" Caption="Def." Style="font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="4478.818" Top="748.3466" Width="566.9288" Height="226.7716" Caption="Apart." Style="font-size: 9.75pt; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="5442.52" Top="748.3466" Width="1133.858" Height="226.7716" Caption="SAP" Style="font-size: 9.75pt; " />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="9194.252" Y1="680.315" X2="350.1575" Y2="680.315" />
+      <Control Type="AR.Line" Name="Line2" MOD="4" X1="2504.489" Y1="680.315" X2="2504.489" Y2="1020.472" />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="3534.961" Y1="680.315" X2="3534.961" Y2="1020.472" />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="4328.661" Y1="690.315" X2="4328.661" Y2="1030.472" />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="5235.749" Y1="690.315" X2="5235.749" Y2="1030.472" />
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="7049.922" Y1="690.315" X2="7049.922" Y2="1030.472" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="270" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TxtBxCodArt" DataField="CodArticulo" MOD="4" Left="496.7717" Top="0" Width="2040.945" Height="255.1181" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxTalla" DataField="Numero" MOD="4" Left="2651.102" Top="0" Width="793.7007" Height="255.1181" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxDef" DataField="DefecDP" MOD="4" Left="3671.575" Top="0" Width="566.9291" Height="255.1181" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxDefAparDP" MOD="4" Left="7370.079" Top="0" Width="1479.685" Height="255.1181" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxApart" DataField="AparDP" MOD="4" Left="4465.276" Top="0" Width="566.9291" Height="255.1181" Text="" Style="font-size: 9pt; " />
+      <Control Type="AR.Field" Name="TxtBxSAP" DataField="BlockSAP" MOD="4" Left="5329.134" Top="0" Width="1587.401" Height="255.1181" Text="" Style="font-size: 9pt; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="254" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="TxtBxTotal" DataField="DefAparDP" MOD="4" Left="7546.536" Top="0" Width="1587.401" Height="226.7717" Text="" Style="text-align: right; " SummaryType="1" />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="5618.977" Top="0" Width="1587.401" Height="226.7717" Caption="Total de Articulos" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="567" RightMargin="567" TopMargin="1134" BottomMargin="1134" PaperSize="1" PaperWidth="12240" PaperHeight="15840" PaperName="" />
+</ActiveReportsLayout>

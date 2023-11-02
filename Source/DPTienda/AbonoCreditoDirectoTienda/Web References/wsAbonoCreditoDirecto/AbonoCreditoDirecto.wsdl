@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/Credito/AbonoCreditoDirecto" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/AbonoCreditoDirecto" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/AbonoCreditoDirecto">
+      <s:import namespace="http://microsoft.com/wsdl/types/" />
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="InsertAbono">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoCreditoDirecto" type="tns:AbonoCreditoDirectoInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoDPVale" type="tns:AbonoDPValeInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="IVA" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="AbonoCreditoDirectoInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CreditoDirectoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClienteID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Banco" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimCredBanco" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="Plazo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ANombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AApellidoMaterno" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ASexo" type="s1:char" />
+          <s:element minOccurs="0" maxOccurs="1" name="ADomicilio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ACiudad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AColonia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ATelefono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AEMail" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ACP" type="s1:char" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaExpiracion" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="LimiteCredito" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="Saldo" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoVencido" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="CuentaContable" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FirmaDigital" type="s:unsignedByte" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Facturas">
+            <s:complexType>
+              <s:sequence>
+                <s:element ref="s:schema" />
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+          <s:element minOccurs="0" maxOccurs="1" name="FormasDePago">
+            <s:complexType>
+              <s:sequence>
+                <s:element ref="s:schema" />
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AbonoDPValeInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="IDAbono" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodCaja" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IDCliente" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodSegCred" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CodTipAbono" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoAnt" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="PagoMin" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoPago" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldNuevo" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Detalle">
+            <s:complexType>
+              <s:sequence>
+                <s:element ref="s:schema" />
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoDPVale" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PlazaConsecutivo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Referencia" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Bonificacion" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plaza" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertAbonoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertAbonoResult" type="tns:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAbono">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoCreditoDirecto" type="tns:AbonoCreditoDirectoInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoDPVale" type="tns:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAbonoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="SelectCreditoDirectoAll">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OnlyEnabledRecords" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectCreditoDirectoAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectCreditoDirectoAllResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectCreditoDirectoByID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectCreditoDirectoByIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SelectCreditoDirectoByIDResult" type="tns:AbonoCreditoDirectoInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectFacturasByID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectFacturasByIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectFacturasByIDResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectByDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectByDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectByDateResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectAbonosFacturas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AbonoID" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CodCaja" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectAbonosFacturasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectAbonosFacturasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUltimoAbono">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodSegmentoCredito" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUltimoAbonoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetUltimoAbonoResult" type="tns:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectAbonosCxC">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodSegmentoCredito" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Desde" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="Hasta" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="Almacen" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Status" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectAbonosCxCResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectAbonosCxCResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/wsdl/types/">
+      <s:simpleType name="char">
+        <s:restriction base="s:unsignedShort" />
+      </s:simpleType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertAbonoSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertAbono" />
+  </wsdl:message>
+  <wsdl:message name="InsertAbonoSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertAbonoResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAbonoSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteAbono" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAbonoSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteAbonoResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectCreditoDirectoAllSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectCreditoDirectoAll" />
+  </wsdl:message>
+  <wsdl:message name="SelectCreditoDirectoAllSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectCreditoDirectoAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectCreditoDirectoByIDSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectCreditoDirectoByID" />
+  </wsdl:message>
+  <wsdl:message name="SelectCreditoDirectoByIDSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectCreditoDirectoByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectFacturasByIDSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectFacturasByID" />
+  </wsdl:message>
+  <wsdl:message name="SelectFacturasByIDSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectFacturasByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectByDateSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectByDate" />
+  </wsdl:message>
+  <wsdl:message name="SelectByDateSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectByDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectAbonosFacturasSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectAbonosFacturas" />
+  </wsdl:message>
+  <wsdl:message name="SelectAbonosFacturasSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectAbonosFacturasResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUltimoAbonoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUltimoAbono" />
+  </wsdl:message>
+  <wsdl:message name="GetUltimoAbonoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUltimoAbonoResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectAbonosCxCSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectAbonosCxC" />
+  </wsdl:message>
+  <wsdl:message name="SelectAbonosCxCSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectAbonosCxCResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AbonoCreditoDirectoXSoap">
+    <wsdl:operation name="InsertAbono">
+      <wsdl:input message="tns:InsertAbonoSoapIn" />
+      <wsdl:output message="tns:InsertAbonoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAbono">
+      <wsdl:input message="tns:DeleteAbonoSoapIn" />
+      <wsdl:output message="tns:DeleteAbonoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectCreditoDirectoAll">
+      <wsdl:input message="tns:SelectCreditoDirectoAllSoapIn" />
+      <wsdl:output message="tns:SelectCreditoDirectoAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectCreditoDirectoByID">
+      <wsdl:input message="tns:SelectCreditoDirectoByIDSoapIn" />
+      <wsdl:output message="tns:SelectCreditoDirectoByIDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectFacturasByID">
+      <wsdl:input message="tns:SelectFacturasByIDSoapIn" />
+      <wsdl:output message="tns:SelectFacturasByIDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByDate">
+      <wsdl:input message="tns:SelectByDateSoapIn" />
+      <wsdl:output message="tns:SelectByDateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAbonosFacturas">
+      <wsdl:input message="tns:SelectAbonosFacturasSoapIn" />
+      <wsdl:output message="tns:SelectAbonosFacturasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUltimoAbono">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene el ùltimo abono del Asociado.</documentation>
+      <wsdl:input message="tns:GetUltimoAbonoSoapIn" />
+      <wsdl:output message="tns:GetUltimoAbonoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAbonosCxC">
+      <documentation xmlns="http://schemas.xmlsoap.org/wsdl/">Obtiene los Abonos (Credito Directo o DPVale) realizados en un rango de fecha.</documentation>
+      <wsdl:input message="tns:SelectAbonosCxCSoapIn" />
+      <wsdl:output message="tns:SelectAbonosCxCSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AbonoCreditoDirectoXSoap" type="tns:AbonoCreditoDirectoXSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="InsertAbono">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/InsertAbono" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAbono">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/DeleteAbono" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectCreditoDirectoAll">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/SelectCreditoDirectoAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectCreditoDirectoByID">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/SelectCreditoDirectoByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectFacturasByID">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/SelectFacturasByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByDate">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/SelectByDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAbonosFacturas">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/SelectAbonosFacturas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUltimoAbono">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/GetUltimoAbono" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAbonosCxC">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoCreditoDirecto/SelectAbonosCxC" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AbonoCreditoDirectoX">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/" />
+    <wsdl:port name="AbonoCreditoDirectoXSoap" binding="tns:AbonoCreditoDirectoXSoap">
+      <soap:address location="http://localhost/Credito/AbonoCreditoDirecto.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

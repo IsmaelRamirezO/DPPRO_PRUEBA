@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://dpssvr/credito/AbonoDPVALE.asmx?wsdl" docRef="http://dpssvr/credito/AbonoDPVALE.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://dpssvr/credito/AbonoDPVALE.asmx" xmlns:q1="http://tempuri.org/Credito/AbonoDPVale" binding="q1:Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_ValeSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

@@ -1,0 +1,215 @@
+25/05/2011 11:40:34 a.m. --> ERROR AL ACTUALIZAR EL ARCHIVO DPTIENDA.EXE
+
+Detalle --> System.IO.IOException: The process cannot access the file "C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\DPTienda\Source\DPTienda\LiveUpdate\bin\DPTienda.exe" because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.CopiarArchivos(String Ruta, Int64 UltimaV) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 339
+----------------------------------------------------------------------------------------------------
+03/04/2012 02:05:31 p.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 16
+
+Detalle --> System.IO.IOException: Access to the path "C:\LiveUpdate\Archivos" is denied.
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 349
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:23:35 p.m. --> ERROR AL EJECUTAR EL SP EN LA BASE DE DATOS: LINEA 0
+
+Detalle --> System.Data.SqlClient.SqlException: No se encontró el procedimiento almacenado 'GO'.
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.LiveUpdateDataGateway.EjecutaSPVersion(String query) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\LiveUpdateDataGateway.vb:line 300
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:23:46 p.m. --> ERROR ELIMINANDO ARCHIVO EN SP: C:\LIVEUPDATE\ARCHIVOS\SP\SP_20120401.SQL
+
+Detalle --> System.IO.IOException: The process cannot access the file "C:\LiveUpdate\Archivos\SP\SP_20120401.sql" because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 347
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:23:46 p.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 13
+
+Detalle --> System.IO.IOException: The process cannot access the file "C:\LiveUpdate\Archivos\SP" because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 369
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:41:54 p.m. --> ERROR ELIMINANDO ARCHIVO EN SP: C:\LIVEUPDATE\ARCHIVOS\SP\SP_20120401.SQL
+
+Detalle --> System.IO.IOException: The process cannot access the file "C:\LiveUpdate\Archivos\SP\SP_20120401.sql" because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 347
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:41:54 p.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 13
+
+Detalle --> System.IO.IOException: El directorio no está vacío.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 369
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:59:41 p.m. --> ERROR AL EJECUTAR EL SP EN LA BASE DE DATOS: LINEA 0
+
+Detalle --> System.Data.SqlClient.SqlException: No se puede modificar la tabla 'AjustesSalidaXXX' porque no existe en la base de datos 'PTVentaTest'.
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.LiveUpdateDataGateway.EjecutaSPVersion(String query) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\LiveUpdateDataGateway.vb:line 300
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:59:43 p.m. --> ERROR ELIMINANDO ARCHIVO EN SP: C:\LIVEUPDATE\ARCHIVOS\SP\SP_20120401.SQL
+
+Detalle --> System.IO.IOException: The process cannot access the file "C:\LiveUpdate\Archivos\SP\SP_20120401.sql" because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 347
+----------------------------------------------------------------------------------------------------
+12/04/2012 12:59:43 p.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 13
+
+Detalle --> System.IO.IOException: El directorio no está vacío.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 369
+----------------------------------------------------------------------------------------------------
+12/04/2012 01:41:42 p.m. --> ERROR ELIMINANDO ARCHIVO EN SP: C:\LIVEUPDATE\ARCHIVOS\SP\SP_20120401.SQL
+
+Detalle --> System.IO.IOException: The process cannot access the file "C:\LiveUpdate\Archivos\SP\SP_20120401.sql" because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 347
+----------------------------------------------------------------------------------------------------
+12/04/2012 01:41:42 p.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 13
+
+Detalle --> System.IO.IOException: El directorio no está vacío.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 369
+----------------------------------------------------------------------------------------------------
+17/04/2012 01:16:44 p.m. --> ERROR AL DESCARGAR EL ARCHIVO DE LA VERSIÓN
+
+Detalle --> System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.CheckFinalStatus()
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.DescargarArchivoVersion(String RemotePath, String LocalPath) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 488
+----------------------------------------------------------------------------------------------------
+17/04/2012 01:17:54 p.m. --> ERROR AL DESCARGAR EL ARCHIVO DE LA VERSIÓN
+
+Detalle --> System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.CheckFinalStatus()
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.DescargarArchivoVersion(String RemotePath, String LocalPath) in C:\Documents and Settings\XPMUser\Mis documentos\Proyectos\ReporteoDPVF\Application Units\LiveUpdate\frmLiveUpdate.vb:line 488
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:10:05 a.m. --> ERROR AL EJECUTAR EL SP EN LA BASE DE DATOS: LINEA 2
+
+Detalle --> System.Data.SqlClient.SqlException: No se puede abrir la base de datos solicitada en el inicio de sesión 'PTVentaTest'. Error de inicio de sesión.
+Error de inicio de sesión del usuario 'sa'.
+   at System.Data.SqlClient.ConnectionPool.GetConnection(Boolean& isInTransaction)
+   at System.Data.SqlClient.SqlConnectionPoolManager.GetPooledConnection(SqlConnectionString options, Boolean& isInTransaction)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.LiveUpdateDataGateway.EjecutaSPVersion(String query) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\LiveUpdateDataGateway.vb:line 296
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:11:59 a.m. --> ERROR AL EJECUTAR EL SP EN LA BASE DE DATOS: LINEA 2
+
+Detalle --> System.Data.SqlClient.SqlException: No se puede abrir la base de datos solicitada en el inicio de sesión 'PTVentaTest'. Error de inicio de sesión.
+Error de inicio de sesión del usuario 'sa'.
+   at System.Data.SqlClient.ConnectionPool.GetConnection(Boolean& isInTransaction)
+   at System.Data.SqlClient.SqlConnectionPoolManager.GetPooledConnection(SqlConnectionString options, Boolean& isInTransaction)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.LiveUpdateDataGateway.EjecutaSPVersion(String query) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\LiveUpdateDataGateway.vb:line 296
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:11:59 a.m. --> ERROR EJECUTANDO SP: LINEA 8
+
+Detalle --> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EjecutaSP(String RutaScript, String NombreScript) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 288
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:12:07 a.m. --> ERROR AL EJECUTAR DPTIENDA
+
+Detalle --> System.ComponentModel.Win32Exception: El sistema no puede hallar el archivo especificado
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.ActualizarVersion() in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 230
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:18:40 a.m. --> ERROR AL EJECUTAR EL SP EN LA BASE DE DATOS: LINEA 6
+
+Detalle --> System.Data.SqlClient.SqlException: Comilla no cerrada antes de la cadena de caracteres '[dbo].[PedidoFormasPa'.
+Línea 1: sintaxis incorrecta cerca de '[dbo].[PedidoFormasPa'.
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.LiveUpdateDataGateway.EjecutaSPVersion(String query) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\LiveUpdateDataGateway.vb:line 304
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:18:43 a.m. --> ERROR AL EJECUTAR DPTIENDA
+
+Detalle --> System.ComponentModel.Win32Exception: El sistema no puede hallar el archivo especificado
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.ActualizarVersion() in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 230
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:25:36 a.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 8
+
+Detalle --> System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\LiveUpdate\Archivos".
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String fullPath, String userPath, Boolean file)
+   at System.IO.Directory.InternalGetFiles(String path, String userPath, String searchPattern)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 377
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:25:36 a.m. --> ERROR AL EJECUTAR DPTIENDA
+
+Detalle --> System.ComponentModel.Win32Exception: El sistema no puede hallar el archivo especificado
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.ActualizarVersion() in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 230
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:32:17 a.m. --> ERROR ELIMINANDO ARCHIVOS: LINEA 8
+
+Detalle --> System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\LiveUpdate\Archivos".
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String fullPath, String userPath, Boolean file)
+   at System.IO.Directory.InternalGetFiles(String path, String userPath, String searchPattern)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.EliminarArchivos(String Ruta) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 377
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:32:17 a.m. --> ERROR AL EJECUTAR DPTIENDA
+
+Detalle --> System.ComponentModel.Win32Exception: El sistema no puede hallar el archivo especificado
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.ActualizarVersion() in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 230
+----------------------------------------------------------------------------------------------------
+24/06/2013 11:51:14 a.m. --> ERROR AL EJECUTAR EL SP EN LA BASE DE DATOS: LINEA 6
+
+Detalle --> System.Data.SqlClient.SqlException: Comilla no cerrada antes de la cadena de caracteres '[dbo].[PedidoFormasPa'.
+Línea 1: sintaxis incorrecta cerca de '[dbo].[PedidoFormasPa'.
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.LiveUpdateDataGateway.EjecutaSPVersion(String query) in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\LiveUpdateDataGateway.vb:line 304
+----------------------------------------------------------------------------------------------------
+24/06/2013 12:07:31 p.m. --> ERROR AL EJECUTAR DPTIENDA
+
+Detalle --> System.ComponentModel.Win32Exception: El sistema no puede hallar el archivo especificado
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(String fileName)
+   at DportenisPro.DPTienda.ApplicationUnits.LiveUpdateAU.frmLiveUpdate.ActualizarVersion() in C:\Proyectos\VS2003\DPTienda\Source\DPTienda\LiveUpdate\frmLiveUpdate.vb:line 230
+----------------------------------------------------------------------------------------------------

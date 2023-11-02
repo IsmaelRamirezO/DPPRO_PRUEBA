@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="4050" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="ReporteFacturacionSH.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="5024" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="lblQuincenas" Visible="0" MOD="4" Left="2520" Top="2813.149" Width="1391.81" Height="226.7712" Text="" Style="ddo-char-set: 1; text-align: right; font-size: 10pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbNombre" MOD="4" Left="368.5039" Top="3389.054" Width="3543.307" Height="226.7717" Text="Nombre" Style="ddo-char-set: 0; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbFactura" MOD="4" Left="2362.205" Top="2267.717" Width="1549.606" Height="226.7717" Text="FACT" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDomicilio" MOD="4" Left="368.5039" Top="3677.007" Width="3514.961" Height="226.7715" Text="Domicilio" Style="ddo-char-set: 0; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbLugarFecha" MOD="4" Left="368.5039" Top="3101.102" Width="3543.307" Height="228.8981" Text="Lugar Fecha" Style="ddo-char-set: 0; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTipoVenta" MOD="4" Left="368.5038" Top="2813.149" Width="2250" Height="226.7712" Text="TipoVenta" Style="ddo-char-set: 0; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblCaja" MOD="4" Left="368.5039" Top="2527.086" Width="1800" Height="226.7709" Caption="CAJA" Style="ddo-char-set: 0; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblFactura" MOD="4" Left="368.5038" Top="2237.244" Width="1899.213" Height="226.7717" Caption="APLICA A FACTURA: " Style="font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="LblDomTienda" Visible="0" MOD="4" Left="3960" Top="1800" Width="3401.574" Height="226.7717" Caption="Direccion" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="LblTelefono" Visible="0" MOD="4" Left="3960" Top="1440" Width="3401.575" Height="226.7717" Caption="Telefono" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="LblLocaliz" Visible="0" MOD="4" Left="3960" Top="1440" Width="3401.574" Height="226.7717" Caption="Ciudad Estado" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label16" MOD="4" Left="458.5039" Top="1004.173" Width="3401.575" Height="226.7717" Caption="SUCURSAL:" Style="text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label19" Visible="0" MOD="4" Left="3960" Top="1440" Width="3401.574" Height="226.7717" Caption="R.F.C. CDP-950126-9M5" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtDomTienda" Visible="0" MOD="4" Left="3960" Top="1440" Width="3401.575" Height="403.2" Text="Direccion" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TxtTienda" Visible="0" MOD="4" Left="3960" Top="1440" Width="3401.575" Height="226.7717" Text="Tienda" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; vertical-align: top; " />
+      <Control Type="AR.Label" Name="lblCancelacion" MOD="4" Left="368.5038" Top="1967.244" Width="1899.213" Height="226.7717" Caption="FOLIO CANCELACION: " Style="font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbFCancelacion" MOD="4" Left="2362.205" Top="1984.252" Width="1511.811" Height="226.7717" Text="FACT" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="270" Top="178.7718" Width="3746.693" Height="226.7717" Caption="COMERCIAL D'PORTENIS, S.A. DE C.V." Style="text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="548.5039" Top="405.5433" Width="3288.189" Height="314.4567" Caption="Matriz: Melchor Ocampo #1005 Centro" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="3788.504" Top="972.4725" Width="3288.189" Height="206.9291" Caption="C.P. 82000 TEL. 6699155300" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="3788.504" Top="1179.401" Width="3288.189" Height="206.9291" Caption="R.F.C. CDP-950126-9M5" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="548.5039" Top="666.331" Width="3288.189" Height="206.9291" Caption="Mazatlán, Sin." Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label17" MOD="4" Left="548.5039" Top="-47.99995" Width="3288.189" Height="226.7717" Caption="MATRIZ:" Style="ddo-char-set: 0; text-align: center; font-weight: bold; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtInfoSuc" MOD="4" Left="450" Top="1260" Width="3401.28" Height="270" Text="InfoSuc" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Label" Name="lblFechaReimpresa" Visible="0" MOD="4" Left="368.5038" Top="3947.244" Width="1899.213" Height="226.7717" Caption="REIMPRESA:" Style="font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtFechaReimpresion" Visible="0" MOD="4" Left="1530" Top="3962.88" Width="2340" Height="228.8981" Text="Fecha Reimpresión" Style="ddo-char-set: 0; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblLeyendaPago" MOD="4" Left="368.5039" Top="4648.819" Width="3514.961" Height="267.8741" Caption="_____Pago hecho en una sola exhibición_____" Style="ddo-char-set: 1; text-decoration: underline; text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="Line4" MOD="4" X1="349.92" Y1="0" X2="3751.2" Y2="0" />
+      <Control Type="AR.Field" Name="lblEntregado" MOD="4" Left="371.52" Top="4410" Width="3510" Height="270" Text="Entregado" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="LblCopia" MOD="4" Left="453.6" Top="1530.72" Width="3401.28" Height="270.72" Text="COPIA DE FACTURA" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="0" BackColor="16777215" CanShrink="1" />
+    <Section Type="Detail" Name="Detail" Height="585" BackColor="16777215" KeepTogether="1" CanShrink="1">
+      <Control Type="AR.Field" Name="tbConcepto" MOD="4" Left="368.64" Top="250.56" Width="1521.36" Height="288" Text="Concepto" Multiline="0" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbPUnitario" MOD="4" Left="2234.409" Top="0" Width="793.7007" Height="288" Text="$5,200.31" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTotal" MOD="4" Left="3038.031" Top="0" Width="878.7402" Height="288" Text="$99,999.00" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbCantidad" Visible="0" MOD="4" Left="368.5039" Top="0" Width="226.7717" Height="288" Text="99" OutputFormat="###0" Style="ddo-char-set: 0; text-align: left; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbCodigo" MOD="4" Left="368.64" Top="0" Width="1521.36" Height="288" Text="KS-001289-1671" CanShrink="1" Style="ddo-char-set: 0; text-align: left; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbNumero" MOD="4" Left="1871.575" Top="0" Width="368.5039" Height="288" Text="25.5" Style="ddo-char-set: 0; text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbDesc" MOD="4" Left="3060" Top="270" Width="891.496" Height="288" Text="$0.00 -" Multiline="0" CanShrink="1" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTotalConDesc" MOD="4" Left="1178.504" Top="970.1575" Width="992.1259" Height="226.7716" Text="$0.00" Multiline="0" CanGrow="0" Style="ddo-char-set: 0; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label35" MOD="4" Left="458.5041" Top="980.7871" Width="651.9685" Height="226.7715" Caption="TOTAL" Style="text-align: left; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbCantDesc" MOD="4" Left="3060" Top="880.1575" Width="878.4" Height="288" Text="$0.00 -" Multiline="0" CanShrink="1" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="label34" MOD="4" Left="2258.64" Top="250.56" Width="810.72" Height="288" Text="AHORRO" CanShrink="1" Style="ddo-char-set: 1; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="11565" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label27" MOD="4" Left="453.5431" Top="7471.417" Width="566.9291" Height="566.9292" Caption="S H C P" Style="font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Shape" Name="Shape2" MOD="4" Left="425.1967" Top="7473.543" Width="566.9291" Height="566.9291" BackColor="16777215" />
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="425.1967" Top="7471.417" Width="2040.945" Height="3571.654" BackColor="16777215" />
+      <Control Type="AR.Label" Name="Label29" MOD="4" Left="340.1573" Top="8898.662" Width="2154.331" Height="453.5434" Caption="SUBSECRETARIA DE INGRESOS" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label25" MOD="4" Left="1064.409" Top="7948.346" Width="1133.858" Height="226.7715" Caption="C4907687" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label24" MOD="4" Left="1063.701" Top="7721.576" Width="1133.858" Height="226.7722" Caption="D1559715" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label23" MOD="4" Left="1063.701" Top="7494.803" Width="1133.858" Height="226.7709" Caption="FOLIO" Style="text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbSubTotal" MOD="4" Left="2520" Top="450" Width="1359.91" Height="257.2445" Text="" OutputFormat="" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbPlayer" MOD="4" Left="1343.622" Top="3734.646" Width="810" Height="288" Text="" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Subreport" Name="SubReport1" MOD="4" Left="1170" Top="4050" Width="2430" Height="997.087" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="368.5039" Top="3736.063" Width="720" Height="257.2438" Caption="PLAYER:" Style="text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="521.5748" Top="4074.803" Width="566.9291" Height="203.3861" Caption="PAGO:" Style="text-align: right; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="tbTotalLetras" MOD="4" Left="368.5039" Top="3290.315" Width="3514.961" Height="288" Text="" Style="font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label18" MOD="4" Left="2494.488" Top="9625.748" Width="1474.016" Height="1337.245" Caption="CONTRIBUYENTE AUTORIZADO A IMPRIMIR SUS PROPIOS COM- PROBANTES FISCALES" Style="ddo-char-set: 0; text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TxtBxSubTotSinDescto" DataField="TOTAL" MOD="4" Left="2495.208" Top="80.78711" Width="1360.63" Height="226.7717" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " SummaryType="1" />
+      <Control Type="AR.Label" Name="Label20" MOD="4" Left="453.5433" Top="80.78711" Width="1927.559" Height="226.7715" Caption="SUBTOTAL SIN DESC.:" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="TxtSubTotIva" MOD="4" Left="453.5433" Top="440.7874" Width="1927.559" Height="226.7715" Text="" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label26" MOD="4" Left="2494.488" Top="7471.417" Width="1474.016" Height="1814.173" Caption="LA REPRODUCION NO AUTORIZADA DE ESTE COMPRO- BANTE CONSTITU- YE UN DELITO EN LOS TERMINOS DE LAS DISPOSICIO- NES FISCALES" Style="ddo-char-set: 0; text-align: center; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label28" MOD="4" Left="450" Top="8190" Width="1984.252" Height="680.3146" Caption="SECRETARIA DE HACIENDA Y CREDITO PUBLICO" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label30" MOD="4" Left="340.1573" Top="9352.205" Width="2154.331" Height="453.5434" Caption="CEDULA DE IDEN- TIFICACION FISCAL" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label31" MOD="4" Left="340.1573" Top="9805.748" Width="2154.331" Height="206.9291" Caption="CDP-950126-9M5" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label32" MOD="4" Left="453.5431" Top="10032.52" Width="2040.945" Height="453.5438" Caption="COMERCIAL D PORTENIS, S.A. DE C.V." Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="Label33" MOD="4" Left="680.315" Top="10532.83" Width="1474.016" Height="453.5431" Caption="22/03/95 vhjm8hjL2H" Style="text-align: center; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="Line3" MOD="4" X1="350.1576" Y1="33.38582" X2="3751.438" Y2="33.38582" />
+      <Control Type="AR.Field" Name="lblNotas" MOD="4" Left="360" Top="6660" Width="3401.811" Height="226.7717" Text="" Style="ddo-char-set: 0; text-align: justify; font-weight: normal; font-size: 9pt; font-family: Tahoma; " />
+      <Control Type="AR.Subreport" Name="rptNoFacturado" MOD="4" Left="368.64" Top="1530" Width="3600" Height="540" />
+      <Control Type="AR.Label" Name="lblPagoExhNoFacturado" MOD="4" Left="368.64" Top="1170" Width="3514.961" Height="267.8741" Caption="_____Pago hecho en una sola exhibición_____" Style="text-decoration: underline; ddo-char-set: 1; text-align: center; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="Line5" MOD="4" X1="370" Y1="2080" X2="3771.28" Y2="2080" />
+      <Control Type="AR.Label" Name="lblSubtotalSinDesPed" MOD="4" Left="450" Top="2160" Width="1927.559" Height="226.7715" Caption="SUBTOTAL SIN DESC.:" Style="text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSubtotalSinDesPedido" MOD="4" Left="2491.665" Top="2160" Width="1360.63" Height="226.7717" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSubtotalIvaPed" MOD="4" Left="450" Top="2520" Width="1927.559" Height="226.7715" Text="" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtSubTotalPed" MOD="4" Left="2516.457" Top="2529.213" Width="1359.91" Height="257.2445" Text="" OutputFormat="" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="lblPedientePorEntregar" MOD="4" Left="371.52" Top="900" Width="3510" Height="270" Text="Pendiente por entregar" Style="text-align: center; font-weight: bold; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="lblTotalPedido" MOD="4" Left="360" Top="3060" Width="1350" Height="226.7715" Text="TOTAL PEDIDO:" Style="ddo-char-set: 0; text-align: left; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="txtTotalPedido" MOD="4" Left="1710" Top="3060" Width="2160" Height="226.7715" Text="" Style="ddo-char-set: 0; text-align: right; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="lblFirma" MOD="4" Left="353.6219" Top="5264.646" Width="2346.378" Height="288" Text="FIRMA_________________" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Field" Name="lblRecibirPor" MOD="4" Left="353.6219" Top="5534.646" Width="2346.378" Height="288" Text="            RECIBI POR" Style="ddo-char-set: 0; text-align: left; font-weight: normal; font-size: 8.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Subreport" Name="SubReport2" Visible="0" MOD="4" Left="180" Top="7020" Width="720" Height="360" />
+      <Control Type="AR.Field" Name="lblAPagar" MOD="4" Left="360" Top="6030" Width="3401.28" Height="623.52" Text="" Style="font-size: 8.25pt; font-family: Tahoma; " />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" PaperSize="0" PaperWidth="4291" PaperHeight="16834" PaperName="Custom paper" />
+</ActiveReportsLayout>

@@ -1,0 +1,666 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Interop.SAPTableFactoryCtrl.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Interop.IRFC32Lib.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Configuration.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Interop.IRFC32Lib.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Configuration.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Security.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Interop.IRFC32Lib.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Configuration.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPSoft.Framework.Security.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.pdb
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Proyecto\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v4.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v4.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoArticulosAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoMarcas.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoFamiliasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoCategoriasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CatalogoLineasAU.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\DPValeFinanciero\bin\CambioTallaAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DPValeFinanciero.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\ERPConnect.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\ERPConnectLIC.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\NumeroReferencia.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfigSaveArchivos.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ProcesoSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\obj\Debug\DPValeFinanciero.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\DportenisPro.DPTienda.ApplicationUnits.ConfiguracionSAPAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\CatalogoPromocionesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\CatalogoAlmacenesAU.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralAuNuevo.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\DPValeFinanciero\bin\AjusteGeneralTalla.xml

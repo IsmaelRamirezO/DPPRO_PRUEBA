@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CierreCajaAU
+</name>
+</assembly>
+<members>
+<member name="F:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.strURL">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTECompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTMCompleted">
+	<remarks/>
+</member><member name="E:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalCreditoDirectoCompleted">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTE(System.DateTime,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.BeginCalcularTotalDPValeCreditoDirectoTE(System.DateTime,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.EndCalcularTotalDPValeCreditoDirectoTE(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTEAsync(System.DateTime,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTEAsync(System.DateTime,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTM(System.DateTime,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.BeginCalcularTotalDPValeCreditoDirectoTM(System.DateTime,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.EndCalcularTotalDPValeCreditoDirectoTM(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTMAsync(System.DateTime,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalDPValeCreditoDirectoTMAsync(System.DateTime,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalCreditoDirecto(System.DateTime,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.BeginCalcularTotalCreditoDirecto(System.DateTime,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.EndCalcularTotalCreditoDirecto(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalCreditoDirectoAsync(System.DateTime,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CalcularTotalCreditoDirectoAsync(System.DateTime,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CierreCaja">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalDPValeCreditoDirectoTECompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalDPValeCreditoDirectoTECompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalDPValeCreditoDirectoTECompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalDPValeCreditoDirectoTMCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalDPValeCreditoDirectoTMCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalDPValeCreditoDirectoTMCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalCreditoDirectoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalCreditoDirectoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DportenisPro.DPTienda.ApplicationUnits.CierreCaja.wsCierreCaja.CalcularTotalCreditoDirectoCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

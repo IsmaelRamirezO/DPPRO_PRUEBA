@@ -1,0 +1,237 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ApplicationContext.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Data.SQLServer.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll.config
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.Common.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.ExplorerBar.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\PureComponents.NicePanel.fw11.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\AbonosDPVale.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Configuration.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.Security.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.UI.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.GridEX.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\DPSoft.Framework.ExceptionReporting.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\bin\Janus.Windows.CalendarCombo.v2.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.vbprojResolveAssemblyReference.cache
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\AbonoCreditoDirectoTienda\obj\Debug\AbonoCreditoDirectoTienda.pdb

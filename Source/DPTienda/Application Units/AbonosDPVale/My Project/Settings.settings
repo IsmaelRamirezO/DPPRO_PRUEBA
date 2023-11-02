@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="AbonosDPVale_wsAbonoDPVale_Abonos_x0020___x003A__x003A___x0020_Dportenis_x0020_Vale" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://dpssvr/credito/AbonoDPVALE.asmx</Value>
+    </Setting>
+    <Setting Name="AbonosDPVale_wsEstadoDeCuentaAsociado_EstadodeCuentaAsociado" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://dpssvr/Credito/EstadodeCuentaAsociado.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

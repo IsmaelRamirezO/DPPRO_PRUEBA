@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="15030" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptEtiquetasPrecioFactory.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-color: ; background-image: inherit; background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="15014" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtTalla1" DataField="Medidas" MOD="4" Left="180.7199" Top="1645.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF1" DataField="Precio" MOD="4" Left="180" Top="2682" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblTalla1" MOD="4" Left="180" Top="1260" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP1" MOD="4" Left="1890" Top="1260" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP1" DataField="Medidas" MOD="4" Left="1890.72" Top="1645.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF1" MOD="4" Left="180" Top="2250" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtModelo1" DataField="CodArticulo" MOD="4" Left="180" Top="720" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTalla2" DataField="Medidas" MOD="4" Left="3960.72" Top="1645.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF2" DataField="Precio" MOD="4" Left="3960" Top="2682" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblTalla2" MOD="4" Left="3960" Top="1260" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP2" MOD="4" Left="5670" Top="1260" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP2" DataField="Medidas" MOD="4" Left="5670.72" Top="1645.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF2" MOD="4" Left="3960" Top="2250" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtModelo2" DataField="CodArticulo" MOD="4" Left="4050" Top="720" Width="2700" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTalla3" DataField="Medidas" MOD="4" Left="7830.72" Top="1645.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF3" DataField="Precio" MOD="4" Left="7830" Top="2682" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblTalla3" MOD="4" Left="7830" Top="1260" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP3" MOD="4" Left="9540" Top="1260" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP3" DataField="Medidas" MOD="4" Left="9540.72" Top="1645.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF3" MOD="4" Left="7830" Top="2250" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtModelo3" DataField="CodArticulo" MOD="4" Left="7920" Top="720" Width="2700" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTalla4" DataField="Medidas" MOD="4" Left="11700.72" Top="1645.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF4" DataField="Precio" MOD="4" Left="11700" Top="2682" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblTalla4" MOD="4" Left="11700" Top="1260" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP4" MOD="4" Left="13410" Top="1260" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP4" DataField="Medidas" MOD="4" Left="13410.72" Top="1645.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF4" MOD="4" Left="11700" Top="2250" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtModelo4" DataField="CodArticulo" MOD="4" Left="11790" Top="720" Width="2700" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtTalla5" DataField="Medidas" MOD="4" Left="180.7199" Top="5605.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF5" DataField="Precio" MOD="4" Left="180" Top="6642" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode1" MOD="4" Left="180" Top="180" Width="2790" Height="450" Text="0987654321" />
+      <Control Type="AR.Label" Name="lblTalla5" MOD="4" Left="180" Top="5220" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP5" MOD="4" Left="1890" Top="5220" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP5" DataField="Medidas" MOD="4" Left="1890.72" Top="5605.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF5" MOD="4" Left="180" Top="6210" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla6" DataField="Medidas" MOD="4" Left="3960.72" Top="5605.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF6" DataField="Precio" MOD="4" Left="3960" Top="6642" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode2" MOD="4" Left="4050" Top="180" Width="2700" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla6" MOD="4" Left="3960" Top="5220" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP6" MOD="4" Left="5670" Top="5220" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP6" DataField="Medidas" MOD="4" Left="5670.72" Top="5605.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF6" MOD="4" Left="3960" Top="6210" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla7" DataField="Medidas" MOD="4" Left="7830.72" Top="5605.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF7" DataField="Precio" MOD="4" Left="7830" Top="6642" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode3" MOD="4" Left="7920" Top="180" Width="2700" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla7" MOD="4" Left="7830" Top="5220" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP7" MOD="4" Left="9540" Top="5220" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP7" DataField="Medidas" MOD="4" Left="9540.72" Top="5605.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF7" MOD="4" Left="7830" Top="6210" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla8" DataField="Medidas" MOD="4" Left="11700.72" Top="5605.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF8" DataField="Precio" MOD="4" Left="11700" Top="6642" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode4" MOD="4" Left="11790" Top="180" Width="2700" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla8" MOD="4" Left="11700" Top="5220" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP8" MOD="4" Left="13410" Top="5220" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP8" DataField="Medidas" MOD="4" Left="13410.72" Top="5605.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF8" MOD="4" Left="11700" Top="6210" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla9" DataField="Medidas" MOD="4" Left="180.7199" Top="9295.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF9" DataField="Precio" MOD="4" Left="180" Top="10332" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode5" MOD="4" Left="180" Top="4140" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla9" MOD="4" Left="180" Top="8910" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP9" MOD="4" Left="1890" Top="8910" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP9" DataField="Medidas" MOD="4" Left="1890.72" Top="9295.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF9" MOD="4" Left="180" Top="9900" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla10" DataField="Medidas" MOD="4" Left="3960.72" Top="9295.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF10" DataField="Precio" MOD="4" Left="3960" Top="10332" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode6" MOD="4" Left="3960" Top="4140" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla10" MOD="4" Left="3960" Top="8910" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP10" MOD="4" Left="5670" Top="8910" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP10" DataField="Medidas" MOD="4" Left="5670.72" Top="9295.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF10" MOD="4" Left="3960" Top="9900" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla11" DataField="Medidas" MOD="4" Left="7830.72" Top="9295.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF11" DataField="Precio" MOD="4" Left="7830" Top="10332" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode7" MOD="4" Left="7830" Top="4140" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla11" MOD="4" Left="7830" Top="8910" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP11" MOD="4" Left="9540" Top="8910" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP11" DataField="Medidas" MOD="4" Left="9540.72" Top="9295.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF11" MOD="4" Left="7830" Top="9900" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla12" DataField="Medidas" MOD="4" Left="11700.72" Top="9295.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF12" DataField="Precio" MOD="4" Left="11700" Top="10332" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode8" MOD="4" Left="11700" Top="4140" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla12" MOD="4" Left="11700" Top="8910" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP12" MOD="4" Left="13410" Top="8910" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP12" DataField="Medidas" MOD="4" Left="13410.72" Top="9295.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF12" MOD="4" Left="11700" Top="9900" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla13" DataField="Medidas" MOD="4" Left="180.7199" Top="12985.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF13" DataField="Precio" MOD="4" Left="180" Top="14022" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode9" MOD="4" Left="180" Top="7830" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla13" MOD="4" Left="180" Top="12600" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP13" MOD="4" Left="1890" Top="12600" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP13" DataField="Medidas" MOD="4" Left="1890.72" Top="12985.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF13" MOD="4" Left="180" Top="13590" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla14" DataField="Medidas" MOD="4" Left="3960.72" Top="12985.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF14" DataField="Precio" MOD="4" Left="3960" Top="14022" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode10" MOD="4" Left="3960" Top="7830" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla14" MOD="4" Left="3960" Top="12600" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP14" MOD="4" Left="5670" Top="12600" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP14" DataField="Medidas" MOD="4" Left="5670.72" Top="12985.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF14" MOD="4" Left="3960" Top="13590" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla15" DataField="Medidas" MOD="4" Left="7830.72" Top="12985.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF15" DataField="Precio" MOD="4" Left="7830" Top="14022" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode11" MOD="4" Left="7830" Top="7830" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla15" MOD="4" Left="7830" Top="12600" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP15" MOD="4" Left="9540" Top="12600" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP15" DataField="Medidas" MOD="4" Left="9540.72" Top="12985.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF15" MOD="4" Left="7830" Top="13590" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Field" Name="txtTalla16" DataField="Medidas" MOD="4" Left="11700.72" Top="12985.2" Width="1079.28" Height="288" Text="29.0" OutputFormat="" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtPrecioF16" DataField="Precio" MOD="4" Left="11700" Top="14022" Width="2790" Height="288" Text="1102.46" OutputFormat="$#,##0.00" Style="text-align: center; font-size: 12pt; font-family: Arial; " />
+      <Control Type="AR.Barcode" Name="Barcode12" MOD="4" Left="11700" Top="7830" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Label" Name="lblTalla16" MOD="4" Left="11700" Top="12600" Width="1080" Height="270" Caption="Talla" Style="text-align: center; " />
+      <Control Type="AR.Label" Name="lblPrecioP16" MOD="4" Left="13410" Top="12600" Width="1080" Height="270" Caption="Precio Público" Style="text-align: center; " />
+      <Control Type="AR.Field" Name="txtPrecioP16" DataField="Medidas" MOD="4" Left="13410.72" Top="12985.2" Width="1079.28" Height="288" Text="1501.23" OutputFormat="$#,##0.00" Style="text-decoration: line-through; text-align: center; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Label" Name="lblPrecioF16" MOD="4" Left="11700" Top="13590" Width="2790" Height="270" Caption="Precio Factory" Style="text-align: center; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Barcode" Name="Barcode13" MOD="4" Left="180" Top="11520" Width="2790" Height="450" Text="Barcode13" />
+      <Control Type="AR.Barcode" Name="Barcode14" MOD="4" Left="3960" Top="11520" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Barcode" Name="Barcode15" MOD="4" Left="7830" Top="11520" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Barcode" Name="Barcode16" MOD="4" Left="11700" Top="11520" Width="2790" Height="450" Text="Barcode1" />
+      <Control Type="AR.Field" Name="txtModelo5" DataField="CodArticulo" MOD="4" Left="180" Top="4680" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo6" DataField="CodArticulo" MOD="4" Left="3960" Top="4680" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo7" DataField="CodArticulo" MOD="4" Left="7830" Top="4680" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo8" DataField="CodArticulo" MOD="4" Left="11700" Top="4680" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo9" DataField="CodArticulo" MOD="4" Left="180" Top="8370" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo10" DataField="CodArticulo" MOD="4" Left="3960" Top="8370" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo11" DataField="CodArticulo" MOD="4" Left="7830" Top="8370" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo12" DataField="CodArticulo" MOD="4" Left="11700" Top="8370" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo13" DataField="CodArticulo" MOD="4" Left="180" Top="12060" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo14" DataField="CodArticulo" MOD="4" Left="3960" Top="12060" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo15" DataField="CodArticulo" MOD="4" Left="7830" Top="12060" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+      <Control Type="AR.Field" Name="txtModelo16" DataField="CodArticulo" MOD="4" Left="11700" Top="12060" Width="2790" Height="288" Text="MODELO" Style="ddo-char-set: 0; text-align: left; font-size: 9.75pt; font-family: Arial; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="0" BackColor="16777215" CanShrink="0" />
+  </Sections>
+  <PageSettings LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" PaperSize="9" PaperWidth="11906" PaperHeight="16838" PaperName="" />
+</ActiveReportsLayout>

@@ -1,0 +1,72 @@
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Proyectos .NET\Dportenis PRO\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\josue.nava\Documents\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_S2CREDIT\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\sfactory01\Desktop\Proyectos .NET\DPPRO2010\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\josue.nava\Documents\Proyectos\DPPRO2010_TRUNK_S2CREDIT_AFS\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO 2010 - Repote De Tarjetas 2-2\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\abel.sanchez\Documents\DpproBlue\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\abel.sanchez\Documents\DPPRO_GIT\DPPRO_Controles_seguridad_pendientes\DPPRO_LEALTAD_BLUE\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\hec2\Documents\Proyectos .NET\DPPRO_LEALTAD_BLUE-master\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\MQTT\bin\MQTT.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\MQTT\bin\MQTT.pdb
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\MQTT\bin\MQTT.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\MQTT\obj\Debug\MQTT.dll
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\MQTT\obj\Debug\MQTT.xml
+C:\Users\hec2\Documents\Proyectos .NET GIT\DPPRO\DPPRO_MAIN\Source\DPTienda\MQTT\obj\Debug\MQTT.pdb

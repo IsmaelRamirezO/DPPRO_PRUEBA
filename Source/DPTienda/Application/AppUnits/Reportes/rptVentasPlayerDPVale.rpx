@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10050" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="rptVentasPlayerDPVale.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="1440" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="0" Top="0" Width="9990" Height="1440" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="3502.5" Top="90" Width="3240" Height="288" Caption="ANALISIS DE VENTAS POR PLAYERS" Style="ddo-char-set: 1; text-align: center; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="3150" Top="360" Width="360" Height="288" Caption="De:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="5220" Top="360" Width="302.5981" Height="288" Caption="A:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFechaReporte" MOD="4" Left="720" Top="90" Width="1620" Height="288" Text="TextBox1" OutputFormat="dd/MM/yyyy" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFechaDe" MOD="4" Left="3600" Top="360" Width="1440" Height="288" Text="TextBox1" OutputFormat="dd/MM/yyyy" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtFechaA" MOD="4" Left="5670" Top="360" Width="1440" Height="288" Text="TextBox2" OutputFormat="dd/MM/yyyy" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="2790" Top="630" Width="934.7247" Height="288" Caption="Sucursal:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtSucursal" MOD="4" Left="3780" Top="630" Width="3690" Height="288" Text="TextBox1" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label13" MOD="4" Left="90" Top="90" Width="630" Height="288" Caption="Fecha:" Style="ddo-char-set: 1; font-weight: bold; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="90" Top="990" Width="873.7796" Height="288" Caption="CODIGO" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="990" Top="990" Width="2430" Height="288" Caption="NOMBRE" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label12" MOD="4" Left="3510" Top="990" Width="571.8899" Height="288" Caption="PZAS." Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label7" MOD="4" Left="4140" Top="990" Width="1080" Height="450" Caption="IMPORTE NETO" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="5310" Top="990" Width="630" Height="288" Caption="% IND." Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label11" MOD="4" Left="6030" Top="990" Width="540" Height="450" Caption="PZAS. N.C." Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label9" MOD="4" Left="6660" Top="990" Width="900" Height="450" Caption="IMPORTE NC" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label10" MOD="4" Left="7650" Top="990" Width="1260" Height="450" Caption="IMPORTE TOTAL" Style="ddo-char-set: 1; text-align: center; font-size: 8pt; " />
+      <Control Type="AR.Label" Name="Label15" MOD="4" Left="9000" Top="990" Width="990" Height="450" Caption="NUM. FACTURAS" Style="text-align: center; font-size: 8.25pt; " />
+      <Control Type="AR.Line" Name="Line6" MOD="4" X1="0" Y1="990" X2="9990" Y2="990" />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="270" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtCodigo" DataField="CodVendedor" MOD="4" Left="90" Top="0" Width="873.7796" Height="270" Text="" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtNombre" DataField="Nombre" MOD="4" Left="990" Top="0" Width="2430" Height="270" Text="" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtPzasF" DataField="PzasTotales" MOD="4" Left="3510" Top="0" Width="594.567" Height="270" Text="" OutputFormat="#,##0" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtINeto" DataField="ImporteNeto" MOD="4" Left="4140" Top="0" Width="1080" Height="270" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtPInd" DataField="Porc" MOD="4" Left="5310" Top="0" Width="630" Height="270" Text="" OutputFormat="0.00%" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtPzasNC" DataField="PzasNC" MOD="4" Left="6030" Top="0" Width="540" Height="270" Text="" OutputFormat="#,##0" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtINC" DataField="ImporteNC" MOD="4" Left="6660" Top="0" Width="900" Height="270" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtITotal" DataField="ImporteTotal" MOD="4" Left="7650" Top="0" Width="1260" Height="270" Text="" OutputFormat="$#,##0.00" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="TextBox2" DataField="NumFact" MOD="4" Left="9000" Top="0" Width="900" Height="270" Text="" OutputFormat="#,##0" Style="ddo-char-set: 1; text-align: right; font-size: 8pt; " />
+      <Control Type="AR.Line" Name="Line7" MOD="4" X1="14.4" Y1="0" X2="14.4" Y2="432" />
+      <Control Type="AR.Line" Name="Line8" MOD="4" X1="9979.2" Y1="0" X2="9979.2" Y2="432" />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="480" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="Shape4" MOD="4" Left="0" Top="0" Width="9990" Height="450" BackColor="16777215" LineWeight="2" />
+      <Control Type="AR.Field" Name="txtPzasGlobal" DataField="PzasTotales" MOD="4" Left="3510" Top="90" Width="594.5668" Height="288" Text="" OutputFormat="#,##0" Style="text-align: right; font-size: 8.25pt; " SummaryType="1" SummaryRunning="2" />
+      <Control Type="AR.Field" Name="txtSumINeto" DataField="ImporteNeto" MOD="4" Left="4140" Top="90" Width="1075.748" Height="288" Text="" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " SummaryType="1" SummaryRunning="2" />
+      <Control Type="AR.Field" Name="txtSumPzasNC" DataField="PzasNC" MOD="4" Left="6030" Top="90" Width="540" Height="288" Text="" OutputFormat="#,##0" Style="text-align: right; font-size: 8.25pt; " SummaryType="1" SummaryRunning="2" />
+      <Control Type="AR.Field" Name="txtSumINC" DataField="ImporteNC" MOD="4" Left="6660" Top="90" Width="900" Height="288" Text="" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " SummaryType="1" SummaryRunning="2" />
+      <Control Type="AR.Field" Name="txtSumITotal" DataField="ImporteTotal" MOD="4" Left="7650" Top="90" Width="1307.481" Height="288" Text="" OutputFormat="$#,##0.00" Style="text-align: right; font-size: 8.25pt; " SummaryType="1" SummaryRunning="2" />
+      <Control Type="AR.Field" Name="txtFactGlobal" DataField="NumFact" MOD="4" Left="9000" Top="90" Width="900" Height="270" Text="" OutputFormat="#,##0" Style="text-align: right; font-size: 8.25pt; " SummaryType="1" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="lblAPV" Visible="0" MOD="4" Left="180" Top="90" Width="990" Height="270" Caption="APV del dia:" Style="ddo-char-set: 1; font-size: 8pt; " />
+      <Control Type="AR.Field" Name="txtAPV" Visible="0" MOD="4" Left="1260" Top="90" Width="990" Height="270" Text="" OutputFormat="#,##0" Style="text-align: right; font-size: 8.25pt; " SummaryFunc="15" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="706" RightMargin="706" TopMargin="720" PaperSize="9" PaperWidth="11906" PaperHeight="16838" PaperName="" Orientation="1" />
+</ActiveReportsLayout>

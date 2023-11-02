@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/Credito/AbonoDPVale" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/Credito/AbonoDPVale" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/Credito/AbonoDPVale">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="Insert">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoDPVale" type="s0:AbonoDPValeInfo" />
+            <s:element minOccurs="1" maxOccurs="1" name="Iva" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="AbonoDPValeInfo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="IDAbono" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodAlmacen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodCaja" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IDCliente" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodSegCred" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CodTipAbono" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoAnt" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="PagoMin" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="MontoPago" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="SaldNuevo" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusRegistro" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Detalle">
+            <s:complexType>
+              <s:sequence>
+                <s:element ref="s:schema" />
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+          <s:element minOccurs="1" maxOccurs="1" name="SaldoDPVale" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="AsociadoID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PlazaConsecutivo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Referencia" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Bonificacion" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertResult" type="s0:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Update">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoDPVale" type="s0:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateResult" type="s0:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Delete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="oAbonoDPVale" type="s0:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="SelectCreditoDPValeAll">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OnlyEnabledRecords" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectCreditoDPValeAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectCreditoDPValeAllResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUltimoAbono">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodSegmentoCredito" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="AsociadoId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUltimoAbonoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetUltimoAbonoResult" type="s0:AbonoDPValeInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="InsertSoapIn">
+    <part name="parameters" element="s0:Insert" />
+  </message>
+  <message name="InsertSoapOut">
+    <part name="parameters" element="s0:InsertResponse" />
+  </message>
+  <message name="UpdateSoapIn">
+    <part name="parameters" element="s0:Update" />
+  </message>
+  <message name="UpdateSoapOut">
+    <part name="parameters" element="s0:UpdateResponse" />
+  </message>
+  <message name="DeleteSoapIn">
+    <part name="parameters" element="s0:Delete" />
+  </message>
+  <message name="DeleteSoapOut">
+    <part name="parameters" element="s0:DeleteResponse" />
+  </message>
+  <message name="SelectCreditoDPValeAllSoapIn">
+    <part name="parameters" element="s0:SelectCreditoDPValeAll" />
+  </message>
+  <message name="SelectCreditoDPValeAllSoapOut">
+    <part name="parameters" element="s0:SelectCreditoDPValeAllResponse" />
+  </message>
+  <message name="GetUltimoAbonoSoapIn">
+    <part name="parameters" element="s0:GetUltimoAbono" />
+  </message>
+  <message name="GetUltimoAbonoSoapOut">
+    <part name="parameters" element="s0:GetUltimoAbonoResponse" />
+  </message>
+  <portType name="Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_ValeSoap">
+    <operation name="Insert">
+      <documentation>Inserta un Abono Dportenis Vale.</documentation>
+      <input message="s0:InsertSoapIn" />
+      <output message="s0:InsertSoapOut" />
+    </operation>
+    <operation name="Update">
+      <documentation>Actualiza un Abono Dportenis Vale.</documentation>
+      <input message="s0:UpdateSoapIn" />
+      <output message="s0:UpdateSoapOut" />
+    </operation>
+    <operation name="Delete">
+      <documentation>Elimina un Abono Dportenis Vale.</documentation>
+      <input message="s0:DeleteSoapIn" />
+      <output message="s0:DeleteSoapOut" />
+    </operation>
+    <operation name="SelectCreditoDPValeAll">
+      <documentation>Selecciona los Asociados con Crèdito Dportenis Vale.</documentation>
+      <input message="s0:SelectCreditoDPValeAllSoapIn" />
+      <output message="s0:SelectCreditoDPValeAllSoapOut" />
+    </operation>
+    <operation name="GetUltimoAbono">
+      <documentation>Obtiene el ùltimo abono del Asociado.</documentation>
+      <input message="s0:GetUltimoAbonoSoapIn" />
+      <output message="s0:GetUltimoAbonoSoapOut" />
+    </operation>
+  </portType>
+  <binding name="Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_ValeSoap" type="s0:Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_ValeSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="Insert">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoDPVale/Insert" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="Update">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoDPVale/Update" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="Delete">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoDPVale/Delete" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="SelectCreditoDPValeAll">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoDPVale/SelectCreditoDPValeAll" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="GetUltimoAbono">
+      <soap:operation soapAction="http://tempuri.org/Credito/AbonoDPVale/GetUltimoAbono" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_Vale">
+    <port name="Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_ValeSoap" binding="s0:Abonos_x0020_._x003A__x003A_._x0020_Dportenis_x0020_ValeSoap">
+      <soap:address location="http://dpssvr/credito/AbonoDPVALE.asmx" />
+    </port>
+  </service>
+</definitions>
