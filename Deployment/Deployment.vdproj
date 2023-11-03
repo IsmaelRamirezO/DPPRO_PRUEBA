@@ -1,6 +1,6 @@
 "DeployProject"
 {
-"VSVersion" = "3:800"
+"VSVersion" = "3:800" 
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
 "ProjectName" = "8:Deployment"
@@ -14240,11 +14240,11 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ReportHistoricoDosA駉s, Version=1.0.5891.30674, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:ReportHistoricoDosA艅os, Version=1.0.5891.30674, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                 }
-            "SourcePath" = "8:ReportHistoricoDosA駉s.dll"
+            "SourcePath" = "8:ReportHistoricoDosA艅os.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_89B4F7C2B57841A2969AAFB442F67299"
@@ -14846,7 +14846,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_22A0058512A24839A1713A78A0F55D12"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:Carpeta de instalaci髇"
+                    "DisplayName" = "8:Carpeta de instalaci贸n"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
@@ -14918,7 +14918,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_BAF5EF9988C9469A96E7D9EB7B666775"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:Confirmar instalaci髇"
+                    "DisplayName" = "8:Confirmar instalaci贸n"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
@@ -15049,7 +15049,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2FCF4C0E9BD94CC2A972735E821F2F7F"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:Carpeta de instalaci髇"
+                    "DisplayName" = "8:Carpeta de instalaci贸n"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
@@ -15119,7 +15119,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F71CEF3BE625471A8598094B1DC61936"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:Confirmar instalaci髇"
+                    "DisplayName" = "8:Confirmar instalaci贸n"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
